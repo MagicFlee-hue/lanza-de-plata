@@ -120,8 +120,7 @@ El Player's Handbook 2024 reemplaza todo lo que tenga una versión nueva. Lo de 
 | Fey Touched (Tasha) | Si usas esta versión, no da +1 a un atributo: una vez por descanso largo das +2 a un atributo (elegido al tomar la dote) durante 24 horas |
 | Theki Root (Wildemount) | Solo protege contra venenos ingeridos |
 
-!!! pendiente "Por revisar (DM)"
-    Book of Ebon Tides (Kobold Press) estaba permitido completo con un periodo de prueba que terminó en abril de 2025. Decide si sigue permitido.
+**Book of Ebon Tides (Kobold Press)** ya no está permitido completo. Si quieres una especie, subclase u objeto de ese libro, pídelo al DM como cualquier opción homebrew.
 
 ## 5. Los tiers de aventura
 
@@ -189,22 +188,24 @@ Un curso intensivo del Puño de los Dioses que te sube al siguiente nivel y al s
 
 Por 1 Día de Descanso puedes pedir audiencia en el Bastión de Danerion para que un sacerdote lance un conjuro por ti. El costo de los componentes materiales se puede repartir entre el grupo. Los personajes que tengan los permisos necesarios también pueden ofrecer estos servicios.
 
-| Conjuro | Costo |
-|---|---|
-| Mending | 2 po |
-| Remove Curse (sobre criaturas) | 5 po |
-| Cure Wounds (nivel 1) | 10 po |
-| Identify | 20 po |
-| Lesser Restoration | 40 po |
-| Prayer of Healing (nivel 2) | 40 po |
-| Dispel Magic | 90 po |
-| Remove Curse | 90 po |
-| Speak With Death | 210 po |
-| Divination | 210 po |
-| Continual Flame (nivel 3) | 350 po |
-| Greater Restoration | 450 po |
-| Revivify | 20.000 po |
-| Raise Dead* | 40.000 po |
+| Servicio | Precio | Componente que aportas |
+|---|---|---|
+| Mending | 2 po | — |
+| Remove Curse sobre una criatura | 5 po | — |
+| Remove Curse sobre un objeto | 90 po | — |
+| Cure Wounds | 10 po | — |
+| Identify | 20 po | — |
+| Lesser Restoration | 40 po | — |
+| Prayer of Healing | 40 po | — |
+| Dispel Magic | 90 po | — |
+| Speak with Dead | 210 po | — |
+| Divination | 210 po | Incienso y una ofrenda (25 po) |
+| Continual Flame | 350 po | Polvo de rubí (50 po) |
+| Greater Restoration | 450 po | Polvo de diamante (100 po) |
+| Revivify | 1.500 po | Diamante (300 po) |
+| Raise Dead | 10.000 po | Diamante (500 po) |
+
+El precio es solo el del lanzamiento. Si el conjuro pide un componente con costo, lo aportas tú: el templo no lo pone. Aaredale **no tiene diamantes**, así que hay que conseguirlos en expedición.
 
 Cada conjuro que impone una penalización (por ejemplo, Raise Dead) requiere 7 Días de Descanso para reducirla en 1.
 
@@ -401,6 +402,10 @@ Una exploración tiene éxito si revela al menos **6 hexes**. En una sesión de 
 ## 13. Economía y niveles altos
 
 Notas para mantener la coherencia de la economía y del mundo.
+
+### Diamantes
+
+En Aaredale no hay diamantes: no se venden ni se fabrican. Ningún conjuro, rasgo u objeto (Wish, Fabricate, Creation, True Polymorph, la Piedra Filosofal del Sabio…) puede crearlos. Si un conjuro los pide como componente, hay que conseguirlos en expedición.
 
 ### Piezas de platino
 
