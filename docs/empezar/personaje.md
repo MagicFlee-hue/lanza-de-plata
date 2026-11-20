@@ -3,7 +3,7 @@
 Las reglas completas están en el [Manual básico](../documentos/manual-basico.md). En resumen:
 
 1. **Elige especie, clase y trasfondo** de los [libros permitidos](../documentos/manual-basico.md#1-libros-permitidos). El trasfondo te da los aumentos de atributo y una dote de origen.
-2. **Tira tus atributos** (solo tu primer personaje): 4d6 descartando el dado más bajo, 7 veces, y descartas el resultado más bajo.
+2. **Genera tus atributos.** Tu primer personaje tira 4d6 descartando el dado más bajo, 7 veces, y descarta el resultado más bajo. Los siguientes usan compra de puntos (27).
 3. **Toma tu equipo**: el de tu clase, el de tu trasfondo (o 50 po) y los **50 po y el mapa** que te da el Cuerpo de Aventureros.
 4. **Regístralo** en la hoja de registro de personajes.
 
