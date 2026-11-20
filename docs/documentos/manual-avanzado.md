@@ -288,6 +288,14 @@ Puedes vender a un NPC un objeto mágico que ya no quieras. El objeto se pierde 
 | 11 – 20 | 200 | 2.000 | 16.000 | 80.000 |
 | 21 o más | 300 | 3.000 | 19.200 | 100.000 |
 
+#### Yusuf, el mercader planeswalker
+
+**Yusuf** es un mercader que viaja entre planos y aparece cuando menos lo esperas. Compra objetos mágicos a **la mitad de su valor**, bastante más de lo que paga cualquiera en Aaredale.
+
+- Al empezar cada sesión hay un **10 %** de que aparezca. Cada sesión sin aparecer suma otro 10 %, hasta que aparece; entonces vuelve al 10 %.
+- Valores de referencia: poco común 2.000–3.000 po, raro 8.000–12.000 po, muy raro 40.000–60.000 po, legendario 160.000–200.000 po. El DM fija el valor exacto de cada objeto.
+- Lo que le vendes a Yusuf se va de este mundo. No hay forma de recuperarlo.
+
 ### 7.12 Entrenar otra clase (multiclase)
 
 Para ganar un nivel en una clase distinta a la principal necesitas un **maestro** de esa clase (y de la misma subclase, si ya la tienes). Si es un NPC, le pagas según esta tabla, más un 10 % de impuestos a la Administración de Aaredale. Si es el personaje de otro jugador, acuerdan un precio menor y deben haber hecho juntos una expedición exitosa. No hay maestros NPC de todas las subclases.
