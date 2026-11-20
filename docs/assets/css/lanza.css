@@ -244,3 +244,14 @@ a:focus-visible, button:focus-visible, .md-button:focus-visible {
   .md-typeset .tesoro { padding: .1rem .3rem .3rem; margin-left: -.4rem; margin-right: -.4rem; }
   .md-typeset .tesoro td:first-child, .md-typeset .tesoro th:first-child { width: 3.6rem; padding-left: .5em; }
 }
+
+/* ---------- Descripciones flotantes de objetos ---------- */
+.md-typeset td.con-desc { cursor: help; text-decoration: underline dotted rgba(244,185,66,.55); text-underline-offset: .22em; }
+.md-typeset td.con-desc:focus { outline: 1px solid var(--faro); outline-offset: -1px; }
+.objeto-globo {
+  position: fixed; z-index: 100; display: none;
+  background: #0f1120; color: var(--pergamino); border: 1px solid var(--faro);
+  border-radius: 3px; padding: .55rem .75rem; font-size: .78rem; line-height: 1.45;
+  box-shadow: 0 8px 28px rgba(0,0,0,.6); pointer-events: none;
+  font-family: "Cardo", Georgia, serif;
+}
