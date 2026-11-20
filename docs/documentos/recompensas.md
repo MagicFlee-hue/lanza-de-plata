@@ -48,8 +48,7 @@ Cuando una misión de lore llama la atención de **Tyr, Helm o Torm**, el DM pue
 
 Los dones no se compran: solo los da el DM como premio de una misión.
 
-!!! pendiente "Propuesta (DM)"
-    Límite sugerido: una Bendición por personaje en cada tier.
+**Límite de dones a la vez:** 1 en Tier 1 y Tier 2, y 2 en Tier 3 y Tier 4. Si recibes uno nuevo con el límite lleno, eliges cuál conservas.
 
 ## Objetos mágicos a elección
 
