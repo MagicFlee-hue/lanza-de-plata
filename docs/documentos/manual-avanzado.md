@@ -1,25 +1,17 @@
 # Manual avanzado
 
-!!! pendiente "Borrador importado (versión 3.0 del documento original)"
-    Este texto se pasó automáticamente desde el PDF. Revísalo y adáptalo a tu mesa: referencias a Roll20, canales de Discord, MCs o al servidor original pueden no aplicar.
+Las reglas completas de La Lanza de Plata para D&D 5.5. Si es tu primera vez, empieza por el [Manual básico](manual-basico.md): aquí está todo lo demás.
 
-## Balance de juego avanzado y Lore
+!!! info "Regla de oro"
+    Si una regla de este manual choca con el Player's Handbook 2024, manda este manual. Si algo no está aquí, manda el Player's Handbook 2024.
 
-### 12. Campamentos y características
+## 1. Qué es La Lanza de Plata
 
-Acampar................................................................................21 Acompañantes.....................................................................21 Torres, Bastiones y ciduades aliadas..............................21
+La Lanza de Plata es una campaña *west marches* en un mundo compartido: el sur de Faerûn, en la meseta de Shaar. Los personajes son aventureros que llegaron a Aaredale y se inscribieron en el **Cuerpo de Aventureros de la Lanza de Plata**, que explora la oscuridad por encargo del Puño de los Dioses.
 
-## Registro de Cambios Agradecimientos 1. ¿Qué es La Lanza de Plata?
+No hay un grupo fijo. Cada semana el DM arma las mesas con los personajes disponibles, según su tier, su clase y el tiempo que llevan sin jugar. Al terminar cada expedición, un jugador entrega el informe al Puño de los Dioses, y ese informe queda como referencia para los siguientes aventureros.
 
-Es una modalidad de juego de D&D 5e donde los participantes juegan en un mundo compartido, Faerûn. Los personajes de los jugadores son aventureros que han llegado a la ciudad de Aaredale y participan de manera conjunta en los esfuerzos de exploración y pacificación de la zona. En Aaredale, la taberna de La Lanza de Plata es un punto de encuentro y organización para todos los aventureros ansiosos de salir de viaje. La partida se lleva a cabo conjuntamente entre el servidor de Discord y las mesas virtuales de los MCs. Los jugadores son quienes deciden juntarse en grupos para explorar los puntos de interés. Al componerse un grupo de aventureros, pueden solicitar a un MC que haya anunciado su disponibilidad horaria o pueden simplemente anunciar el grupo y el destino que quieren visitar y esperar a que un MC la tome. Al terminar la partida, el responsable de la expedición reportará los acontecimientos frente a los Paladines del Bastión de Danerion en un mensaje en #resúmenes. Estas entradas serán accesibles y servirán de referencia a futuros exploradores.
-
-## 2. ¿Cómo comienzo a jugar?
-
-Sigue los siguientes pasos: ⦁ Crea un personaje de acuerdo con las pautas establecidas en el Manual para Nuevos Jugadores. ⦁ Completa el registro-de-personajes de registro de tu personaje que se encuentra en los mensajes anclados de #registro-de-personajes (capítulo 8.1). ⦁ Escoge un punto de interés Solicita unirte a una expedición ya preparada que encontrarás en #expediciones o ponte de acuerdo con un MC para organizarla tú a través de #player-chat (capítulo 10). Puedes usar la información en https://www.lanzadeplata.com/map.html ⦁ Ponte de acuerdo con otros jugadores para programar la sesión a través de la #mesa escogida. Recuerda que no puedes estar de titular con el mismo personaje en más de una expedición y que si estás organizando tú una no puedes estar de suplente en ninguna otra. ⦁ Para iniciarte rápidamente en el servidor, solo es necesario leer el Manual para Nuevos Jugadores. Si no sabes nada de D&D 5e puedes incluso solicitar una ficha pregenerada por #soporte, explicado también en el Manual para Nuevos Jugadores.
-
-CAPÍTULOS 1 y 2
-
-## 3. Prólogo
+## 2. Prólogo
 
 En una taberna perdida de alguna remota aldea situada al sur de Faerûn, donde una alegre música llena el lugar junto al olor de una buena bebida, un joven campesino, exhausto, rompe con el desorden y capta la atención de hasta el último aventurero. Con el rostro descompuesto, gotas de sudor bajando por su frente y sin apenas poder articular palabra, advierte entre lágrimas que todo aquello que conoce ha sido devorado por la oscuridad y por los seres que habitan en ella, suplicando a todo el mundo que corra antes que sea demasiado tarde. Quizás porqué el joven pareciera un lunático más afectado por la bebida y el desmadre, o bien porqué todos tuvieran todavía algún asunto pendiente en todo este jolgorio, sus palabras pasan desapercibidas y el festejo sigue su curso, pero no por mucho tiempo. Unos minutos después, gritos agónicos acompañados de terroríficos sonidos de criaturas desconocidas suplantan la música y las risas. El aroma a cerveza y a sudor desaparece por completo mientras que la taberna se tiñe de rojo y se ve inundada por decenas de cadáveres y el olor a sangre fresca. El silencio se hace. La oscuridad toma la taberna.
 
@@ -31,401 +23,163 @@ Faerûn se ha vuelto un lugar oscuro y cruel, e igual que hay seres que sacrific
 
 Bienvenido seas a la Lanza de Plata.
 
-Puedes encontrar más información al respecto en el canal de #lore
+## 3. Creación de personaje avanzada
 
-CAPÍTULO 3
+### 3.1 Clases y especies de prestigio
 
-## Avanzada
+Algunas opciones solo se abren cuando ya tienes un personaje en cierto tier:
 
-Debido a esta modalidad de juego, algunas modificaciones se hicieron a las reglas incluidas en el Player’s Handbook, y hemos añadido algunas opciones de otros suplementos. Las siguientes reglas están en efecto para todos los jugadores de la campaña de La Lanza de Plata.
-
-## 4.1 Clases y razas de Prestigio
-
-Todos aquellos jugadores que hayan alcanzado el rango de Tier 2 podrán crearse un personaje con la clase de prestigio Astero de Plata y los que alcancen Tier 3 tendrán acceso al Caballero Sagrado, ambos en el canal de #documentación. Aquellos que lleguen a Tier 4 podrán optar por hacerse un Sabio a nivel 1 o 5.
-
-### Razas de Prestigio
-
-Todo aquel jugador que alcance el rango de Tier 2 podrá crearse un personaje con las siguientes razas: Loxodon (GGR), Minotaur (MPMM), Owlin (SCC), Hadozee (AAG), Giff (AAG), Elf (Astral) (AAG) y todas aquellas razas pertenecientes al BoET.
-
-### Dotes Raciales
-
-Con el fin de mantener la coherencia al incluir el Custom Lineage, todas las dotes raciales obtienen nuevos prerrequisitos si proceden. Dichos prerrequisitos son:
-
-Atributo: Tener como mínimo un 13 en el atributo principal de la raza. Idioma: Conocer el idioma propio de la raza. Proficiencia: Poseer todas las proficiencias que te entrega la raza. En caso de que la raza te de a elegir entre distintas proficiencias, será necesario poseer una de ellas. Visión en la oscuridad: Obtener visión en la oscuridad u otra forma propia de ver en la oscuridad sin dificultades.
-
-## 4.2 Múltiples personajes
-
-Estarás limitado a solo un personaje al principio y, aún cuando tengas personajes adicionales, solo uno puede jugar en un determinado momento para evitar la vergüenza de tener que rechazar a un jugador por estar en 2 diferentes expediciones fijadas a la misma hora. Puedes retirar a un personaje cuando tú quieras (salvo en medio de una partida), y será reemplazado por tu nuevo personaje. A partir de que tu personaje alcance el nivel 4, tienes derecho a tener otro personaje de manera simultánea a tu principal; esta capacidad se incrementa de nuevo en los niveles 11 y 17, llevando tu capacidad total hasta 4 personajes, sin tener en cuenta otras recompensas. Esta capacidad se adquiere de manera única por jugador, indistintamente de si más de un personaje alcanzara alguna de las metas. El número máximo de huecos de personaje por jugador es de 13. jugador interactuar entre sí. Esto significa que no pueden intercambiar objetos mágicos entre ellos, pasarse hechizos, ni realizar cualquier acción que requiera de la presencia de ambos personajes. Si solo tienes derecho a jugar un personaje y te gustaría crear otro, puedes retirar el que tienes. Sin embargo, un personaje retirado de esta manera no puede volver a participar en La Lanza de Plata. También considera que el personaje nuevo comenzará en nivel 1 independientemente del que haya alcanzado tu personaje anterior.
-
-CAPÍTULO 4
-
-## 4.3 Limitantes de la Ambientación
-
-La campaña existe dentro de la ambientación Los Reinos Olvidados (Forgotten Realms). Siempre existe la posibilidad de que tu personaje haya llegado a este mundo a través de un portal. Si tu personaje rinde culto a algún dios, procura que no sea uno expresamente malvado, o expresamente contrario a los dioses principales de la campaña Tyr, Torm y Helm. Si tu personaje es Noble, no podrá serlo originalmente de Aaredale ni de ninguno de sus protectorados. Si tu personaje dispone de algún limitante que no le permita ejercer sus funciones de manera normal, no será contratado por la Lanza de Plata
-
-## 4.4 Personajes meme
-
-Con la idea de permitir mayor libertad en la creación de personajes y, a la vez, respetar a los jugadores que se toman la campaña con seriedad, existe la posibilidad de crear un personaje “meme” siempre y cuando el jugador responsable del mismo lo indique de forma oficial en su creación. Para ello debe incluir en el canal de #registro-de-personajes la siguiente coletilla en el mensaje de Creación de personaje: (Meme). Por ejemplo: “Michelangelo, Tortle - Monk, se une de-facto al cuerpo expedicionario. Con las siguientes habilidades: [10], [14], [14], [8], [16], [12] Y 10 puntos de vida. (Meme)” El uso en una sesión de un personaje meme no indicado como meme en su mensaje de creación (en #registro-depersonajes) supondrá la identificación como personaje meme y un aviso.
-
-CAPÍTULO 4 Los propietarios de este tipo de personaje deben ser conscientes y asumir que no todos los jugadores querrán compartir sesión con ellos, informando al unirse a una mesa de que su personaje es meme. Un personaje que comparta trasfondo con otro personaje de un mismo jugador pasará a ser catalogado como meme. Esto es así para evitar la narración endogámica.
-
-## 4.5 Desarrollo de personajes
-
-Durante tu tiempo en la campaña de La Lanza de Plata, acumularás puntos de experiencia y subirás de nivel. Cuando esto suceda, te harás acreedor a todos los beneficios presentes para tu nuevo nivel, de acuerdo con tu raza, clase y arquetipo. Este suceso debe ser reportado en #registro-depersonajes utilizando el formato anclado, y debe de incluir el valor por el que incrementaste tus Puntos de Vida, especificando si se incrementaron por valor promedio o por tirada. En La Lanza de Plata, el uso de dotes (feat) de cualquiera de los recursos legales para la campaña está admitido, pudiendo tomar uno cuando sea permitido. Por último, los manuales mencionados hasta ahora solo son aplicables para la creación de personaje y la elección de sus subclases y features, para el desarrollo del mismo, como puede ser la compra de objetos o la creación de Common Magic Items del artificiero se limitan al PHB y a las opciones que ofrece el servidor en sus múltiples documentos.
-
-## 4.6 Warlock
-
-Solo el primer Warlock creado por un jugador dispondrá de patrón oficial con peso en la campaña La Lanza de Plata, el resto de brujos que un jugador haga tras el primero no dispondrá de este peso aunque hayas dado de baja al anterior. prohibido. Hacer multiclase de cualquier clase a Warlock también está prohibido. Si el concepto de tu personaje encaja con la necesidad de hacer multiclase de esta forma debes solicitar la revisión apropiada que encontrarás en el documento de Explicación de recompensas que encontrarás en #documentación.
-
-## 4.7 Trasfondos
-
-**Se permite intercambiar la Features de Trasfondo entre.**
-
-todos los backgrounds disponibles. No se acepta ninguna opción alternativa que otorgue alguna Feat del PHB. Las features de Trasfondo ajenas al lore oficial tendrán una efectividad limitada o nula (Por ejemplo, todas aquellas de la Costa de la Espada).
-
-## 5.1 Adaptación PHB
-
-El "Player's Handbook" sufre ciertas adaptaciones con tal de no quedarse atrás respecto al nuevo material.
-
-### Dotes / Feats
-
-Las siguientes dotes del PHB reciben modificaciones. Todas las listadas mantienen sus efectos explicados en PHB, y reciben los siguientes añadidos:
-
-| Dote / Feat | Añadido |
-|---|---|
-| Charger | +1 STR o CON |
-| Defensive Duelist | +1 DEX |
-| Dual Wielder | +1 STR o DEX |
-| Dungeon Delver | +1 WIS o INT |
-| Grappler | +1 STR |
-| Medium Armor Master | +1 STR o DEX |
-| Savage Attacker | +1 STR o DEX |
-| Skulker | +1 DEX o INT |
-
-## 5.2 Adaptación TCE
-
-El "Tasha's Cauldron of Everything" sufre ciertas adaptaciones con tal de adaptarse al sistema de la Lanza de Plata. Su Ability Score cambia a: "Two unique ability score of your choice increases by 1" Cuando te hagas un personaje de esta raza debes indicar entre paréntesis la raza de la cual proviene tu personaje. Cualquier aspecto en contra del setting (razas baneadas, criaturas naturalmente malvadas, etc) será ejecutado al llegar a Aaredale a menos que sea [meme]. Solo puedes tomar feats raciales correspondientes a los de tu origen previamente indicado.
-
-### Customizing your Origin
-
-Esta permitida la customización de Ability Scores, Languages, Proficiencies. En el caso de las proficiencies: el máximo de competencias con herramientas que puedes ganar con esta función es de 1, no más.
-
-### Clases
-
-Se realizan las siguientes modificaciones a las features opcionales de TCE.
-
-### Bardo
-
-**Magical Inspiration.**
-
-Queda relegado únicamente al arquetipo Bardo del Valor.
-
-### Druida y Mago
-
-**Los conjuros Augury y Divination no se incluyen en las.**
-
-listas ampliadas de conjuros de estas dos clases.
-
-### Paladin
-
-**Harness Divine Power.**
-
-Se modifica, antes: "the level of which can be no higher than half your proficiency bonus (rounded up)". Ahora: "the level of which can be no higher than half your proficiency bonus (rounded down)"
-
-### Hechicero
-
-**Sorcerous Versatility.**
-
-No permite intercambiar metamagias
-
-### Arquetipos
-
-Algunos arquetipos publicados en TCE han sido ajustados para equipararlos a sus otras contrapartes.
-
-### College of Creation (Bard)
-
-**Performance of Creation.**
-
-Cualquier objeto creado por esta feature no puede ser usada como componente para conjuros.
-
-### Oath of the Watchers (Paladin)
-
-**Channel Divinity: Abjure the Extraplanar.**
-
-No puede afectar a Aberraciones y solo afecta a una criatura dentro del rango. A nivel 5 afecta a todas las criaturas dentro del rango que cumplan las condiciones.
-
-### Phantom (Rogue)
-
-**Tokens of the Departed.**
-
-Solo podrás crear Soul Trinkets al morir una criatura de CR igual o superior a tu bonificador de competencia.
-
-CAPÍTULO 5 Psionic Spells Ganas acceso a los hechizos en vez de aprenderlos directamente. En la parte de: "The new spell must be a divination or an enchantment spell from the sorcerer, warlock, or wizard spell list." Se elimina la restricción de clase para las escuelas.
-
-### Twilight Domain (Cleric)
-
-**Eyes of Night.**
-
-Se elimina el uso de esta feature en nuestro servidor.
-
-Channel Divinity: Twilight Sanctuary Ahora pasa a requerir concentración. La vida temporal otorgada por esta feature se reduce a 0 una vez se pierde la concentración. Al desaparecer el aura de luz, puedes mantener la concentración sin límite de tiempo.
-
-### Clockwork Soul (Sorcerer)
-
-**Clockwork Magic.**
-
-Ganas acceso a los hechizos en vez de aprenderlos directamente. En la parte de: "The new spell must be an abjuration or a transmutation spell from the sorcerer, warlock, or wizard spell list." Se elimina la restricción de clase para las escuelas.
-
-Trance of Order El coste de usarla de nuevo sin hacer descanso largo pasa a ser de 10 sorcery points.
-
-### The Genie (Warlock)
-
-**Bottled Respite.**
-
-Se gana acceso a la feature a nivel 5.
-
-### Conjuros
-
-Se realiza la siguiente modificación de conjuros:
-
-### Mind Sliver
-
-El hechizo pasa a ser de concentración.
-
-### Feat
-
-Se realiza la siguiente modificación de feats:
-
-### Fey Touched
-
-Ya no otorga un bono de +1 a un atributo. En su lugar obtiene la capacidad de aumentar un +2 cualquier atributo (elegido al escoger la dote) durante las próximas 24 horas una vez por long rest.
-
-## 5.3 Adaptación XGE
-
-Se realizan la siguiente modificación a "Xanathar's Guide to Everything" para adecuarse al funcionamiento del sistema del servidor.
-
-### Arquetipos
-
-El siguiente arquetipo es modificado.
-
-### Path of the Zealot (Barbarian)
-
-**Warrior of the Gods.**
-
-Se considera la posesión de un Servicio Religioso a fin de tener que resucitar en Aaredale.
-
-CAPÍTULO 5 Orcish Fury El orco entra dentro de los prerrequisitos para obtener la dote.
-
-## 5.4 Adaptación EGW
-
-Se realizan la siguiente adaptación a "Explorer's Guide to Wildemount" para adecuarse al funcionamiento del sistema del servidor.
-
-### Objetos
-
-El siguiente objeto es modificado.
-
-### Theki Root
-
-Enfatizamos su uso intencional, y sólo aplicará sus beneficios contra efectos venenosos de carácter digestivo. El "Van Richten's Guide to Ravenloft" sufre ciertas adaptaciones con tal de adaptarse al sistema de la Lanza de Plata.
-
-### Razas
-
-A la feature, presente en las 3 razas que añade de este manual, Ancestral Legacy, se le elimina la parte que dice: "If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it."
-
-### Dhampir
-
-**Deathless Nature.**
-
-La feature Deathless Nature por la cual el Dhampir no necesitaba respirar es eliminada. Deathless Nature Con respecto a la feature de Deathless Nature, se realizan las siguientes modificaciones: Se elimina la parte que dice: "You don't need to eat, drink, or breathe." Se sustituye la parte referente a "You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness." por "You don't need to sleep, and magic can't put you to sleep. Instead, you meditate deeply, remaining semiconscious, for 4 hours in an inactive, motionless state.", que es la que tienen los elfos.
-
-### Hexblood
-
-**Se modifica el tipo de criatura correspondiente al.**
-
-Hexblood, cambiando de Fey a Humanoid
-
-Eerie Token Se ha eliminado la siguiente opción de la feature Eerie Token: "Remote Viewing".
-
-### Arquetipos
-
-Se realiza la siguiente modificación a una de las nuevas subclases jugables.
-
-### Warlock: The Undead
-
-Todo se añade de forma normal a excepción de: Otherworldly Patron feature (lvl 6) En esta feature se elimina la parte referente a "You don't need to breath", manteniendo la parte referente a la comida y la bebida.
-
-### Opciones de trasfondo Investigator
-
-**Todo se mantiene igual, a excepción de que el trasfondo no.**
-
-**hará entrega de una "Magnifying glass".**
-
-## 5.6 Adaptación WBtW
-
-El manual "The Wild Beyond the Witchlight" sufre ciertas modificaciones con tal de adaptarse al sistema de la Lanza de Plata.
-
-### Trasfondos (Backgrounds)
-
-Los siguientes trasfondos recibe las modificaciones expuestas.
-
-### Witchlight Hand
-
-Se elimina el acceso a "Carnival Companion".
-
-### Feylost
-
-**Debe solicitarse en #soporte permiso para hacer los.**
-
-lanzamientos y determinar los trinkets. Algunos serán requisados por los paladines. Abusar del sistema puede conllevar la pérdida del hueco de personaje.
-
-CAPÍTULO 5 El manual "Mordenkainen Presents: Monsters of the Multiverse" sufre ciertas modificaciones con tal de adaptarse al sistema de la Lanza de Plata.
-
-### Razas Aarakocra
-
-Se añade la siguiente feature: "Tienes velocidad de vuelo de 30 pies, pero, las fuertes brisas te impiden volar a grandes alturas, si al terminar tu turno, no estás a 10 pies de una superficie, descenderás lentamente hasta esa altura de una superficie sólida, inerte y estable."
-
-### Fairy
-
-Se añade la siguiente feature: "Tienes velocidad de vuelo de 30 pies, pero, las fuertes brisas te impiden volar a grandes alturas, si al terminar tu turno, no estás a 10 pies de una superficie, descenderás lentamente hasta esa altura de una superficie sólida, inerte y estable." Además, el tipo de criatura pasa a ser Humanoid y Fey a la vez.
-
-## 5.8 Adaptación SCAG
-
-El manual "Sword Coast Adventurer's Guide" sufre ciertas modificaciones con tal de adaptarse al sistema de la Lanza de Plata.
-
-### Razas Winged Tiefling
-
-Se añade la siguiente feature: "Tienes velocidad de vuelo de 30 pies, pero, las fuertes brisas te impiden volar a grandes alturas, si al terminar tu turno, no estás a 10 pies de una superficie, descenderás lentamente hasta esa altura de una superficie sólida, inerte y estable."
-
-CAPÍTULO 5
-
-### Aceptación temporal
-
-El material de FTD puede recibir modificaciones retroactivas durante un periodo preventivo de prueba.
-
-### Dragonborn
-
-A excepción del Dragonborn de gemas, el resto obtienen la siguiente feature:
-
-Darkvision 60 feet, lo que se traduce en Visión en la oscuridad de 60 pies.
-
-### Drakewarden
-
-La feature drake companion sustituye su último párrafo por el siguiente: "Once you summon the drake, you can't do so again until you finish a long rest". La feature Draconic Gift enseña únicamente Dracónido como idioma.
-
-## 5.10 Adaptación SCC
-
-### Owlin
-
-Se añade la siguiente feature: "Tienes velocidad de vuelo de 30 pies, pero, las fuertes brisas te impiden volar a grandes alturas, si al terminar tu turno, no estás a 10 pies de una superficie, descenderás lentamente hasta esa altura de una superficie sólida, inerte y estable."
-
-## 5.11 Adaptación AAG
-
-### Giff
-
-Firearm Mastery es removido. los mismos beneficios que un humano en 8 horas. Augstuv Serenov Soma
-
-## 5.12 Adaptación DSotDQ
-
-### Lore
-
-Todas las features que hagan referencia a Solamnia en su lugar harán referencia a la "Guerra del Bien contra los Orcos".
-
-### Arquetipos
-
-El siguiente arquetipo es modificado.
-
-### Lunar Sorcery (Sorcerer)
-
-**Lunar Embodiment.**
-
-Ganas acceso a los hechizos en vez de aprenderlos directamente. A efectos mecánicos del servidor, se entenderá que al subir de nivel dispones del embodiment con el que acabaste tu última sesión. Waxing and Waning
-
-El coste aumenta de 1 SP a 2 SP.
-
-## 5.13 Adaptación TDCSR
-
-### Mixed Ancestry Statistics
-
-Se permite el empleo de esta opción de creación con los siguientes cambios:
-
-Se pierde el acceso a cualquier feat exclusiva de raza Solo se puede cambiar 1 feature. Se puede cambiar una segunda feature de Edad, tamaño o idiomas por otra del mismo tipo. No se pueden cambiar features de raza que otorguen proficiencias, para eso está aceptado el Customizing your Origin Los linajes y las features propias de las subrazas (justificables en cualquier libro, no solo en los aceptados) no pueden emplear o ser empleados en esta opción opción Las razas de ERLW no pueden emplear esta opción Si no dispones de acceso a las razas de prestigio, no pueden ser empleadas por esta opción.
-
-### Arquetipos
-
-Los siguientes arquetipos son modificados.
-
-### Tragedy (Bard)
-
-**Sorrowful Fate.**
-
-Cuesta 3 Bardic Inspirations usar la feature en lugar de 1.
-
-### Blood (Cleric)
-
-**Blood Puppet.**
-
-La marioneta no puede hacer un ataque, puede emplear la Attack Action, y para ello, debes usar tu acción.
-
-### Runechild (Sorcerer)
-
-**Runic Magic.**
-
-Ganas acceso a los hechizos en vez de aprenderlos directamente
-
-### Blood Magic (Wizard)
-
-**Blood Channeling.**
-
-Se elimina el uso de esta feature en nuestro servidor.
-
-## 5.14 Adaptación BoET
-
-BOET está permitido en su totalidad, habiendo un plazo de 6 meses en los cuales la adminsitración se reserve el derecho a banear o limitar a posteriori cosas desbalanceadas. (hasta finales de abril de 2025)
-
-## 5.14 Adaptación General
-
-### Trance
-
-Todas las features de libros posteriores similares al Trance son corregidas para seguir la misma premisa que el PHB: recibes
-
-CAPÍTULO 6 Y 7 El mapa de la campaña está dividido en tiers que delimitan tanto el nivel de experiencia que tienen los jugadores como la peligrosidad que conlleva explorar cada región del continente. Divididos por rangos de niveles, estos son 4 y corresponden a los rangos de niveles de experiencia que se muestran en la tabla al final de este capítulo. Los retos y obstáculos a los que se enfrentan los jugadores deberán ser proporcionales al Tier de la región en que se encuentran. Dicho de otra manera, los desafíos a los que se enfrenten los jugadores en un área de Tier 2 son mucho más peligrosos a un área de Tier 1. A mayores, la dificultad de la sesión también depende de la propia distancia a Aaredale, pues cuánto más lejos se encuentre el punto del fuerte menos influencia de éste recibe, y del número de sesiones corridas en dicho punto, pues las criaturas de la zona no estarán preparadas para un grupo de aventureros si es la primera vez que se dirigen ahí, pero empezarán a preparar defensas a medida que estas visitas se vuelvan algo habitual. Adicionalmente, se podrá mantener el nivel del personaje siempre que este suponga una subida de Tier, sujeto a uno o dos condicionantes. Para ver más, lea el capítulo 8.1.2. Existe también la posibilidad de ser ascendido en Tier por realizar hazañas propias del siguiente Tier.
-
-### Los Tiers de la aventura
-
-| Nivel | Tier | Rango de influencia |
+| Desde | Opción | Dónde está |
 |---|---|---|
-| 1-4 | Tier 1 | Héroes Locales |
-| 5-10 | Tier 2 | Héroes del Reino |
-| 11-16 | Tier 3 | Maestros del Reino |
-| 17-20 | Tier 4 | Maestros del Mundo |
+| Tier 2 | **Astero de Plata**, subclase de Guerrero | [Astero de Plata](astero-de-plata.md) |
+| Tier 2 | Especies de prestigio: Loxodon, Minotaur, Owlin, Hadozee, Giff, Elf (Astral) | Libros de 2014 y Ravenloft |
+| Tier 3 | **Caballero Sagrado**, Juramento de Paladín | [Caballero Sagrado](caballero-sagrado.md) |
+| Tier 4 | Sabio | Por escribir |
 
-CAPÍTULO 6 Y 7
+!!! pendiente "Por completar (DM)"
+    La opción de prestigio del Tier 4 (Sabio).
 
-## jugadores
+### 3.2 Varios personajes
 
-Los puntos de experiencia no son la única razón por la cual los aventureros se dedican a su profesión. Existe también una imperante mucho más importante: El dinero. Usualmente encontrado detrás de puertas protegidas contra intrusos, o detrás de algún feroz guardián, el tesoro ganado es uno de los grandes motivadores para cualquier aventurero.
+Las reglas de huecos de personaje están en el [Manual básico](manual-basico.md#7-huecos-de-personaje). Además:
 
-## 7.1 Tesoros mundanos
+- Solo puedes jugar **un personaje por sesión**.
+- Tus personajes **no pueden interactuar entre sí**: no se intercambian objetos, oro ni conjuros, ni hacen nada que necesite a los dos presentes.
+- Puedes retirar un personaje cuando quieras, salvo en medio de una partida. Un personaje retirado no vuelve.
 
-Dentro de cualquier aventura, los personajes conseguirán objetos mundanos que les serán de utilidad o que pueden vender una vez que regresen a Aaredale. Cabe mencionar que, en esta modalidad de juego, los jugadores no pueden darse dinero entre ellos, ni realizar intercambios de estos objetos mundanos. Eso no significa que durante la aventura no se presten equipo, pero la naturaleza de estos “intercambios” no va más allá de la sesión en la que se realizan.
+### 3.3 Limitantes de la ambientación
 
-## 7.2 Tesoros mágicos
+- La campaña transcurre en los Reinos Olvidados. Tu personaje puede haber llegado a través de un portal desde otro mundo.
+- Si tu personaje rinde culto a un dios, no puede ser uno abiertamente malvado ni contrario a **Tyr, Torm y Helm**, los dioses principales de la campaña.
+- Si tu personaje es noble, no puede ser originario de Aaredale ni de sus protectorados.
+- Un personaje con un limitante que le impida cumplir sus funciones no es contratado por el Cuerpo.
 
-Los objetos mágicos no están sujetos a esta limitante, y pueden ser intercambiados entre jugadores a razón de 1:1. No todos los objetos mágicos son intercambiables de esta manera y se tiene que tomar en cuenta el tier de éstos a la hora de hacer semejante trueque. Cualquier intercambio requiere gastar días de descanso y debe asentarse el intercambio en el canal de #registro-de-personajes. Al terminar la partida, los jugadores reciben puntos de tesoro dependiendo del tier de la aventura en la que se obtuvieron, que se pueden gastar para tirar en tablas de tesoro, disponibles en #documentación, de regreso a Aaredale. Las aventuras de mayor tier otorgan más puntos de tesoro que el personaje obtiene al acabar la sesión y serán registradas en el registro del MC en #registro-mcs. Por la contra, un personaje solo puede obtener 4 Puntos de Tesoro en sesiones intramurallas en total en todo su historial de aventuras. Un jugador puede gastar tantos puntos como guste para realizar cuantos tiros le alcancen, con algunos límites, como el tier de tu personaje a la hora de realizar el lanzamiento. Adicionalmente, se podrán adquirir pergaminos de los hechizos registrados en el Repositorio de Pergaminos con los correspondientes Puntos de Tesoro. Esto significa que a la hora de elegir pergaminos de hechizos en las Tablas de Tesoro, todos los aventureros disponen de la bendición de las recompensas de Puntos de Renombre Objetos Mágicos.
+### 3.4 Personajes meme
 
-## 7.4 Puntos de Renombre
+Puedes crear un personaje "meme" (un personaje de broma o con un concepto poco serio) siempre que lo marques así en la hoja de registro: escribe **(Meme)** junto a su nombre.
 
-Hay una última recompensa, los Puntos de Renombre. Esta recompensa representa la buena fama que adquiere el personaje tras sus labores a favor de Aaredale, del Puño de los Dioses y de sus propias hazañas. Los Puntos de Renombre son equivalentes a los Puntos de GM y pueden ser intercambiados por las mismas recompensas. Estos puntos son una recompensa opcional que el MC puede otorgar al grupo por cumplir grandes logros como cortarle la cabeza a un dragón, cerrar un punto o realizar algún acto especialmente heroico. Adicionalmente, el encargado de entregar el informe (#resúmenes), al Puño de los Dioses, recibirá también 1 punto de renombre. Habitualmente, el encargado de realizar el informe será el líder de la expedición acaso que este decida delegar la labor a alguno de sus compañeros que quieran hacerlo. Solo se pueden reclamar puntos de renombre de los resúmenes 5 veces al mes por jugador.
+- Avisa al unirte a una mesa: no todos los jugadores querrán compartir sesión con él.
+- Un personaje meme sin marcar se marca como meme y recibe un aviso.
+- Un personaje que comparte trasfondo con otro personaje del mismo jugador se considera meme.
 
-## 7.5 Penalizaciones
+### 3.5 Subir de nivel
 
-Una expedición se considera fallida si el grupo no alcanza a llegar al punto de interés y eso acarreará no cobrar recompensa alguna. Similarmente, si el grupo en cuestión llegase al punto de interés y no pudiese terminar de explorar lo que el Maestro de Ceremonias considera oportuno, obtendrán una recompensa menor que si hubiesen terminado la aventura.
+- Anota la subida en tu hoja de registro, con los puntos de vida ganados y si usaste el promedio o una tirada.
+- Puedes tomar cualquier dote de los [libros permitidos](manual-basico.md#1-libros-permitidos) cuando tu clase te dé una.
+- Comprar objetos y fabricar objetos comunes se limita al Player's Handbook 2024 y a las listas de esta campaña.
 
-## 7.6 Días de Descanso
+### 3.6 Brujos
 
-La vida de un aventurero no solo consiste en viajar de un destino a otro y tener aventuras. A veces es necesario realizar cosas más mundanas: Como recompensa adicional a sus esfuerzos, los personajes de La Lanza de Plata reciben Días de Descanso, que pueden utilizarse de varias maneras, expuestas a continuación: Una vez alcances el rol de Tier 2, todos tus personajes podrán avanzar al próximo tier de aventureros realizando esta actividad que incluye un curso intensivo por parte del Puño de los Dioses. Ponerse al día es una opción disponible en los niveles 4, 10 y 16, y avanza a tu personaje al próximo tier de juego a la vez que al siguiente nivel. Para hacerlo, debes pagar un número de días de descanso determinados por tu nivel actual.
+- Solo el **primer brujo** que crea un jugador tiene un patrón con peso en la campaña. Los siguientes no, aunque hayas retirado al primero.
+- Para hacer multiclase **desde o hacia Brujo** necesitas una revisión del DM (ver [Recompensas](recompensas.md)).
 
-### Ponerse al corriente
+### 3.7 Trasfondos
+
+- Usa los trasfondos de los libros de 2024. Dan aumentos de atributo, una dote de origen, competencias y equipo.
+- Si usas un trasfondo de un libro de 2014, sigue la regla del Player's Handbook 2024 para trasfondos antiguos.
+- Los trasfondos ligados a lugares ajenos a la campaña (por ejemplo, la Costa de la Espada) tienen poco o ningún efecto narrativo aquí.
+
+## 4. Adaptaciones del material oficial
+
+El Player's Handbook 2024 reemplaza todo lo que tenga una versión nueva. Lo de libros anteriores que no tenga versión nueva se puede usar con estos ajustes.
+
+### 4.1 Reglas generales
+
+- **Especies de 2014:** ignora sus aumentos de atributo; los aumentos vienen del trasfondo.
+- **Subclases de 2014 en clases de 2024:** si el primer rasgo de la subclase era de nivel 1 o 2, lo ganas a nivel 3 junto con el resto de rasgos de ese nivel.
+- **Vuelo:** toda especie con velocidad de vuelo (Aarakocra, Fairy, Owlin, tiflin alado y similares) vuela a 30 pies, pero las fuertes brisas le impiden volar alto. Si al final de su turno no está a 10 pies o menos de una superficie sólida, desciende lentamente hasta esa altura.
+- **Trance:** toda habilidad parecida al Trance de los elfos sigue la regla del Player's Handbook: meditas 4 horas en lugar de dormir.
+- **Lore:** las referencias a Solamnia se cambian por la "Guerra del Bien contra los Orcos".
+
+### 4.2 Subclases ajustadas
+
+| Subclase (libro) | Ajuste |
+|---|---|
+| College of Creation (Tasha) | Los objetos de Performance of Creation no sirven como componente de conjuros |
+| Oath of the Watchers (Tasha) | Abjure the Extraplanar no afecta a aberraciones y solo a una criatura; desde nivel 5 afecta a todas las que cumplan las condiciones |
+| Phantom (Tasha) | Solo creas Soul Trinkets cuando muere una criatura de CR igual o mayor que tu bonificador de competencia |
+| Twilight Domain (Tasha) | Se elimina Eyes of Night. Twilight Sanctuary requiere concentración; los puntos de golpe temporales se pierden al perderla |
+| The Genie (Tasha) | Bottled Respite se gana a nivel 5 |
+| The Undead (Van Richten) | En Form of Dread se elimina "no necesitas respirar"; se mantiene lo de comer y beber |
+| Drakewarden (Fizban) | Solo invocas el draco una vez por descanso largo. Draconic Gift solo enseña dracónico |
+| Lunar Sorcery (Dragonlance) | Al subir de nivel conservas la fase con la que terminaste tu última sesión. Waxing and Waning cuesta 2 puntos de hechicería |
+| Tragedy (Tal'Dorei) | Sorrowful Fate cuesta 3 usos de Inspiración Bárdica |
+| Blood Domain (Tal'Dorei) | La marioneta de Blood Puppet no ataca por sí misma; puede usar la acción de Ataque si gastas tu acción |
+| Blood Magic (Tal'Dorei) | Se elimina Blood Channeling |
+
+### 4.3 Especies, trasfondos, conjuros y objetos
+
+| Opción (libro) | Ajuste |
+|---|---|
+| Hexblood (Van Richten) | Es Humanoide, no Feérico. Se elimina la opción Remote Viewing de Eerie Token |
+| Dhampir | Necesita comer y beber. No duerme: medita 4 horas como un elfo. Pasa por revisión del DM |
+| Fairy (Monsters of the Multiverse) | Es Humanoide y Feérico a la vez |
+| Giff (Astral Adventurer's Guide) | Se elimina Firearms Mastery |
+| Investigator (Van Richten) | No recibe la lupa (Magnifying Glass) |
+| Witchlight Hand (Witchlight) | Sin Carnival Companion |
+| Feylost (Witchlight) | Las tiradas de baratijas se hacen con el DM; los paladines pueden requisar algunas |
+| Mind Sliver (Tasha) | Requiere concentración |
+| Fey Touched (Tasha) | Si usas esta versión, no da +1 a un atributo: una vez por descanso largo das +2 a un atributo (elegido al tomar la dote) durante 24 horas |
+| Theki Root (Wildemount) | Solo protege contra venenos ingeridos |
+
+!!! pendiente "Por revisar (DM)"
+    Book of Ebon Tides (Kobold Press) estaba permitido completo con un periodo de prueba que terminó en abril de 2025. Decide si sigue permitido.
+
+## 5. Los tiers de aventura
+
+El mapa está dividido en tiers. Cada tier marca el nivel de los personajes y el peligro de las regiones que pueden explorar. Los retos de una región son proporcionales a su tier, y aumentan con la distancia a Aaredale y con las visitas repetidas: las criaturas se preparan cuando los aventureros vuelven una y otra vez.
+
+| Nivel | Tier | Rango |
+|---|---|---|
+| 1 – 4 | Tier 1 | Héroes locales |
+| 5 – 10 | Tier 2 | Héroes del reino |
+| 11 – 16 | Tier 3 | Maestros del reino |
+| 17 – 20 | Tier 4 | Maestros del mundo |
+
+Para pasar de tier hay que llegar al nivel **y** completar la misión que lo abre (ver [Tiers y progresión](../reglas/tiers.md)). Un personaje también puede ascender por hazañas propias del siguiente tier.
+
+### Mantener el nivel al cambiar de tier
+
+Si subir de nivel te haría cambiar de tier, puedes quedarte en tu nivel actual para terminar asuntos pendientes:
+
+- Eliges como máximo **2 puntos del mapa** que quieres cerrar antes de subir, y ya debes haber viajado a ellos.
+- Solo juegas expediciones a esos puntos.
+- Tu experiencia queda congelada en el límite del tier. Al subir, recibes la experiencia de tu mejor sesión de ese periodo.
+- Cuesta **1 Punto de Renombre por punto** que mantengas.
+- Puedes subir de nivel cuando quieras.
+
+## 6. Recompensas para jugadores
+
+### 6.1 Tesoros mundanos
+
+Los jugadores no se dan dinero entre sí ni intercambian objetos mundanos. Durante una sesión pueden prestarse equipo, pero el préstamo termina con la sesión.
+
+### 6.2 Tesoros mágicos y Puntos de Tesoro
+
+- Al terminar cada sesión recibes **Puntos de Tesoro** según el tier de la aventura. Los gastas en Aaredale para tirar en las [tablas de Tesoro](tesoro.md) de tu tier o inferiores.
+- En partidas intramurallas solo puedes ganar **4 Puntos de Tesoro** en total en toda la vida del personaje.
+- Puedes comprar pergaminos de los conjuros del Repositorio de Pergaminos con Puntos de Tesoro.
+- Los objetos mágicos se pueden intercambiar 1 a 1 entre personajes de **Tier 2** o más, siempre que sean del mismo tier y gastando Días de Descanso. Los consumibles (pociones, pergaminos) no se intercambian, pero se pueden compartir durante una sesión.
+
+### 6.3 Puntos de Renombre
+
+Representan la fama del personaje por sus servicios a Aaredale y al Puño de los Dioses. Se gastan en [Recompensas](recompensas.md) y en [Fidelidad de facción](facciones.md).
+
+- El DM puede dar Puntos de Renombre por grandes hazañas: matar a un dragón, cerrar un punto del mapa o un acto especialmente heroico.
+- Quien escribe el **informe al Puño** de una expedición gana 1 Punto de Renombre, hasta **5 al mes** por jugador. Por defecto lo escribe el líder de la expedición, que puede delegarlo.
+
+### 6.4 Penalizaciones
+
+- Si el grupo no llega al punto de interés, la expedición fracasa y no hay recompensa.
+- Si llega pero no termina de explorar lo que el DM considera necesario, la recompensa es menor.
+
+## 7. Días de Descanso
+
+Además de oro y experiencia, los personajes reciben **Días de Descanso**. Se gastan en las actividades de esta sección. Antes o después de cada sesión puedes gastar hasta **20 días** en actividades, y cada actividad solo una vez por sesión.
+
+### 7.1 Ponerse al corriente
+
+Un curso intensivo del Puño de los Dioses que te sube al siguiente nivel y al siguiente tier. Solo está disponible para personajes de jugadores que ya tienen otro personaje en Tier 2, o al alcanzar 3.250 XP (marciales), 4.000 XP (medio lanzadores y brujos) o 5.000 XP (lanzadores completos).
 
 | Nivel actual | Días de Descanso |
 |---|---|
@@ -433,236 +187,222 @@ La vida de un aventurero no solo consiste en viajar de un destino a otro y tener
 | 10 | 100 días |
 | 16 | 180 días |
 
-### Servicio de conjuros
+### 7.2 Servicio de conjuros
 
-Antes o después de una expedición, puedes gastar un día de descanso para hacer una petición de ingresar en el Bastión de Danerion y que un Sacerdote de su interior te conceda un hechizo. El costo de cualquier componente de material consumido puede ser compartido por los personajes del grupo de aventureros. Los personajes que se resuciten durante el transcurso del juego pueden continuar jugando y ganar recompensas de forma normal, pero las sanciones impuestas por Raise Dead y hechizos similares todavía se aplican. También se pueden recibir estos servicios de otro personaje que disponga de los papeles necesarios.
+Por 1 Día de Descanso puedes pedir audiencia en el Bastión de Danerion para que un sacerdote lance un conjuro por ti. El costo de los componentes materiales se puede repartir entre el grupo. Los personajes que tengan los permisos necesarios también pueden ofrecer estos servicios.
 
-### Servicios disponibles en Danerion
-
-| Hechizos | Costo |
+| Conjuro | Costo |
 |---|---|
-| Mending | 2 gp |
-| Remove Curse uso en Criaturas | 5 gp |
-| Cure Wounds (Lv 1) | 10 gp |
-| Identify | 20 gp |
-| Lesser Restoration | 40 gp |
-| Prayer of Healing (Lv 2) | 40 gp |
-| Dispel Magic | 90 gp |
-| Remove Curse | 90 gp |
-| Speak With Death | 210 gp |
-| Divination | 210 gp |
-| Continual Flame (lvl 3) | 350 gp |
-| Greater Restoration | 450 gp |
-| Revivify | 20000 gp |
-| Raise Dead* | 40000 gp |
+| Mending | 2 po |
+| Remove Curse (sobre criaturas) | 5 po |
+| Cure Wounds (nivel 1) | 10 po |
+| Identify | 20 po |
+| Lesser Restoration | 40 po |
+| Prayer of Healing (nivel 2) | 40 po |
+| Dispel Magic | 90 po |
+| Remove Curse | 90 po |
+| Speak With Death | 210 po |
+| Divination | 210 po |
+| Continual Flame (nivel 3) | 350 po |
+| Greater Restoration | 450 po |
+| Revivify | 20.000 po |
+| Raise Dead* | 40.000 po |
 
-Todos los hechizos que impongan penalizaciones de las que recuperarse, requerirán un gasto de 7 Días de Descanso para reducir en 1 la penalización. Estos servicios deben ser adquiridos en #compras-yventas
+Cada conjuro que impone una penalización (por ejemplo, Raise Dead) requiere 7 Días de Descanso para reducirla en 1.
 
-CAPÍTULO 7 Para copiar hechizos en tu tomo, debes usar esta actividad. Por cada día de descanso gastado, tu personaje puede pasar 8 horas copiando hechizos en su tomo. Dos o más personajes que juegan en la misma sesión utilizando esta actividad pueden permitirse el acceso mutuo a sus libros de hechizos, efectivamente “intercambiando” hechizos entre todos los involucrados para poder copiarlos de forma normal.
+### 7.3 Turno de Bastión
 
-### Intercambio de objetos mágicos
+Por **7 Días de Descanso** juegas un turno de tu [Bastión](bastiones.md).
 
-Los objetos mágicos no se pueden regalar a otro personaje, pero los personajes pueden intercambiar sus objetos mágicos a razón de 1:1. Siempre que se quiera realizar tal procedimiento, se podrá usar el canal de #mercado para comunicar la intención de comerciar con él. Este canal solo es visible para los jugadores con el rol de Tier 2. Los artículos mágicos consumibles (pergaminos, pociones ...) no pueden ser intercambiados, pero pueden ser compartidos durante una sesión. Recuerda, los tiers de cada artículo deben ser idénticos para poder ser intercambiados. Los artículos que no tengan ningún uso restante tampoco se pueden intercambiar a menos que el artículo conserve alguna habilidad mágica permanente. Para poder intercambiar objetos mágicos es necesario que poseas el rol de Tier 2.
+### 7.4 Copiar conjuros
 
-### Actividades de Dias de Descanso en Sesion
+Cada Día de Descanso te da 8 horas para copiar conjuros en tu libro. Los magos, los usuarios de la dote Ritual Caster y los brujos del Pacto del Tomo pueden compartir conjuros si ya hicieron juntos una expedición exitosa. Para evitar abusos:
 
-Dispones de un total de 20 días para realizar actividades de Días de descanso como Investigar o realizar Servicio Religioso, ya sea antes de salir de la ciudad o al regresar. Adicionalmente, solo podrás hacer cada actividad una vez por sesión.
+- **Nivel 3 o más:** el personaje del que copias debe estar en tu lista de compañeros de viaje.
+- **Multiclase a Mago:** no puedes compartir conjuros que tu maestro no tuviera antes.
+- **Ritual Caster a nivel 1:** no compartes los conjuros iniciales de la dote hasta nivel 5.
 
-CAPÍTULO 7 Avanzar en tu clase principal no supone ningún esfuerzo a mayores, pero iniciarte en otro oficio como las artes mágicas o el servicio a una deidad es algo que no puedes hacer por tu cuenta. Cuando quieras multiclasear, aparte de cumplir los requisitos habituales, necesitarás un maestro. En caso de que no conozcas un personaje de otro jugador dispuesto a invertir su tiempo en entrenarte, siempre puedes buscar a un NPC usando alguna de las otras actividades (Irse de fiesta). Una vez tengas un maestro, deberás incluir una entrada en #registro-de-personajes siguiendo el formato anclado. Los requisitos específicos para cada nivel los podrás ver en el capítulo 8.1-15. Si tu maestro es otro personaje de un jugador deberán haber superado juntos una expedición exitosa.
+### 7.5 Fabricar
 
-### Opciones adicionales
+Usa las reglas de fabricación del Player's Handbook 2024 para armas, armaduras, equipo, pociones de curación (con Herbalism Kit) y pergaminos de conjuro. Las pociones de curación se consideran objetos mundanos.
 
-Actualmente se permiten las siguientes características del Manual del Jugador (PHB) y la Guía de Xanathar (XGE):
+### 7.6 Entrenamiento
 
-Copiar hechizos mágicos Crear ítems mundanos Entrenamiento Escribir pergamino Intercambiar ítems mágicos Investigar
+El Cuerpo ofrece cursos para aprender una herramienta, un idioma o un vehículo terrestre o acuático. Usa las reglas de entrenamiento de Xanathar's Guide to Everything.
 
-Irse de parranda Ponerse al corriente Ponerse a trabajar Servicio religioso Vacaciones Vender objeto mágico*
+### 7.7 Investigar
 
-## Jugador
+Tira 1d20 más tu bonificador de Investigación. Puedes sumar +1 por cada 50 po extra que inviertas. Solo una vez por sesión y con la autorización del DM, que responde tus preguntas.
 
-El seguimiento y la documentación de los registros de los jugadores es lo más importante del servidor. Estos registros se realizan para llevar un registro de tu aventura y seguir tu progreso en La Lanza de Plata. Estos registros se realizan en #registro-de-personajes y se hacen en conjunción con lo escrito por los MCs de las partidas que jueguen en los Registros de los Maestros de Ceremonias. Si comentes un error, hazlo del conocimiento de un miembro con el rol de @staff y espera a que éste borre tu mensaje. En ninguna circunstancia se debe editar un registro.
+### 7.8 Servicio religioso
 
-## 8.1 #Registro-de-personajes
+Requiere 4 semanas de trabajo (20 Días de Descanso) y la autorización del DM. Solo una vez por sesión.
 
-Los formatos para la realización de los registros que se muestran a continuación están anclados en el canal de #registro-de-personajes: 1) Creación de nuevos personajes Una vez que tu personaje esté listo para incorporarse a La Lanza de Plata, basta con entrar al canal de #registro-depersonajes y seguir el formato anclado de creación de personajes. 2) Subida de nivel Si la cantidad de puntos de experiencia que adquiriste en tu última expedición es suficiente para subir de nivel, agrega una nueva entrada en #registro-de-personajes siguiendo el formato de subida de nivel. A mayores, deberás elegir promedio o tirada de dados para los puntos de vida obtenidos. Existe un formato para ambos métodos, anclado en #registro-de-personajes. En caso de que realices multiclase y por tanto tu nuevo nivel no sea el de tu clase original, deberás incluir un nuevo registro, anclado en #registro-de-personajes, indicando quién ha sido tu maestro y cuántos días de descanso y oro le has pagado. Si dicha subida de nivel supone un avance de Tier, se ofrece la posibilidad de mantener tu nivel actual con las siguientes tres condicionantes:
-
-Debes escoger a lo sumo dos puntos para cerrar antes de procesar la subida de nivel. Tu personaje solo podrá participar en expediciones a las coordenadas especificadas. Es necesario haber viajado a las coordenadas previamente. La experiencia se queda fijada en el límite de T1/T2/etc. Al subir de nivel, se ve cuál de todas las sesiones ha sido la que más experiencia ha dado y se entrega al personaje al llegar al siguiente nivel. No se aplicará la experiencia obtenida con un Expedicionario Profesional. Cuesta 1 Punto de Renombre por punto holdeado [igualmente máximo 2 puntos holdeados] Cabe añadir, que en cualquier momento puedes decidir subir tu personaje de nivel y con ello avanzarlo de Tier. Los aventureros de La Lanza de Plata a menudo se enfrentarán a peligros, y en algunos casos estos peligros serán mortales. Otras veces, tu personaje puede considerar que se ha acabado la vida de riesgos y peligros puesto que ya ha logrado sus objetivos y deseos. Tanto si tu personaje decide abandonar la vida de aventurero voluntariamente como si muere sin remedio alguno, debes incluir una bitácora siguiendo el registro de baja de personaje indicado en #registro-de-personajes. A mayores, siempre que un personaje muere, también se debe incluir una entrada en el canal #cementerio. Existe la posibilidad de resucitar a un personaje.
-
-### Actividades de días de descanso
-
-A medida que tu personaje avance, una de las recompensas que encontrará serán días de descanso. Estos días se pueden emplear para una gran cantidad de cosas entre las que se incluyen entrenar, aprender nuevos oficios o pagar los servicios que le debes a la ciudad por tu última fechoría (Si, pícaros, os estamos viendo a vosotros). A continuación, se muestran todas las actividades que se permiten realizar con días de descanso. La mayoría de estas actividades se recogen en Xanathar’s Guide to Everything (Pag 125). Únicamente cuando la actividad de descanso se haga como parte de una sesión, con la asistencia de un MC, se podrán tomar en cuenta las complicaciones adecuadas. 4) Copiar hechizos mágicos (PHB Pag 114) Los Wizards, usuarios de la dote “Ritual Caster” y Warlocks del Tomo son capaces de compartir hechizos entre ellos. Basta con ponerse de acuerdo con uno de ellos (habiendo viajado en una expedición exitosa juntos antes) para hacer copia de estos. Un día de descanso te otorga 8 horas para copiar hechizos.
-
-### Hechizos copiables
-
-Para evitar posibles abusos se ha decidido aplicar las siguientes restricciones a la hora de copiar hechizos. Nivel 3+: A partir de nivel 3 necesitarás que el personaje del que quieras copiar un hechizo esté en tu lista de viajados. Multiclase: Los personajes que hagan multiclase a Wizard no podrán compartir sus hechizos aprendidos si su maestro no los poseía antes. Nivel 5: Los personajes que suban directamente a nivel 5 usando las recompensas del servidor no podrán compartir ningún hechizo de nivel 1 o 2 aprendido a través de este proceso. Ritual caster: Los personajes que hayan obtenido esta dote a nivel 1 usando las herramientas del juego o del servidor no podrán compartir sus hechizos iniciales de la dote hasta haber alcanzado nivel 5.
-
-CAPÍTULO 8 Un personaje que tiene el tiempo, el dinero y las herramientas necesarias puede usar el tiempo de inactividad para fabricar armaduras, ropa y otro tipo de equipo no mágico. Esta actividad es exclusiva de los personajes de los jugadores. Las Potion of Healing son considerados objetos mundanos. 6) Entrenamiento (XGE Pag 134) Independientemente de la motivación, la Organización ofrece amplia gama de cursos para rellenar cualquier falta en las aptitudes del aventurero. Los cursos de entrenamiento habituales cubren el uso de cualquier herramienta de artesano, idioma o vehículos terrestres y acuáticos. 7) Inscribir un hechizo en un pergamino (XGE Pag 133) Con tiempo y paciencia, un lanzador de conjuros puede transferir un hechizo a un papel o a un papiro, creando un pergamino de hechizo. 8) Investigar (XGE Pag 132) Realizar una investigación permite a un personaje profundizar en la historia de un monstruo, una ubicación, un objeto o un tema en particular. Las investigaciones consisten en una tirada de 1 dado d20, a la que se sumará tu bono de investigación. Si deseas adquirir un bono mayor, puedes adquirir un +1 adicional por cada 50 gp extra que inviertas. Esta actividad solo se puede utilizar una vez como parte de una sesión con la autorización del MC, debiendo éste dar respuesta a tus preguntas. Es tu deber como jugador asegurarte de esto antes de realizar el comando.
-
-9) Servicio religioso (XGE Pag 131) Algunos dentro de la Organización sirven a un poder que está por encima del cuerpo expedicionario. Sea cual sea la inclinación religiosa, la Organización espera de sus integrantes más devotos que mantengan felices a sus respectivas deidades. Esta actividad solo se puede utilizar una vez como parte de una sesión con la autorización del MC. En esta campaña este servicio necesita usar 4 semanas de trabajo[20 DD]. 10) Irse de fiesta (XGE Pag 127) ¿Quién no quiere relajarse con unos tragos y sus amigos en la taberna? Esta actividad solo se puede utilizar una vez como parte de una sesión con la autorización del MC.
-
-### Tipos de Fiesta
+### 7.9 Irse de fiesta
 
 | Precio | Tipo |
 |---|---|
-| 10 gp | Fiesta con la clase baja |
-| 50 gp | Fiesta con la clase media |
-| 250 gp | Fiesta con la clase alta |
+| 10 po | Fiesta con la clase baja |
+| 50 po | Fiesta con la clase media |
+| 250 po | Fiesta con la clase alta |
 
-Tras una semana de juerga, el aventurero puede haber hecho contactos entre la clase social elegida. El personaje debe hacer una tirada de Carisma (Persuasión) en #registrode-personajes con el formato anclado, usando la siguiente tabla:
+Tras una semana de juerga, el aventurero puede haber hecho contactos entre la clase social elegida. El personaje debe hacer una tirada de Carisma (Persuasión) y anotarla en su hoja de registro:
 
-CAPÍTULO 8
-
-### Irse de Fiesta
-
-Tirada Resolución 1-5 Pierdes un nivel de amistad 6-10 No ocurre nada 11-15 Un nivel de amistad con un NPC 16-20 Un nivel de amistad con 2 NPC distintos 21+ Un nivel de amistad con 3 NPC distintos
-
-Dispones de 2 formatos, uno que te permite invitar a un NPC en concreto a tu fiesta y otro para ir sin invitaciones. Ten cuidado! Si invitas a ese alguien y obtienes un enemigo es probable que sea esa persona. 11) Ponerse a trabajar (XGE Pag 134) A veces el dinero se acaba. Sea cual sea el motivo, a veces ser aventurero no cubre la estadía en un hostal, y es necesario invertir tiempo en trabajar. Estas son las cantidades de piezas de oro que puede conseguir un personaje por cada 5 días de trabajo al ponerse a trabajar:
-
-### Ponerse a trabajar
-
-| Tirada (1d20) | Piezas de oro/5 días |
+| Tirada | Resultado |
 |---|---|
-| ≤9 | 1 gp |
-| 10-14 | 5 gp |
-| 15-20 | 10 gp |
-| 21≤ | 35 gp |
+| 1 – 5 | Pierdes un nivel de amistad |
+| 6 – 10 | No pasa nada |
+| 11 – 15 | Un nivel de amistad con un NPC |
+| 16 – 20 | Un nivel de amistad con 2 NPC distintos |
+| 21 o más | Un nivel de amistad con 3 NPC distintos |
 
-**12) Vacaciones (XGE Pag 131).**
+Puedes invitar a un NPC concreto a tu fiesta. Cuidado: si sacas un enemigo, probablemente sea esa persona.
 
-A veces lo mejor que se puede hacer entre aventuras es relajarse. Siempre puedes buscar a alguien a quien venderle un objeto mágico que ya no necesites o que simplemente nunca llegase a ser de tu agrado. Si decides tomar esta opción, ten en cuenta que el objeto vendido será obtenido por un NPC y no se podrá recuperar de ninguna forma. Ningún NPC está interesado en comprar Potions of Healing ni objetos comunes. La venta de objetos mágicos se realizan siguiendo las reglas detalladas en XGtE p133 con dos excepciones: no se pueden vender objetos de rareza Common, y el precio de venta es el detallado en las siguientes tablas:
+### 7.10 Ponerse a trabajar
 
-### Precios de venta NO consumibles
+Por cada 5 días de trabajo ganas oro según tu tirada:
 
-Persuasión Uncommon Rare Very Rare Legendary
+| Tirada (1d20) | Oro por 5 días |
+|---|---|
+| 9 o menos | 1 po |
+| 10 – 14 | 5 po |
+| 15 – 20 | 10 po |
+| 21 o más | 35 po |
 
-| 1-10 | 200 | 1.500 12.000 | 60.000 |
-|---|---|---|---|
-| 11-20 | 400 | 2.500 20.000 | 100.000 |
-| 20+ | 600 | 3.750 24.000 | 100.000 |
+### 7.11 Vacaciones y venta de objetos mágicos
 
-### Precios de venta consumibles
+Puedes vender a un NPC un objeto mágico que ya no quieras. El objeto se pierde para siempre. Nadie compra pociones de curación ni objetos comunes. Usa las reglas de venta de Xanathar's Guide con estos precios (en po):
 
-Persuasión Uncommon Rare Very Rare Legendary
+**Objetos permanentes**
 
-| 1-10 | 100 | 1.200 | 9.600 | 48.000 |
+| Persuasión | Infrecuente | Raro | Muy raro | Legendario |
 |---|---|---|---|---|
-| 11-20 | 200 | 2.000 16.000 | 80.000 |  |
-| 20+ | 300 | 3.000 19.200 | 100.000 |  |
+| 1 – 10 | 200 | 1.500 | 12.000 | 60.000 |
+| 11 – 20 | 400 | 2.500 | 20.000 | 100.000 |
+| 21 o más | 600 | 3.750 | 24.000 | 100.000 |
 
-**14) Ponerse al corriente.**
+**Consumibles**
 
-Para los aventureros que no se sientan a la medida de sus contemporáneos en el cuerpo expedicionario, el Puño de los Dioses ofrece a manera de curso intensivo, la oportunidad de alcanzarlos por un costo. Esta opción de días de descanso solo puede ser empleada cuando el aventurero esté a un nivel de alcanzar el siguiente tier y cuando el jugador del mismo disponga del rol de Tier 2. Alternativamente, si no dispones del rol de Tier 2 tu personaje puede ponerse al corriente al alcanzar 3.250 XP si es marcial, 4.000 si es Half-Caster (+Warlock) o 5.000 si es Full-Caster. 15) Entrenar para otra clase (Multiclasear) En caso de querer avanzar un nivel en otra clase que no sea tu clase principal, deberás emplear días de descanso con tu maestro y pagarle por sus servicios. En caso de que dispongas de subclase, tu entrenador deberá ser de la misma subclase. En caso de que sea un NPC el que te entrene, deberás pagar las monedas de oro que se indican en la siguiente tabla. No existen NPCs maestros de todas las subclases.
+| Persuasión | Infrecuente | Raro | Muy raro | Legendario |
+|---|---|---|---|---|
+| 1 – 10 | 100 | 1.200 | 9.600 | 48.000 |
+| 11 – 20 | 200 | 2.000 | 16.000 | 80.000 |
+| 21 o más | 300 | 3.000 | 19.200 | 100.000 |
 
-### Entrenamiento para multiclase
+### 7.12 Entrenar otra clase (multiclase)
 
-| Level Attained | Training Time | Training Cost |
+Para ganar un nivel en una clase distinta a la principal necesitas un **maestro** de esa clase (y de la misma subclase, si ya la tienes). Si es un NPC, le pagas según esta tabla, más un 10 % de impuestos a la Administración de Aaredale. Si es el personaje de otro jugador, acuerdan un precio menor y deben haber hecho juntos una expedición exitosa. No hay maestros NPC de todas las subclases.
+
+| Nivel que alcanzas | Tiempo | Costo |
 |---|---|---|
-| 2-5 | 10 days | 20 gp |
-| 6-10 | 20 days | 40 gp |
-| 11-15 | 30 days | 60 gp |
-| 16-20 | 40 days | 80 gp |
+| 2 – 5 | 10 días | 20 po |
+| 6 – 10 | 20 días | 40 po |
+| 11 – 15 | 30 días | 60 po |
+| 16 – 20 | 40 días | 80 po |
 
-abonar un 10% extra a la Administración de Aaredale en concepto de impuestos. En caso de que seas el maestro del personaje de otro jugador, deberás acordar un precio por tus servicios (inferior a los tabulados) y emplear la misma cantidad de días de descanso. 16) Crear pociones de vida Si dispones de proficiencia en Herbalism Kit y puedes lanzar un hechizo de curación de la escuela de evocación puedes usar oro y días de descanso para crear Pociones de curación no vendibles usando el formato anclado y atendiendo a la siguiente tabla:
+### 7.13 Financiar a otro aventurero
 
-| Potion . . . | Working Time Working Cost |  |
-|---|---|---|
-| of Greater Healing | 5 days | 100 gp |
-| of Superior Healing | 10 days | 250 gp |
-| of Supreme Healing | 15 days | 600 gp |
+- **Pergaminos:** pagas un 20 % extra sobre el costo de inscribirlo y el escriba no paga materiales.
+- **Servicios:** pagas el 80 % del precio del producto (50 % materiales, 20 % gremio, 10 % impuestos). El artesano puede cobrarte hasta el 100 % y quedarse la diferencia.
 
-### Financiaciones
+### 7.14 Apostar (Zhentarim)
 
-En más de una ocasión te interesará obtener una serie de bienes o beneficios para los cuales otro compañero de la Lanza de Plata esté cualificado. También cabe la posibilidad de que goces de unas habilidades que otros requieran para conseguir algún objetivo. Estructuras: Es necesario saber qué edificio vas a construir, contratar a los hirelings necesarios, y disponer del oro requerido. Esta activdad se #compras-y-ventas realiza en Pergaminos: Para financiar la escritura de pergaminos es necesario pagar un 20% adicional al coste base reflejado en Inscribir un hechizo en un pergamino y conocer a alguien capaz de crearlo. Esto reduce el coste de piezas de oro por parte del fabricante a 0. Es necesario que el mensaje del creador aparezca después que el del contratador. Servicios: para solicitar los servicios de un compañero solo es necesario conocerlo y disponer del oro suficiente. El costo para la fabricación de un producto es igual al 50% de su precio base en concepto de materiales, un 20% del valor del producto para el gremio apropiado, y un 10% del valor del producto en concepto de impuestos. Esta actividad reduce el coste de piezas de oro por parte del fabricante a 0.Esto significa que deberás pagar un 80% del producto a la hora de solicitar el servicio pero el fabricante puede solicitarte hasta un 100% del mismo, ingresando en sus arcas la diferencia.
+Con Fidelidad suficiente entre los Zhentarim puedes apostar en los bajos fondos de Aaredale: 10 Días de Descanso y 10 po. Indicas tu bonificador de Engaño, Perspicacia y Juego de Manos; el DM hace en privado 3 pruebas de dificultad creciente, con un factor de azar extra.
 
-CAPÍTULO 8 Si dispones de suficiente fidelidad entre los Zhentarim podrás realizar esta actividad empleando 10 días de descanso e invirtiendo 10 gps. Siguiendo el formato anclado deberás indicar en el orden que gustes tu bono a Deception, Insight y Sleight of Hands. Se realizarán 3 checks con esos atributos por privado, siendo el primero el más fácil y el último el más difícil. Los resultados de la apuesta también dependen de un factor aleatorio extra.
+### 7.15 Mezclar pociones
 
-18) Mezclar Pociones (DMG 140) Esta actividad toma 1 día de descanso. Existen 2 comandos para la mezcla de pociones.
+Por 1 Día de Descanso puedes mezclar dos pociones según las reglas de mezcla del Dungeon Master's Guide. Las pociones de curación compradas en tienda no se mezclan entre sí.
 
-Básica: En esta opción debes indicar que poción mezclas. El comando te sustraerá el precio de una healing potion y realizará la combinación con ésta. Avanzada: En esta opción debes indicar el nombre de las dos pociones que mezclas. En este caso también puedes aplicar una Healing Potion como segunda poción que ya tuvieses en posesión. Las Healing Potion mundanas (las que se compran en la tienda) no pueden ser mezcladas entre ellas.
+## 8. Registro de personajes
 
-## 8.2 #recompensas
+Toda la información de tus personajes vive en la **hoja de registro** (Google Sheets). Ahí anotas la creación, cada subida de nivel, los Días de Descanso gastados, las compras y ventas y los turnos de Bastión. El DM anota las recompensas de cada sesión.
 
-Los formatos para la realización de los registros que se muestran a continuación están anclados en el canal de #recompensas. 1) Realización de tiros en tablas de tesoro Al terminar una sesión, tus personajes se hacen acreedores de puntos de tesoro que luego pueden utilizar cuando regresen al Bastión de Danerion. Recuerda que las tablas de tesoro están ligadas a un Tier y solo podrán ser lanzadas si tu personaje ya ha llegado al Tier correspondiente. Esto requiere realizar una entrada en el canal que incluye un lanzamiento de un dado de 100 caras. El item obtenido se vuelve parte del inventario de tu personaje de manera inmediata, y puede ser utilizado a partir de ese momento. En caso de obtener una recompensa que otorgue una o más tiradas en otra tabla, comunícalo a un miembro de @Staff por #soporte. En caso de obtener una recompensa con múltiples opciones, contactar con un @Staff a través de soporte. 2) Puntos de renombre Tras realizar el resumen en #resúmenes de la sesión y recibir el visto bueno por parte del MC (con una reacción), tu personaje se hará acreedor de un punto de renombre. Como jugador solo puedes obtener 5 Puntos de Renombre al mes procedentes de realización de resúmenes. En algunas ocasiones el MC entregará un punto de renombre como recompensa a una hazaña y será añadido en el Registro de MCs. Tened en cuenta que habrá cierto periodo de espera por temas de validación del bot para el resumen.
+- **Nunca edites un registro anterior.** Si te equivocas, avisa al DM.
+- Si tu personaje muere o se retira, anótalo en la hoja como baja. Existe la posibilidad de resucitarlo.
+- Para comprar, usa los precios del [Mercado](mercado.md). Se vende a la mitad del precio de compra. Los nombres de objetos van en inglés.
 
-CCAAPPÍÍTTUULLOO 88 1157 Los formatos para la realización de los registros que se muestran a continuación están anclados en el canal de #compras-y-ventas. Actualmente solo se permite la compra de la lista de Equipo y objetos en el mercado, del canal #documentacion.
+## 9. Expediciones
 
-### Comprar y vender
+Las expediciones las arma el DM con el **tablón de encargos**:
 
-Cuando tengas que armarte de provisiones para el viaje o vender cosas que ya no usas, basta con rellenar el formato anclado. Al comprar ten en cuenta las siguientes
+1. Cada semana el DM publica 2 o 3 encargos por mesa: destino en el mapa, tier, rumor y pago del Puño.
+2. Los jugadores convocados eligen uno al menos 48 horas antes.
+3. En la mesa, el grupo decide libremente qué hacer.
+4. Un jugador puede proponer su propio destino con una semana de anticipación. Si el DM lo acepta, entra al tablón.
+5. Al terminar, un jugador escribe el **informe al Puño de los Dioses**. Debe ser verídico: no se le miente a los paladines.
 
-El costo de compra de los objetos es el que se encuentra en el Lista de Equipo y objetos en el mercado, anclado en #documentación, mientras que el de venta es la mitad de este valor. El nombre del objeto debe estar siempre en inglés. Si tienes dudas de cómo se nombra un objeto en concreto siempre puedes preguntar en #soporte o comprobar el enlace en #documentación. Una vez realizada la compra, en caso de que sea errónea el bot así nos lo indicará. Si es válida éste nos indicará el dinero total gastado.
+Las sesiones de menos de **3 horas** no dan Puntos de Tesoro ni de Renombre.
 
-### Financiar Estructuras
+!!! warning "Viajar solo por las Tierras Salvajes"
+    Un personaje que viaja solo tiene un 95 % de probabilidades de morir. Piénsalo dos veces antes de dejar atrás a tus compañeros.
 
-El formato de financiación de estructuras, también anclado en #compras-y-ventas, requiere que indiques el oro total que vas a pagar por la estructura, incluyendo costes materiales y de hirelings, qué estructura vas a hacer y dónde vas a construírla, siendo las opciones actualmente Aaredale, Shaarmid, Zona de Luz y Zona de Oscuridad, siendo cada una más cara y menos segura que la anterior. El sistema de estructuras aún debe ser investigado hablando con constructores y promotoras que no siempre se encuentran en la región. Para evitar que se emplee el sistema automatizado del bot para obtener la información de los costes y tiempos, cada personaje puede hacer un total de 20 intentos de financiación de estructuras, contando en los intentos tanto éxitos como fracasos. Una vez no te queden intentos tu personaje nunca más podrá financiar una estructura.
+## 10. El mapa
 
-## jugar? 9.1 ¿Cómo organizo una expedición?
-
-El primer paso para poder jugar en el servidor y organizar una partida es disponer tu propio personaje. Entonces, para organizar una expedición deberás elegir un punto de interés en el mapa y tener un personaje validado del Tier correspondiente al punto. Si no estás seguro de escoger un punto antes de tener a tu grupo formado, puedes rellenar el formato en el canal #expediciones con el siguiente destino: “Destino por decidir”. De esta forma podrás ajustar la decisión del punto para cuando ya sepas el nivel de todos tus camaradas. Recuerda que, en principio, un MC no tomará una expedición hasta saber cuál es el destino. El punto de interés a elegir debe ser uno al cual no exista ya otra expedición agendada y no se considere “cerrado”. Se deberá especificar el nombre y nivel de tier del lugar, así también como las coordenadas del punto de interés. De la misma forma, puedes unirte a una expedición ya creada yendo al canal #expediciones. Las sesiones que no duren 3 horas no otorgarán Puntos de Tesoro ni de Renombre, por lo que pueden esperar que esta sea la duración habitual de una partida. El canal debe ser alguno de los tantos canales #mesa que no esté actualmente en uso por otra expedición. Ese canal funcionará para organización y reclutamiento de la expedición. Los aventureros que pueden asistir a una misma expedición están limitados en nivel de tier siguiendo las reglas de Nivel de Tier. Además de que siempre puedas agregar suplentes en caso de necesitar reemplazar a alguno de los participantes registrados. Una vez hayan llegado a un acuerdo, solo queda confirmar los detalles con los participantes y prepararse para la sesión. No es necesario que un MC avale tus compras, siempre y cuando las reflejes en #compras-y-ventas con el formato adecuado. La sesión se jugará a la hora acordada en una sala de juego libre. Una vez empiece la sesión dicha sala de juego y su canal de texto correspondiente serán para vuestro libre uso con todos los temas relacionados con la sesión. Una vez terminada dicha sesión, el responsable de la misma deberá realizar un informe que entregará a la Organización y a El Puño de los Dioses. Este informe es un resumen de lo sucedido durante la sesión y debe ser verídico (no se puede mentir rodeado de paladines y clérigos). Dicho informe será registrado con el formato anclado en el canal de #resúmenes. Dicho informe puede ser traspasado a otro participante de la expedición, siempre que tanto el líder como el beneficiario estén de acuerdo. A mayores, después de dicha sesión, el @staff le dará acceso únicamente a los jugadores a un canal de #feedback. En dicho canal los jugadores deberán votar cuán justo consideraron que fue el MC en una escala del 1 al 5, siendo 1 muy injusto y 5 muy justo y también pueden dejar cualquier comentario que consideren oportuno, un miembro de @staff se encargará de transmitírselo al MC.
-
-## 9.2 ¿Qué necesito para dirigir una sesión?
-
-Los interesados deben preguntar en #soporte para hacer del conocimiento de los administradores la intención de unirse a la campaña como Maestro de Ceremonias. Los MCs están a disposición de los grupos de jugadores, quienes deciden con qué personajes participar y qué área desean explorar. Los MCs, a su vez, organizarán la aventura alrededor de estos intereses y tienen completo control de la sesión. Adicionalmente, los MCs deben documentar las recompensas obtenidas por los jugadores y las bajas sufridas en el canal #registro-mcs. Cabe notar que los jugadores que actúen como MCs obtienen ciertas prestaciones adicionales a manera de recompensas por la labor tan importante que desempeñan. Estas recompensas son explicadas con más detalle en el documento para MCs, anclado en #documentación.
-
-CAPÍTULO 9 Podrás encontrar y consultar el mapa de la campaña en el canal #mapa para resolver todas tus dudas o inquietudes.
-
-## 10.1 ¿Cómo utilizo el mapa de las Tierras Salvajes?
-
-Al momento de organizar tu grupo para la expedición debes elegir un punto actual al cual dirigirte. El punto que elijas debe ser uno que posea un símbolo y no puede ser mayor al tier de tu personaje. Para elegir un punto, basta con mencionar las coordenadas del hexágono que te gustaría explorar. A esta le corresponde una dirección que se conforma de 5 dígitos en T1, que corresponden a las series de números que corren a los dados del mapa. Similar a un plano cartesiano, éstos nos permiten saber hacia dónde planeas viajar con tu grupo. Los 5 dígitos de la dirección se obtienen juntando los números entre las series que corren a los lados del mapa. Los primeros 2 dígitos se obtienen de la columna horizontal (que se encuentran en el borde superior e inferior del mapa) y corren desde 50.000 hasta 160.000. Los últimos 3 dígitos se obtienen de las series que corren a los lados derecho e izquierdo del mapa, y generan números del 223 al 352. Dicho esto, resulta fácil designar un punto en el mapa. Como ejemplo, Aaredale se encuentra en 81290.
-
-## 10.2 Encontrar coordenadas de un punto de interés en el mapa
+Cada destino del mapa tiene coordenadas. Un destino debe estar marcado con un símbolo y no puede ser de un tier mayor que el de tu personaje. A esta le corresponde una dirección que se conforma de 5 dígitos en T1, que corresponden a las series de números que corren a los dados del mapa. Similar a un plano cartesiano, éstos nos permiten saber hacia dónde planeas viajar con tu grupo. Los 5 dígitos de la dirección se obtienen juntando los números entre las series que corren a los lados del mapa. Los primeros 2 dígitos se obtienen de la columna horizontal (que se encuentran en el borde superior e inferior del mapa) y corren desde 50.000 hasta 160.000. Los últimos 3 dígitos se obtienen de las series que corren a los lados derecho e izquierdo del mapa, y generan números del 223 al 352. Dicho esto, resulta fácil designar un punto en el mapa. Como ejemplo, Aaredale se encuentra en 81290.
 
 Siguiendo los pasos del párrafo anterior, buscamos la coordenada de los primeros 2 dígitos. Revisando la fila vertical observamos que el lugar de interés se encuentra en la columna 81000. Ahora solo es necesario buscar los últimos 3 dígitos. Éstos estarán señalados en la columna horizontal, en la que encontramos representada la segunda parte de nuestra coordenada fila 00290. Por último, solo unimos ambos pares de dígitos en una sola coordenada final 81290.
 
-## 10.3 Navegando el Continente
+### Navegar el continente
 
 El mapa está dividido por hexágonos que delimitan las diferentes zonas que comprenden las tierras circundantes a Aaredale. Cada hexágono representa 25 millas o un día de viaje (bajo condiciones favorables). Otras situaciones pueden contribuir a la disminución de esta velocidad, incluyendo moverse con sigilo, cazar comida para contribuir a la alimentación del grupo, etc. También se puede viajar a un ritmo más veloz, avanzando más rápido a cambio de reducir la capacidad de atención. En caso de utilizar otros medios de transporte, la velocidad puede variar.
 
-CAPÍTULO 10
+Puedes ver el mapa en [El mapa](../mundo/mapa.md).
 
-## 12. Campamentos y características
+## 11. Campamentos
 
-Es probable que en viajes largos a zonas especialmente alejadas te interese hacer todo el trabajo posible de una. Para esto existen a disposición de todos los aventureros la posibilidad de comprar un Kit Especial de Acampada que incluye comida para varios días, herramientas de supervivencia, materiales para camuflarse y otra gran cantidad de enseres útiles para sobrevivir lo suficiente en la oscuridad de las Tierras Salvajes. El [Kit de Acampada] debe ser adquirido como grupo al iniciar una sesión, cuesta un total de 10 gp y pesa 120 pounds. Una vez dispongas del Kit y tras informar al MC, podrás realizar la acción de “Acampar” 1 vez durante la sesión. Otros personajes que no se encuentren en la sesión pero gusten o planeen acompañar al resto del grupo pueden comprar su Kit de Acampada y participar en la empresa.
+En viajes largos puede convenir no volver a Aaredale entre sesiones. Para eso existe el **Kit de Acampada**: comida para varios días, herramientas de supervivencia, material de camuflaje y lo necesario para aguantar en la oscuridad. El grupo lo compra al empezar la sesión: cuesta **10 po** y pesa **120 libras**. Con el kit, y avisando al DM, el grupo puede **acampar una vez** durante la sesión.
 
-## 12.1 Acampar
+### 11.1 Acampar
 
-Al finalizar una sesión, si todo el grupo dispone de un Kit de Acampada, puede acampar en el lugar en lugar de volver a Aaredale. Acampar en el lugar supone lo siguiente:
+Al terminar la sesión, si todo el grupo tiene Kit de Acampada, puede quedarse acampado en lugar de volver a Aaredale:
 
-Todo el grupo gasta 1 Kit de Acampada No se pueden comprar objetos. No se pueden realizar lanzamientos en tablas de tesoro. En líneas generales, no se puede llevar a cabo ninguna actividad que requiera de la presencia del personaje en Aaredale. La subida de nivel solo será factible si el MC lo permite, en caso de que las circunstancias sean favorables. Las recompensas materiales se cobrarán pero no se podrá hacer uso de ellas hasta llegar a Aaredale. Las bendiciones no empleadas se transmitirán a la siguiente partida. No se pueden comprar varias veces la misma bendición a lo largo de un mismo campamento.
+- Todo el grupo gasta 1 Kit de Acampada.
+- No se pueden comprar objetos ni tirar en las tablas de Tesoro, ni hacer nada que exija estar en Aaredale.
+- Subir de nivel solo es posible si el DM lo permite.
+- Las recompensas se cobran, pero no se pueden usar hasta llegar a Aaredale.
+- Las bendiciones y favores sin usar pasan a la siguiente sesión. No se puede comprar dos veces la misma durante un campamento.
+- La siguiente sesión empieza en el campamento y no admite miembros nuevos.
 
-Un grupo que haya acampado debe iniciar su próxima sesión en el lugar de acampada y no puede recibir nuevos miembros.
+En la práctica, acampar divide una expedición larga en dos sesiones, cada una con su propia recompensa.
 
-CAPÍTULO 12 De forma efectiva, este método sirve para dividir una sesión larga en 2 sesiones distintas que podrán ser completadas en diferentes días. Cada sesión tendrá una recompensa por separado.
+### 11.2 Acompañantes
 
-## 12.2 Acompañantes
+- Un personaje invitado por el grupo puede comprar su Kit de Acampada y unirse en la siguiente sesión aunque no jugara la primera.
+- Un personaje que jugó la primera sesión pero no juega la segunda pasa a ser **acompañante**: no participa y cuenta como un empleado experto.
+- Si el grupo es aniquilado, el acompañante queda acampado hasta que otro grupo lo rescate. Un jugador no puede rescatar a otro personaje suyo.
+- Mientras acompañas, tienes las mismas restricciones que si estuvieras acampando.
 
-Cualquiera que sea invitado por el grupo original de aventureros que parta desde Aaredale puede comprar un Kit de Acampada y unirse a susodicho grupo. Esto implica que en la posterior sesión que se juegue en el lugar este personaje pueda unirse al grupo sin haber participado en la primera. De la misma forma, un personaje que participe en la primera sesión y se abstenga de jugar la segunda, pasa a considerarse acompañante de este segundo grupo. Los acompañantes no podrán involucrarse de ninguna forma en la sesión y serán considerados a efectos prácticos como Hirelings (skilled). Esto sin embargo tiene sus riesgos. Si el grupo que acompañas es totalmente aniquilado, tu personaje queda acampado en el punto hasta que otra party vaya a rescatarlo. Un personaje de un jugador no puede rescatar a otro personaje de ese mismo jugador. A mayores, mientras acompañes al grupo se te aplican las mismas restricciones que si estuvieras acampando.
+### 11.3 Lugares aliados
 
-## 12.3 Torres, bastiones y ciudades aliadas
+Acampar en un lugar aliado (una torre, un bastión o un asentamiento amigo) no requiere Kit de Acampada. Los acompañantes pueden quedarse ahí en lugar de seguir al grupo, y volver solos a Aaredale tras una semana.
 
-Acampar en un lugar aliado supone que el grupo no necesitará proveer un Kit de Acampada para realizar susodicha acción. Los acompañantes pueden quedarse en uno de estos lugares seguros en lugar de acompañar al grupo, permitiéndoles así regresar a Aaredale individualmente con seguridad tras transcurrir una semana acampado. Parece ser que la tardanza de los mapas de las zonas más alejadas de Aaredale no se debía a la incompetencia del cartógrafo de confianza… Después de unas lunas sin información de Evendur, líder de los exploradores, y sus subalternos; el Puño de los Dioses ha descubierto con ayuda de sus poderes que todos han fallecido. La principal sospecha es que todo ha sido obra de los Drows. La oscuridad se cierne con más intensidad sobre los osados aventureros que se internen allá donde el Corazón de Luz no alcance a iluminar. De ahora en adelante, es necesario que sean los propios expedicionarios de La Lanza de Plata los que viajen, dibujen y consigan los mapas actualizados de los alrededores, pues ya nadie les proveerá la información sobre que hay más allá de los límites conocidos.
+## 12. Exploraciones
 
-### Preparando la sesión
+Los mapas de las zonas lejanas ya no llegan: Evendur, el líder de los exploradores, y su equipo murieron, y el Puño de los Dioses sospecha de los drow. Desde entonces, los propios expedicionarios de la Lanza deben viajar, dibujar y traer los mapas de lo que hay más allá de la luz.
 
-Una sesión de exploración es una partida en la cual los personajes partirán con la intención de explorar nuevas extensiones de terreno en la oscuridad. Esta modalidad de juego solo está disponible a partir de T2. Antes de realizar la sesión y con suficiente antelación, los jugadores deberán indicar de forma clara al MC cuál es el camino o zona por la que se realizará la exploración, pues de esta forma éste se podrá preparar la zona y sus alrededores. Es importante saber a la hora de realizar esta exploración que será necesario disponer en el grupo de alguien que sea proficiente en Cartographer’s Tools, por lo que si ningún personaje dispone de dicha proficiencia, deberéis contratar a un Hireling (skilled). Dicho Hireling cobra 2 gp/día, sin embargo, a sabiendas de que se adentrará en la zona de completa oscuridad y que no se dispone de ningún mapa que le otorgue seguridad, su familia cobrará como fianza 3 veces el coste total del viaje. Para esto es necesario determinar cuántos días se tardaría en volver a Aaredale. En caso de perder al Hireling perderéis todo el dinero de la fianza. En caso de llegar con retraso perdereis ⅓ de la misma. Adicionalmente, en caso de acampar, el Hireling requerirá un Kit de Acampada a mayores (que debe comprar alguién del grupo) y cobrará 10 días adicionales. En esta modalidad de juego el día se divide en 3 partes de 8 horas cada una, y habitualmente serán usadas de la siguiente forma: Dormir - Viajar - Dibujar Mapas, aunque los aventureros pueden tomar distintas decisiones. Para que esta modalidad de juego sea un éxito es necesario revelar como mínimo 6 hex del mapa. Viajar
+Una **sesión de exploración** es una partida para descubrir terreno nuevo en la oscuridad, sin un punto de interés fijo. Solo está disponible desde **Tier 2**.
 
-Durante cada parte del día el grupo puede ser interceptado por todo tipo de imprevistos; desde ser acechados por criaturas de la oscuridad, hasta encontrarse con unos viajeros recientemente asaltados por bandidos… Quien sabe lo que pueden deparar las lejanas e inexploradas tierras que rodean Aaredale. No se podrá iniciar la exploración de un punto en una sesión de este tipo. Si da la casualidad que el grupo se cruza con un punto de interés, solo se podrá explorar en caso de disponer del correspondiente kit de acampada para acampar, e iniciar la exploración del punto en el momento que un MC decida coger el sitio en cuestión. Dormir
+### 12.1 Preparación
 
-Los aventureros descansarán las 8 horas reglamentarias realizando las respectivas guardias si así se decide. Peligros pueden asomar por la noche...
+- Con suficiente anticipación, el grupo le dice al DM qué ruta o zona va a explorar, para que pueda prepararla.
+- Alguien del grupo debe tener competencia con **Cartographer's Tools**. Si nadie la tiene, contratan a un cartógrafo (empleado experto) por 2 po al día.
+- La familia del cartógrafo cobra una fianza de **3 veces el costo total del viaje**, calculado según los días para volver a Aaredale. Si el cartógrafo muere, se pierde toda la fianza; si vuelven con retraso, se pierde un tercio.
+- Si el grupo acampa, el cartógrafo necesita su propio Kit de Acampada y cobra 10 días más.
 
-Dibujar el mapa
+### 12.2 El día de exploración
 
-Si se usa una de las partes del día para dibujar mapa, el hex del mapa en el que os encontréis se revelará de forma automática. ¡De volver con dichos mapas a Aaredale todos los jugadores del servidor disfrutarán de las revelaciones en el mapa!
+Cada día se divide en 3 partes de 8 horas. Lo habitual es **dormir, viajar y dibujar mapas**, pero el grupo decide.
 
-Abrirse Paso
+- **Viajar:** en cada parte del día pueden aparecer imprevistos, desde criaturas de la oscuridad hasta viajeros asaltados por bandidos.
+- **Dormir:** el grupo descansa 8 horas y hace guardias si quiere. La noche tiene sus peligros.
+- **Dibujar el mapa:** el hex donde está el grupo se revela. Si traen los mapas a Aaredale, toda la mesa ve el mapa actualizado.
+- **Abrirse paso:** el grupo puede reparar un puente, tender una cuerda o despejar un camino para que un hex sea más fácil, o posible, de cruzar.
 
-Los aventureros pueden decidir reparar un puente, poner una cuerda o hacer diferentes acciones si disponen de lo necesario para ello que puedan facilitar el tránsito por el hex o incluso volver posible el cruzarlo cuando no debería serlo.
+Una exploración tiene éxito si revela al menos **6 hexes**. En una sesión de exploración no se puede empezar a explorar un punto de interés: si el grupo encuentra uno, solo puede explorarlo acampando y volviendo en otra sesión.
 
-CAPÍTULO 13
+## 13. Economía y niveles altos
 
-## Altos
-
-A fin de mantener la coherencia en la economía del setting y de responder dudas sobre el juego se añaden los siguientes comentarios:
+Notas para mantener la coherencia de la economía y del mundo.
 
 ### Piezas de platino
 
@@ -676,79 +416,61 @@ Las sustancias producidas por un alchemy jug expiran a los 4 días. Este objeto 
 
 Los beneficios obtenidos en posesión de este objeto se pierden una vez te deshaces del mismo, es decir, en caso de entrenar un idioma con este objeto puesto y con un 10 en inteligencia, tu personaje dejará de conocer dicho idioma una vez se quite la Headband of Intellect. Sin embargo, el avance no se pierde. En este mismo ejemplo, podrías emplear 100 de oro y 20 días de descanso para recuperar dicha proficiencia.
 
-### Hechizos almacenados
+### Conjuros almacenados
 
 Los hechizos de nivel 1 y superior almacenados en una Ioun Stone reserve o Ring of Spell Storing tienen una caducidad máxima de 24 horas, no pudiendo sus efectos prolongarse en el tiempo aunque el hechizo así lo permita.
 
-### Fichas de Monstruos NO específicas
+### Fichas de criaturas
 
-Cuando un hechizo o una feature permita libremente escoger una ficha de monstruo, pongamos por ejemplo el hechizo Polymorph o Conjure Woodland Beings, esta ficha debe ser escogida del Monster Manual [MM], Mordekainen Presents: Monsters of the Multiverse [MPMM] o el [PHB]. Los dinosaurios no existen.
+Cuando un conjuro o rasgo te deja elegir una ficha de criatura (por ejemplo, Polymorph o las formas de Wild Shape), elígela del **Monster Manual 2025** o del Player's Handbook 2024. Los dinosaurios no existen.
 
-### Druida
+### Comida y agua de los NPC
 
-Los druidas escogen un terreno donde se han desarrollado. Según ese terreno deberán seguir las pautas del XGtE para saber qué animales conocen.
+Solo los personajes de los jugadores disponen de la posibilidad de no comer en función de su modificador de constitución. El resto de NPCs de tamaño large o inferior deben comer su correspondiente porción de comida o recibir un nivel de agotamiento. Los NPCs contratados NO se traen su propia comida, hay que suministrársela. Sí, los familiares comen. Sí, las monturas invocadas comen. Es así hasta que tengan una feature que diga lo contrario.
 
-### Comida y agua de NPCs
-
-Solo los personajes de los jugadores disponen de la posibilidad de no comer en función de su modificador de constitución. El resto de NPCs de tamaño large o inferior deben comer su correspondiente porción de comida o recibir un nivel de exhaust. Los NPCs contratados NO se traen su propia comida, hay que suministrársela. Sí, los familiares comen. Sí, las monturas invocadas comen. Es así hasta que tengan una feature que diga lo contrario.
-
-### Attunement
+### Sintonización
 
 Todas las creaciones de un personaje comparten su mismo límite de attunements.
 
-CAPÍTULO 14
+### Conjuros de nivel 5 o más
 
-## Hechizos Nivel 5 y superior
+Lanzar un hechizo de nivel 5 o superior de larga duración como Contingency, requerirá de disponer de 1 semana sin jugar con el personaje o del empleo de 7 días de descanso yéndose de vacaciones. A mayores, no se podrán emplear más spell slots que los máximos del personaje (Un Druid nivel 13 no podrá lanzar 2 hechizos de nivel 7)
 
-Lanzar un hechizo de nivel 5 o superior de larga duración como Contingency, requerirá de disponer de 1 semana en logs previa sin jugar el personaje o del empleo de 7 días de descanso yéndose de vacaciones. A mayores, no se podrán emplear más spell slots que los máximos del personaje (Un Druid nivel 13 no podrá lanzar 2 hechizos de nivel 7)
+## 14. Conjuros con reglas propias
 
-## Hechizos específicos
-
-Los lanzadores de hechizos que aprendan los siguientes listados se verán afectados por cuestiones del setting y del lore del mundo de la Lanza de Plata. Añadir que estas afectaciones también son por temas de balance a su vez.
+Estos conjuros tienen ajustes por el lore y el balance de la campaña.
 
 ### Fabricate
 
-Cualquier lanzador de hechizos con acceso a Fabricate será contratado por el Puño de los Dioses por la generosa cantidad de 250 gp/semana, siendo dado de baja de manera automática. Cualquier clase con acceso a Fabricate puede decidir aprender en su lugar el hechizo Lesser Fabricate.
+Cualquier lanzador de hechizos con acceso a Fabricate será contratado por el Puño de los Dioses por la generosa cantidad de 250 po/semana, siendo dado de baja de manera automática. Cualquier clase con acceso a Fabricate puede decidir aprender en su lugar el hechizo Lesser Fabricate.
 
 Lesser Fabricate: Este hechizo es menos potente que Fabricate, por lo que tiene una duración de 1 hora y requiere concentración. Una vez acaba la concentración los materiales vuelven a su estado original.
 
 ### Wall of Stone
 
-Cualquier lanzador de hechizos con acceso a Wall of Stone será contratado por el Puño de los Dioses por la generosa cantidad de 340 gp/semana, siendo dado de baja de manera automática. Cualquier clase con acceso a Wall of Stone puede decidir aprender en su lugar el hechizo Lesser Wall of Stone.
+Cualquier lanzador de hechizos con acceso a Wall of Stone será contratado por el Puño de los Dioses por la generosa cantidad de 340 po/semana, siendo dado de baja de manera automática. Cualquier clase con acceso a Wall of Stone puede decidir aprender en su lugar el hechizo Lesser Wall of Stone.
 
 Lesser Wall of Stone: Este hechizo es menos potente que Wall of Stone, por lo que al acabar la concentración del hechizo el muro desaparece de todas formas.
-
-### Teleportation Circle
-
-Al aprender este hechizo no tienes garantizado aprender la secuencia de 2 destinos. Si algún MC considera oportuno que conozcas alguno puede hacerte entrega del mismo tras validación por parte del @Staff. En caso de que más de 2 MCs consideren que puedas aprender más de 2 secuencias, el @Staff decidirá cuales aprendes. El círculo de teletransportación de Aaredale jamás será entregado a un aventurero.
 
 ### Awaken
 
 Los Awakened Tree nunca te acompañarán tras acabar el período de 30 días.
 
-### Wish
-
-El objeto creado tiene un valor de 0 gp. Para replicar un hechizo con coste material, es necesario proveer de tanto oro como la mitad del coste original de hechizo. El dado de 100 caras se realizará junto al registro MC (1-33 pierdes el poder). Al volver a la vida con este hechizo deberás quedarte con los atributos de la raza en la que te transformes, ignorando los beneficios de Customizing your Origin (TCE). Un Humano Variante o un Custom Lineage que sea objetivo de este hechizo perderán todos los bonos de características de su raza destino y la dote que el @Staff considere apropiado de todas las que posea el personaje.
-
 ### Bones of the Earth
 
-Cualquier lanzador de hechizos con acceso a Bones of the Earth será contratado por el Puño de los Dioses por la generosa cantidad de 420 gp/semana, siendo dado de baja de manera automática. Cualquier clase con acceso a Bones of the Earth puede decidir aprender en su lugar el hechizo Lesser Bones of the Earth.
+Cualquier lanzador de hechizos con acceso a Bones of the Earth será contratado por el Puño de los Dioses por la generosa cantidad de 420 po/semana, siendo dado de baja de manera automática. Cualquier clase con acceso a Bones of the Earth puede decidir aprender en su lugar el hechizo Lesser Bones of the Earth.
 
 Lesser Bones of the Earth: Este hechizo es menos potente que Bones of the Earth, por lo que tras transcurrir 10 minutos los pilares colapsarán.
 
 ### Move Earth
 
-Cualquier lanzador de hechizos con acceso a Move Earth será contratado por el Puño de los Dioses por la generosa cantidad de 420 gp/semana, siendo dado de baja de manera automática. Cualquier clase con acceso a Move Earth puede decidir aprender en su lugar el hechizo Lesser Move Earth.
+Cualquier lanzador de hechizos con acceso a Move Earth será contratado por el Puño de los Dioses por la generosa cantidad de 420 po/semana, siendo dado de baja de manera automática. Cualquier clase con acceso a Move Earth puede decidir aprender en su lugar el hechizo Lesser Move Earth.
 
 Lesser Move Earth: Los cambios producidos en el terreno por este hechizo serán revertidos tras transcurrir 24 horas.
 
 ### Transport via Plants
 
-Estamos en T3, las plantas encontradas en territorio de absoluta oscuridad tenderán a ser No Canónicas, por lo que solo podrán ser empleadas en las partidas del MC en cuestión salvo confirmación de @loremaster.
-
-### Word of Recall
-
-El hechizo no permite volver a Aaredale, pero sí a Shaarmid o a cualquier Templo oportuno fuera de murallas. El hechizo contingency se aplicará RAW. Esto quiere decir que con un tiempo de casteo de más de 1 acción requiere concentración su lanzamiento, por lo que castear a su vez otro hechizo de concentración rompe el casting de contingency. Normalmente aquí no se añaden anotaciones RAW, pero debida a la ingente cantidad de desinformación alrededor de este hechizo por la red se ha tomado la decisión de incluírlo en esta sección del documento.
+Las plantas encontradas en territorio de absoluta oscuridad tenderán a ser No Canónicas, por lo que solo se pueden usar con aprobación del DM.
 
 ### Etherealness
 
@@ -756,7 +478,7 @@ El lanzamiento del hechizo en Aaredale, independientemente de la privacidad de l
 
 ### Mordenkainen's Magnificent Mansion
 
-El hechizo no permite incorporar habitaciones del sistema de Estructuras de la Lanza de Plata.
+El hechizo no permite incorporar habitaciones del Bastión.
 
 ### Simulacrum
 
@@ -768,90 +490,126 @@ El hechizo no permite teletransportarse a territorio dentro de murallas o desde 
 
 ### Temple of the Gods
 
-El hechizo obtiene un componente material opcional: Incienso por valor de 150 gp. "Casting this spell on the same spot every day for a year makes this effect permanent" solo es efectivo si se emplea el componente material opcional durante el tiempo determinado.
+El hechizo obtiene un componente material opcional: Incienso por valor de 150 po. "Casting this spell on the same spot every day for a year makes this effect permanent" solo es efectivo si se emplea el componente material opcional durante el tiempo determinado.
 
 ### True Polymorph
 
 El hechizo es dispelleado al regresar de expedición.
 
-CAPÍTULO 14
+### Teleportation Circle
 
-## Aaredale
+Al aprender este conjuro no conoces automáticamente ninguna secuencia de destino. El DM decide si tu personaje conoce alguna. El círculo de teletransporte de Aaredale jamás se le entrega a un aventurero.
 
-El castigo por un crimen puede incluír uno o varios castigos, dependiendo de la naturaleza del crimen, contra quién o contra qué se ha cometido, el expediente criminal del convicto y el lugar dónde se infrinja la ley.
+### Wish
 
-## Crímenes contra los Habitantes del Bastión de Danerion
+El objeto creado vale 0 po. Para replicar un conjuro con componente material costoso, pagas la mitad de su costo. Tras usarlo, tiras 1d100 con el DM: con 1 – 33 pierdes la capacidad de lanzarlo. Si vuelves a la vida con este conjuro y cambias de especie, tomas los rasgos de la nueva especie y el DM puede quitar una dote que dependiera de la anterior.
 
-Asaltar a un ciudadano: Hasta 10 días de pena de cárcel, azotes y daños hasta 500 gp. Chantajear o intimidar a un ciudadano: Multa o daños hasta 250 gp y una orden. Hurtos y robos: Hasta 3 meses de pena de cárcel y daños equivalentes al valor de los bienes sustraídos más 250 gp. Robo con violencia: Hasta 1 mes de trabajos forzados y daños iguales al valor de los bienes robados más 250 gp. Dañar propiedades y ganado: Daños cubriendo el coste de las reparaciones o recambios más 250 gp. Perturbar la paz: Multa de hasta 25 gp y una orden. Asesinar a un ciudadano sin justificación: Muerte o hasta 10 años de trabajos forzados y daños de 1.000 gp pagados a la familia de la víctima. Asesinar a un ciudadano con justificación: Hasta 5 años de exilio o hasta 3 años de trabajos forzados o daños por valor de 1.000 gp a la familia de la víctima. Esclavitud: Azotes y hasta 10 años de trabajos forzados Usar magia para influenciar en un ciudadano sin su consentimiento: Multa o daños por valor de hasta 500 gp y una orden.
+### Word of Recall
 
-## Crímenes contra el Bastión de Danerion
+No permite volver a Aaredale, pero sí a un templo adecuado fuera de las murallas.
 
-Incendio provocado: muerte o trabajos forzados de hasta 1 año, con multas y/o daños cubriendo los costes de las reparaciones más 1.000 gp. Blandir armas sin motivo de causa: Hasta 10 días de prisión y/o una multa de hasta 10 gp. Tráfico de bienes robados: Multa por valor de los bienes robados y una orden. Falsificar un documento oficial: Azotes y exilio de hasta 10 años. Obstaculizar a la justicia: Multa por valor de hasta 150 gp y trabajos forzados de hasta 10 días. Tirar basura: multa por valor de hasta 2 gp y una orden. Denuncias falsas: Multa por valor de hasta 50 gp, daños por valor de la consecuencia máxima de la denuncia más 200 gp y trabajos forzados de hasta 1 mes. Entregar un informe falso u omitir su entrega: Multa por valor de hasta 5.000 gp y trabajos forzados de hasta 1 año. Omitir la entrega de un informe: Multa por valor de hasta 500 gp y trabajos forzados de hasta 4 meses. Envenenar las aguas de la ciudad: Muerte Vandalismo: Hasta 10 días de cárcel y una multa y/o daños cubriendo el coste de las reparaciones y hasta 50 gp adicionales. Usar magia para influenciar a un oficial sin su consentimiento: multa o daños por valor de hasta 600 gp y una orden.
+### Contingency
 
-CAPÍTULO 15 Asaltar a un sacerdote en Aaredale o en alguno de sus Protectorados: Hasta 10 días de prisión y daños por valor de 600 gp. Conducta desordenada en un templo de Aaredale o en alguno de sus Protectorados: Multa de hasta 10 gp y una orden. Blasfemar de forma pública en Aaredale o en alguno de sus Protectorados contra un dios o una iglesia: Multa de hasta 10 gp y una orden Robo de los bienes u ofrendas de un templo de Aaredale o de alguno de sus Protectorados: Hasta 10 días de prisión y daños por valor del doble de los objetos robados. Asaltar tumbas: Hasta 10 días de prisión y daños cubriendo los costes del asalto más 550 gp. Ejercer la nigromancia sin permiso oficial: Hasta 1 mes de trabajos forzados y/o daños cubriendo el doble de los costes eclesiásticos producidos. El encubrimiento de aquel que practique la brujería será condenado a una pena de prisión de 30 días y enclaustrado 60 días en alguna de las iglesias de Los Tres, pagando también una multa de 500 gp para cubrir los gastos eclesiásticos. La práctica de brujería será penada con la muerte.
+Se aplica tal como está escrito: como su tiempo de lanzamiento es mayor que una acción, requiere concentración mientras lo lanzas.
 
-## Crímenes contra los Oficiales, Nobles y Señores
+## 15. El Código Penal de Aaredale
 
-Asaltar o hacerse pasar por un Señor: Muerte. Asaltar o hacerse pasar por un Oficial o un Noble: Azotes, hasta 10 días de prisión y una multa por valor de 350 gp. Chantajear a un Oficial: Azotes y hasta 10 años de exilio. Sobornar o intentar sobornar a un Oficial: Hasta 20 años de exilio y una multa igual al doble del valor del soborno. Matar a un Oficial, Noble o Señor: Muerte Usar magia para influenciar a un Señor sin su consentimiento: Hasta 1 año de prisión y una multa o daños por valor de 500 gp. Usar magia para influenciar a un Oficial sin su consentimiento: Multa o daños por valor de 500 gp y una orden.
+El castigo por un crimen puede incluir uno o varios castigos, dependiendo de la naturaleza del crimen, contra quién o contra qué se ha cometido, el expediente criminal del convicto y el lugar dónde se infrinja la ley.
 
-## Permiso oficial de nigromancia
+### Crímenes contra los habitantes
 
-Para poder ejercer la nigromancia de forma legal y oficial tanto en Aaredale como en cualquier lugar dentro de las murallas proporcionadas por el Puño de Los Dioses es necesario obtener este permiso oficial. Para optar a él es necesario cumplir con los siguientes requisitos:
+- Asaltar a un ciudadano: Hasta 10 días de pena de cárcel, azotes y daños hasta 500 po.
+- Chantajear o intimidar a un ciudadano: Multa o daños hasta 250 po y una orden.
+- Hurtos y robos: Hasta 3 meses de pena de cárcel y daños equivalentes al valor de los bienes sustraídos más 250 po.
+- Robo con violencia: Hasta 1 mes de trabajos forzados y daños iguales al valor de los bienes robados más 250 po.
+- Dañar propiedades y ganado: Daños cubriendo el coste de las reparaciones o recambios más 250 po.
+- Perturbar la paz: Multa de hasta 25 po y una orden.
+- Asesinar a un ciudadano sin justificación: Muerte o hasta 10 años de trabajos forzados y daños de 1.000 po pagados a la familia de la víctima.
+- Asesinar a un ciudadano con justificación: Hasta 5 años de exilio o hasta 3 años de trabajos forzados o daños por valor de 1.000 po a la familia de la víctima.
+- Esclavitud: Azotes y hasta 10 años de trabajos forzados.
+- Usar magia para influenciar en un ciudadano sin su consentimiento: Multa o daños por valor de hasta 500 po y una orden.
 
-Jurar de forma absolutamente sincera no usar dichos poderes para causar el mal (Poseer alineamiento Bueno). Disponer del mecenazgo de alguno de los templos eclesiásticos del Bastión (Disponer de 1 Favor Religioso de 1 Dios en concreto)
+### Crímenes contra el Bastión de Danerion
 
-Para complimentar y formalizar la documentación es necesario pagar una matrícula inicial de 50 gp.
+- Incendio provocado: muerte o trabajos forzados de hasta 1 año, con multas y/o daños cubriendo los costes de las reparaciones más 1.000 po.
+- Blandir armas sin motivo de causa: Hasta 10 días de prisión y/o una multa de hasta 10 po.
+- Tráfico de bienes robados: Multa por valor de los bienes robados y una orden.
+- Falsificar un documento oficial: Azotes y exilio de hasta 10 años.
+- Obstaculizar a la justicia: Multa por valor de hasta 150 po y trabajos forzados de hasta 10 días.
+- Tirar basura: multa por valor de hasta 2 po y una orden.
+- Denuncias falsas: Multa por valor de hasta 50 po, daños por valor de la consecuencia máxima de la denuncia más 200 po y trabajos forzados de hasta 1 mes.
+- Entregar un informe falso u omitir su entrega: Multa por valor de hasta 5.000 po y trabajos forzados de hasta 1 año.
+- Omitir la entrega de un informe: Multa por valor de hasta 500 po y trabajos forzados de hasta 4 meses.
+- Envenenar las aguas de la ciudad: Muerte.
+- Vandalismo: Hasta 10 días de cárcel y una multa y/o daños cubriendo el coste de las reparaciones y hasta 50 po adicionales.
+- Usar magia para influenciar a un oficial sin su consentimiento: multa o daños por valor de hasta 600 po y una orden.
 
-### Formato en #Registro-Personajes
+### Crímenes contra oficiales, nobles y señores
 
-[Personaje] es patrocinado por [Nombre del Dios] y paga 50 gp para obtener su Permiso Oficial de Nigromancia.
+- Asaltar o hacerse pasar por un Señor: Muerte.
+- Asaltar o hacerse pasar por un Oficial o un Noble: Azotes, hasta 10 días de prisión y una multa por valor de 350 po.
+- Chantajear a un Oficial: Azotes y hasta 10 años de exilio.
+- Sobornar o intentar sobornar a un Oficial: Hasta 20 años de exilio y una multa igual al doble del valor del soborno.
+- Matar a un Oficial, Noble o Señor: Muerte.
+- Usar magia para influenciar a un Señor sin su consentimiento: Hasta 1 año de prisión y una multa o daños por valor de 500 po.
+- Usar magia para influenciar a un Oficial sin su consentimiento: Multa o daños por valor de 500 po y una orden.
 
-A partir de ese momento, se deberán abonar semanalmente 5 gp a la orden religiosa que patrocine tu permiso. El formato a seguir en #compras-y-ventas es el siguiente:
+### Crímenes religiosos
 
-### Formato en #Compras-y-Ventas
+- Asaltar a un sacerdote en Aaredale o en sus protectorados: Hasta 10 días de prisión y daños por valor de 600 po.
+- Conducta desordenada en un templo: Multa de hasta 10 po y una orden.
+- Blasfemar en público contra un dios o una iglesia: Multa de hasta 10 po y una orden.
+- Robar bienes u ofrendas de un templo: Hasta 10 días de prisión y daños por el doble del valor robado.
+- Asaltar tumbas: Hasta 10 días de prisión y daños por el costo del asalto más 550 po.
+- Ejercer la nigromancia sin permiso oficial: Hasta 1 mes de trabajos forzados y/o daños por el doble de los costos eclesiásticos.
+- Encubrir a quien practica la brujería: 30 días de prisión, 60 días de encierro en una iglesia de Los Tres y multa de 500 po.
+- Practicar la brujería: Muerte.
 
-[Personaje] compra: -[Número] semanas de permiso oficial x [Número] gp y mantiene su permiso hasta la semana [Número semana]
+### Permiso oficial de nigromancia
 
-En caso de no abonar el pago semanal, se perderá el permiso y deberá abonarse nuevamente la matrícula. En caso de perder el alineamiento bueno el permiso será revocado de forma inmediata por los paladines.
+Para practicar la nigromancia de forma legal dentro de las murallas del Puño de los Dioses necesitas este permiso:
 
-Para poder obtener beneficio económico de esta actividad, a mayores es necesario poseer de una licencia de venta y servicios.
+- Jurar con total sinceridad no usar esos poderes para el mal (alineamiento bueno).
+- Tener el patrocinio de uno de los templos del Bastión (1 Favor Religioso de un dios concreto).
+- Pagar una matrícula de 50 po y luego **5 po por semana** a la orden que te patrocina. Anótalo en tu hoja de registro.
+
+Si dejas de pagar, pierdes el permiso y debes pagar la matrícula de nuevo. Si pierdes el alineamiento bueno, los paladines lo revocan de inmediato. Para cobrar por servicios de nigromancia necesitas además una licencia de venta y servicios.
 
 ## 16. El Código Civil de Aaredale
 
-**Son Ciudadanos de Aaredale:**
+**Son ciudadanos de Aaredale:**
 
-a) Los nacidos de padre o madre de Aaredale. b) Los nacidos en Aaredale de padres extranjeros si, al menos, uno de ellos hubiera nacido también en Aaredale. c) Aquellos que alguno de Los Tres comunique su beneplácito. d) Aquellos que reciban el beneplácito de La Familia Theolgrim. d) Aquellos con propiedades en Aaredale por valor de 10.000 piezas de oro. e) Aquellos Aventureros de La Lanza de Plata que alcancen el Tier 2. Perderán la ciudadanía de Aaredale: a) Aquellos que alguno de Los Tres comunique su descontento. b) Aquellos que reciban el descontento de La Familia Theolgrim. c) Aquellos que se demuestren malvados.
+- Los nacidos de padre o madre de Aaredale.
+- Los nacidos en Aaredale de padres extranjeros, si al menos uno de ellos también nació en Aaredale.
+- Aquellos a quienes alguno de Los Tres comunique su beneplácito.
+- Aquellos que reciban el beneplácito de la Familia Theolgrim.
+- Aquellos con propiedades en Aaredale por valor de 10.000 po.
+- Los aventureros de La Lanza de Plata que alcancen el Tier 2.
 
-CAPÍTULO 15 Y 16
+**Pierden la ciudadanía:**
 
-## Analfabetismo
+- Aquellos a quienes alguno de Los Tres comunique su descontento.
+- Aquellos que reciban el descontento de la Familia Theolgrim.
+- Aquellos que demuestren ser malvados.
 
-Nos encontramos en el siglo III. La inmensa mayoría de la población es analfabeta, y eso incluye también a los expedicionarios. Por este motivo, los personajes con 10 o menos de inteligencia no sabrán leer ni escribir. Adicionalmente, un personaje con menos de 10 de inteligencia sabrá un idioma menos de los que debería. Recordemos que un personaje que no sepa común y no pueda comunicarlo verbalmente no podrá ingresar al cuerpo expedicionario.
+## 17. Dunamancy
 
-## 18. Dunamancy
+La dunamancia es la magia de los graviturgos y cronurgos, ligada al espacio y al tiempo. Sus conjuros no están en la lista del Mago, y las subclases de hechicero no pueden aprenderlos ni prepararlos. Solo se accede a ellos con:
 
-La Dunamancy es la magia propia de los graviturgos y cronoturgos, relacionada con el espacio y el tiempo. Tras la votación realizada por toda la comunidad el domingo 11 de septiembre del 2022 se establecen las siguientes formas de acceder a estos hechizos:
+- La dote Magic Initiate (Mago).
+- La dote Fey Touched.
+- La dote Shadow Touched.
+- Secretos Mágicos (Magical Secrets).
 
-Feat: Magic Initiate, Wizard Feat: Fey Touched Feat: Shadow Touched Magical Secrets
+## 18. Conflicto de reglas
 
-Recordemos que estos hechizos no se han añadido a la lista del Wizard ni podrán ser tomados ni preparados por las subclases de hechicero de TCE.
+Si una regla da lugar a dudas, se consulta el **Player's Handbook 2024**. Por ejemplo, el Player's Handbook 2014 no dice qué pasa si cargas más de tu capacidad de carga; el de 2024 aclara que tu velocidad baja a 5 pies como máximo.
 
-## 22 Conflicto de Reglas
+## 19. Manutención y pasajes
 
-**EN EL ÚNICO CASO EN EL QUE UNA REGLA DE.**
+- Mientras vivas en la taberna de la Lanza de Plata, la comida y el alojamiento los paga el Puño de los Dioses.
+- Tener casa propia (o un Bastión) en la ciudad donde está tu personaje reduce su manutención a 0.
+- Las caravanas cambian de ruta según la temporada. Viajar fuera de temporada cuesta el doble.
 
-**LUGAR A DISCREPANCIAS, SE CONSULTARÁ EL.**
-
-**MANUAL DEL JUGADOR DE 2024.**
-
-Ejemplo: Carrying Capacity (PHB2014): "Your carrying capacity is your Strength score multiplied by 15. This is the weight (in pounds) that you can carry, which is high enough that most characters don't usually have to worry about it." El PHB 2014 no te indica qué ocurre después de ese límite, en cambio, el PHB de 2024 añade la siguiente aclaración: "While dragging, lifting, or pushing weight in excess of the maximum weight you can carry, your Speed can be no more than 5 feet. Your Strength score determines the amount of weight you can bear. The following terms define what you can lift or carry."
-
-## 23. Coste de Manutención y Pasajes
-
-Depende de la ciudad en la que viva tu personaje, determinada por el lugar de vuelta por tu primera expedición, el precio diario de la comida, agua y alojamiento del lugar varía según la siguiente lista: Aaredale: 2 sp/día Shaarmid: 30 sp/día Dialta: 15 sp/día Lurag: 50 sp/día Tener una casa u otro posible alojamiento en propiedad en la ciudad en la que se encuentre tu PJ reduce el coste diario de manutención hasta 0.
-
-### Pasajes
-
-La dirección de las caravanas de viaje cambian según el tiempo. Ir de viaje fuera de temporada de una ciudad a otra cuesta el doble de oro.
-
-Capítulo 20 y 21
+!!! pendiente "Por completar (DM)"
+    Costo diario de manutención en otras ciudades de tu campaña.
