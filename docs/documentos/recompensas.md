@@ -1,229 +1,124 @@
 # Recompensas
 
-!!! pendiente "Borrador importado (versión 2.6 del documento original)"
-    Este texto se pasó automáticamente desde el PDF. Revísalo y adáptalo a tu mesa: referencias a Roll20, canales de Discord, MCs o al servidor original pueden no aplicar.
+En La Lanza de Plata ganas tres monedas además del oro y la experiencia:
 
-Amenos que se indique lo contrario, todas las recompensas se reclamarán en #recompensas con el siguiente formato: [Nombre personaje] reclama [Recompensa] usando [Puntos de Renombre/GM] Sorisficada reclama Rubor de la Vida usando Puntos de Renombre
+| Moneda | Cómo se gana | En qué se gasta |
+|---|---|---|
+| **Puntos de Tesoro (PT)** | Al terminar cada sesión, según el tier | Tiradas en las [tablas de Tesoro](tesoro.md) |
+| **Puntos de Renombre (PR)** | Grandes hazañas, informes al Puño | Favores, revisiones, objetos a elección, [Fidelidad de facción](facciones.md) |
+| **Días de Descanso (DD)** | Al terminar cada sesión | Actividades entre sesiones y [turnos de Bastión](bastiones.md) |
+
+Todas las recompensas se anotan en tu hoja de registro.
 
 ## Intercambios
 
-Los siguientes intercambios son unidireccionales, esto es, se entrega el recurso de la izquierda para obtener el de la derecha, y no al revés:
+Los intercambios van en un solo sentido: entregas lo de la izquierda y recibes lo de la derecha.
 
-- 4.000 gp -> 1 Puntos de Tesoro
-- 4 Puntos de Tesoro -> 1 Punto de Renombre
-- 3 Punto de Renombre -> 2 Punto de Tesoro
-- 3 Puntos de GM -> 1 Punto de Tesoro
+| Entregas | Recibes |
+|---|---|
+| 4.000 po | 1 Punto de Tesoro |
+| 4 Puntos de Tesoro | 1 Punto de Renombre |
+| 3 Puntos de Renombre | 2 Puntos de Tesoro |
 
-Estas recompensas deben ser cobradas en #recompensas con el formato fijado.
+## Favores del Puño
 
-## Recompensas por Permanencia
+Pequeñas ventajas que el Puño de los Dioses concede a sus expedicionarios para sobrevivir en las Tierras Salvajes. Se compran con Puntos de Renombre y **expiran al final de tu siguiente sesión**, los uses o no.
 
-Las siguientes recompensas se obtienen con vuestra permanencia en el servidor. Este tipo de recompensa no se puede anular, por lo que recomendamos reclamarlo cuando se vaya a usar. Las recompensas de bienvenida se empiezan a contar nada más haber entrado al servidor:
+| Favor | Costo | Efecto |
+|---|---|---|
+| Días libres | 1 PR | Ganas 7 Días de Descanso |
+| Rubor de la vida | 1 PR | Empiezas la sesión con 5 + tu nivel de puntos de golpe máximos extra, hasta el final de la partida |
+| Buen augurio | 1 PR | Tiras con ventaja una tirada de Días de Descanso |
+| Duro de matar | 1 PR | Cuando quedas a 0 puntos de golpe, quedas a 1. O bien, ventaja en una tirada de salvación |
+| Soplo de Tyr Cazador | 1 PR | +10 pies de velocidad hasta tu siguiente descanso largo |
+| Resistencia legendaria | 1 PR | Conviertes una salvación fallida en éxito. Una vez por sesión |
+| Sano | 3 PR | Vuelves a tirar tu dado de golpe al subir de nivel y te quedas con el segundo resultado. Cómpralo antes de tirar; dura 1 día |
+| Ojo por el detalle | 3 PR | Repites la tirada secundaria de un tesoro y te quedas con la segunda |
+| Segundo aliento | 4 PR | Recuperas 5 + tu nivel de puntos de golpe y en tu siguiente acción ignoras los efectos de las condiciones. Una vez por sesión |
+| Expedicionario profesional | 4 PR | Ganas el doble de experiencia en la sesión. Avísale al DM antes de empezar |
+| Ojo por el tesoro | 6 PR | Repites una tirada de tesoro y te quedas con la segunda |
+| Segunda vida | 6 PR | Ganas a la vez Resistencia legendaria, Duro de matar, Rubor de la vida, Soplo de Tyr Cazador y Segundo aliento |
 
-## Puntos
+## Dones divinos
 
-Todas las recompensas que vienen a continuación se pueden adquirir con Puntos de Renombre o Puntos de GM a menos que la propia recompensa indique lo contrario.
+Cuando una misión de lore llama la atención de **Tyr, Helm o Torm**, el DM puede conceder un **Don sobrenatural** del Dungeon Master's Guide 2024:
 
-## Bendiciones
+- **Bendición:** permanente, concedida por un dios por una hazaña extraordinaria. Por ejemplo, la Bendición de Salud sube tu Constitución en 2, hasta un máximo de 22.
+- **Encanto:** temporal o de usos limitados.
 
-Las bendiciones son pequeñas ventajas que harán a sus personajes un poco menos susceptibles a los peligros que pudiesen encontrar durante su expedición en las Tierras Salvajes. Los efectos que se muestran a continuación expiran al final de la siguiente sesión en la que el personaje participe, haya usado su bendición o no.
+Los dones no se compran: solo los da el DM como premio de una misión.
 
-### Días Libres [1 Punto]
+!!! pendiente "Propuesta (DM)"
+    Límite sugerido: una Bendición por personaje en cada tier.
 
-Cada punto que inviertas te otorga 7 Días de Descanso.
+## Objetos mágicos a elección
 
-### Rubor de la vida [1 Punto Renombre/2 Puntos GM]
+En lugar de tirar en una tabla de Tesoro, puedes elegir el objeto que quieres. Pagas los Puntos de Tesoro de la tabla más estos Puntos de Renombre:
 
-Tu personaje comienza la sesión con 5 + su nivel en puntos de vida máximos. Estos duran hasta el final de la partida.
+| Tier de la tabla | Puntos de Renombre |
+|---|---|
+| Tier 1 | 10 |
+| Tier 2 | 20 |
+| Tier 3 | 30 |
+| Tier 4 | 40 |
 
-### Inspiración [1 Puntos]
-
-Este beneficio se podrá usar para todas aquellas tiradas relacionadas con Días de Descanso en el canal de #registrode-personajes (2d20kh1)
-
-### Duro de Matar [1 Puntos]
-
-En cualquier momento en que el personaje sea reducido a 0 puntos de vida o menos, el personaje se verá reducido solo hasta 1. Alternativamente, puedes utilizar esta bendición para otorgarte ventaja en un tiro de salvación.
-
-### Soplo de Tyr Cazador [1 Punto]
-
-El personaje obtiene 10 pies adicionales hasta acabar un descanso largo.
-
-### Sano [3 Puntos Renombre / 6 Puntos GM]
-
-Al emplear esta bendición, tu personaje puede volver a lanzar su Dado de Golpe al subir de nivel. Esta bendición debe ser comprada y validada ANTES del lanzamiento y solo puede ser empleada una vez por nivel. En caso de volver a lanzar el dado, debes quedarte con el segundo resultado. Expira tras 1 día.
-
-### Segundo aliento [4 Puntos]
-
-Al utilizar esta bendición, tu personaje recupera 5 puntos de vida + su nivel. En su próxima acción ignora todos los efectos impuestos por condiciones. Esta bendición se puede comprar durante una sesión una sola vez.
-
-### Ojo por el detalle [3 Puntos]
-
-Cuando realices un lanzamiento por un tesoro y este tenga un segundo lanzamiento de dado asociado, puedes optar por volver a realizar este lanzamiento en los siguientes 10 minutos si el primero no fuese de tu agrado. Debes quedarte con el segundo resultado.
-
-### Ojo por el Tesoro [6 Puntos]
-
-Cuando realices un lanzamiento por un tesoro, puedes optar por realizar un segundo lanzamiento de dado en los siguientes 10 minutos si el primero no fuese de tu agrado. Debes quedarte con el segundo resultado. Si te salen más tiradas de dados, debes usarlo antes de lanzarlas.
-
-### Resistencia legendaria [1 Puntos]
-
-En cualquier momento en el que el personaje falle una tirada de salvación puede elegir pasarla, consumiendo este beneficio. Solo puedes usar 1 por sesión.
-
-### Expedicionario Profesional [4 Puntos]
-
-Al utilizar esta bendición, tu personaje adquiere el doble de experiencia ganada al final de la sesión. Debes recordarle al GM el uso de esta bendición antes de empezar la sesión. Si la compras no es necesario añadir ningún comando extra.
-
-### Segunda vida [6 Puntos Renombre / 25 Puntos GM]
-
-Tu personaje obtiene los beneficios de: Resistencia Legendaria, Duro de Matar, Rubor de la Vida, Soplo de Tyr Cazador y Segundo Aliento. Al alcanzar un nuevo tier de aventura, tienes la posibilidad de registrar un nuevo personaje. Así, cuando llegues a tier 2 podrás tener 2 personajes, cuando llegues a tier 3 podrías tener uno más. En caso de que quieras jugar con muchos personajes distintos, puedes desbloquear el acceso a nuevos espacios de personajes con puntos de renombre. El primer espacio de personaje cuesta 10 puntos y el coste se va incrementando de cinco en cinco:
-
-1er Hueco adicional: 10 puntos 2do Hueco adicional: 15 puntos 3er Hueco adicional: 20 puntos 4to Hueco adicional: 25 puntos
-
-De esta forma, si quieres tener 2 personajes adicionales, necesitarás emplear 25 puntos [10+15]. ATENCIÓN: El máximo número de Huecos de Personaje en una cuenta es de 13
+- Solo dos veces por tier, nunca el mismo objeto, y solo uno a la vez.
+- Los objetos elegidos así se pueden intercambiar, pero no vender.
+- No se pueden elegir los resultados que dan tiradas en otras tablas ni el resultado 100.
 
 ## Revisiones
 
-Las siguientes opciones son revisiones de features, clases o razas no permitidos en el Manual Avanzado de la Lanza de Plata. Todas las revisiones requieren que un miembro de nuestro equipo de balance las analice con detalle, tomando su tiempo, y es muy probable que te lance preguntas sobre la idea del personaje sobre la que quieras aplicar dicha revisión. Cada vez que pidas una revisión de un tipo, raza, clase, familiar, etc. y te sea denegada, la siguiente del mismo tipo que pidas tendrá un coste adicional de 1 punto, por cada vez que hayas pedido una revisión de ese tipo anteriormente. En caso de ser aceptada, esa revisión quedará desbloqueada únicamente para ti y podrás usarla en la creación de tu próximo personaje o incorporarla de manera inmediata a uno ya creado. En caso de no aceptarla, esa revisión quedará baneada hasta que haya algún cambio significativo en la campaña.
+Una revisión te permite pedir al DM una opción que no está permitida o que no existe: una especie, una subclase, una dote, un conjuro o un objeto. El DM la analiza con calma y puede hacerte preguntas sobre el concepto del personaje.
 
-### Revisión de Raza
+- Si se **acepta**, queda desbloqueada solo para ti, para tu próximo personaje o para uno que ya tengas.
+- Si se **rechaza**, queda vetada hasta que haya un cambio importante en la campaña, y la siguiente revisión del mismo tipo cuesta 1 PR más por cada rechazo anterior.
+- Si tu personaje muere, recuperar una revisión aceptada cuesta 2 PR.
 
-**1 Punto por Feature* Raza Oficial.**
+| Revisión | Costo |
+|---|---|
+| Especie oficial | 1 PR por rasgo |
+| Especie no oficial | 2 PR por rasgo |
+| Clase o subclase oficial | 1 PR por rasgo |
+| Clase o subclase de Unearthed Arcana o casera | 2 PR por rasgo |
+| Rasgo o dote oficial o de Unearthed Arcana | 1 PR por rasgo |
+| Rasgo o dote casera | 2 PR por rasgo |
+| Conjuro oficial o de Unearthed Arcana | 2 PR |
+| Conjuro casero | 4 PR |
+| Familiar propio (Find Familiar) | 4 PR |
+| Compañero animal propio (Beast Master) | 4 PR |
+| Trasfondo personalizado | 3 PR |
+| Multiclase desde o hacia Brujo | 2 PR |
+| Objeto mágico nuevo para las tablas de Tesoro | 4 PR por rareza, desde Infrecuente |
 
-**2 Puntos por Feature* Raza No Oficial.**
+Un rasgo con muchas opciones cuenta como tantos rasgos como opciones tenga.
 
-En la actual estado de la campaña se permiten una gran cantidad de razas, pero es probable que haya una en concreto que te gustaría jugar y no esté disponible porque la hayamos excluído por no ser coherente con la ambientación. Usando esta opción puedes solicitar a la administración del servidor que revise una raza en concreto. No es lo mismo reclamar con puntos de renombre que de GM.
+- **Familiar propio:** debe ser una criatura Diminuta. Con esta opción, los cambios de apariencia del familiar quedan prohibidos.
+- **Compañero animal propio:** el Puño de los Dioses capturó hace poco un ejemplar de esa criatura. Es especialmente resistente: si cae en una expedición, queda en coma hasta que lo curen en Aaredale.
+- **Trasfondo personalizado:** sigue la estructura de los trasfondos de 2024 (atributos, dote de origen, habilidades, herramienta y equipo). El DM puede pedirte la historia del personaje.
+- **Objeto mágico nuevo:** si se acepta, entra en una tabla de Tesoro para todos los jugadores.
 
-### Revisión de Clase
+## Otras recompensas
 
-**1 Punto por Feature* - Clase o subclase Aceptada D&D.**
+### Bajar de tier
 
-Beyond 2 Puntos por Feature* - Clase o subclase UA/Homebrew Usando esta opción puedes solicitar a la administración del servidor que revise una clase o subclase en concreto tanto de Unearthed Arcana (UA), Homebrew, como de otro documento OFICIAL de D&D 5e.
+Un personaje de tier superior puede ir a una expedición de un tier inferior, a cambio de las burlas de civiles y aventureros. Pierde 1 PR por cada 2 niveles que supere el desafío (mínimo 1) y no gana PR en esa expedición. Pregúntale el costo al DM.
 
-### Revisión de Feature
+### Cambiar de subclase
 
-**1 Punto por Feature* Feature UA u Oficial.**
+Los paladines ofrecen un entrenamiento especial para cambiar la subclase de una de tus clases. Cuesta **1 PR, 50 po y 10 Días de Descanso por nivel** en esa clase, y se anota en tu hoja de registro.
 
-**1 Punto por Feature* Dote UA.**
+- Solo una vez por personaje y antes de los 10.000 puntos de experiencia.
+- Los brujos anotan que abandonan a su patrón anterior, que queda enojado.
+- Los hechiceros no pueden cambiar de subclase.
 
-**2 Punto por Feature* Feature Homebrew.**
+### Cambiar la clase principal
 
-**2 Punto por Feature* Dote Homebrew.**
+Un personaje con multiclase puede cambiar su clase principal por la secundaria si la secundaria tiene al menos 2 niveles más. Cuesta **3 PR, 20 Días de Descanso y 20 po**. Solo afecta a cómo subes de nivel: tus habilidades y puntos de golpe no cambian. Si quieres, puedes cambiar tus competencias en salvaciones a las de la nueva clase principal.
 
-Usando esta opción puedes solicitar a la administración del servidor que revise una feature en concreto tanto de Unearthed Arcana (UA) como de otro documento OFICIAL de D&D 5e como Dotes, Class Traits etc.
+### Entrenamientos especiales
 
-### Revisión de Hechizos
-
-2 Puntos Spell UA u Oficial 4 Puntos Spell Homebrew
-
-Usando esta opción puedes solicitar la revisión de un hechizo para uno de tus personajes. Para que tu personaje cree un hechizo es necesario cumplir otros requisitos.
-
-### Revisión de Find Familiar
-
-4 Puntos Stat Block
-
-Usando esta opción puedes solicitar la revisión de una nueva opción de familiar exclusiva para tu persona. Como pone en el Monster Manual, cualquier criatura Tiny podría cualificar como familiar, ese es requisito indispensable. Existiendo esta opción el uso de reskins en find familiar queda baneado.
-
-### Revisión de Animal Companion
-
-4 Puntos (Se aplica sobre Beastmaster PHB)
-
-Usando esta opción podrás revisar un statblock único y personal para tu mascota, misteriosamente (y por exigencias del guión) el Puño de los Dioses habrá capturado recientemente un ejemplar de la criatura a revisar. Además, mucho más misteriosamente aún (y por más exigencias del guión) esta criatura es especialmente resiliente y no morirá en expedición, si no que entrará en un estado comatoso en el borde de los dos mundos hasta que regrese a Aaredale y pueda ser restaurado por sus médicos.
-
-### Revisión de Trasfondo Personalizado
-
-3 Puntos
-
-Usando esa opción podrás pedir la revisión de un Background personalizado, siguiendo el esquema de los trasfondos oficiales (Competencias (habilidades, herramientas, idiomas), equipamiento y rasgo). Ten en cuenta que posiblemente se te pedirá que adjuntes una historia algo trabajada de tu personaje para ver cómo podemos justificar esta distribución específica de competencias y habilidades y que se adapten a las necesidades narrativas y de balance mecánico.
-
-### Multiclase con Warlock
-
-Si deseas multiclasear desde Warlock o hacia Warlock deberás pagar 2 Puntos para realizar una pequeña revisión de la idea de tu personaje. En caso de ser aceptada, tu personaje podrá avanzar en la clase de Warlock con normalidad. 4 Puntos por Rareza (Empezando en Uncommon)
-
-Con esta revisión podrás aportar tu granito de arena al tesoro mágico del Setting. Cuando el objeto mágico sea revisado, será posicionado dentro de una de las tablas de tesoro oficiales del servidor y se podrá acceder al mismo por los métodos usuales y por todos los jugadores del servidor.
-
-### Acceso a las Revisiones
-
-Si has gastado puntos en una revisión y tu personaje muere, no es el fin, no has perdido la inversión. Por el módico precio de 2 puntos, podrás acceder de nuevo a tu revisión aceptada. Este coste es simbólico para evitar posibles abusos del sistema.
-
-### * Si una Feature puede ser fragmentada en múltiples features (tiene muchas opciones) contará como el número máximo de posibles features que contenga. Un spell no oficial también cuenta como feature, y está sujeto a la restricción anterior.
-
-## Misceláneo
-
-Las siguientes recompensas tienen distintos orígenes difíciles de clasificar:
-
-## Bajar de Tier [X Puntos]
-
-Un expedicionario de un TIER superior a 1, puede ir a un TIER inferior a cambio de la burla del resto de civiles y aventureros. Por cada 2 niveles que tu personaje supere el desafío de una expedición, perderá 1 Punto de Renombre. A mayores, en esta expedición no podrá ganar ninguno. Preguntar al GM de la expedición el coste. Mínimo se perderá 1 PR.
-
-## Cambio de Arquetipo [1 Pto Renombre/3 Pto GM por nivel]
-
-Un personaje puede acceder a un entrenamiento especial ofertado por los paladines en el cual podrá reestructurar su conocimiento y practicar técnicas propias de otras especialidades, consiguiendo así cambiar su arquetipo [subclase] en una de sus clases. Para ello, será necesario invertir tantos puntos de renombre (o el triple en caso de ser de GM) como tu nivel en la clase que quieres modificar. Adicionalmente, deberás invertir una cantidad de oro igual a 50 gp por nivel y 10 días de descanso por nivel. Una vez se valide el mensaje, podrás ir a #registro-de-personajes e indicar tu cambio de arquetipo siguiendo el siguiente formato: [Nombre personaje], nivel 5 en la clase [nombre de clase] invierte 250 gp y 50 días de descanso para instruirse en el arquetipo [Nombre del arquetipo] Esta reestructuración del personaje no se puede hacer una vez se alcanzan los 10.000 puntos de experiencia.
-
-Los Warlock indicar que abandonan,
-
-añadiendo la siguiente frase. enojando a su anterior patrón [Nombre del patrón] Los Sorcerer no pueden cambiar su arquetipo. Esta recompensa solo podrá ser cobrada 1 VEZ por personaje.
-
-## Cambio de Clase Principal a Secundaria (Multiclase) [3 PUNTOS DE RENOMBRE]
-
-Un personaje que haya realizado multiclase puede obtener este entrenamiento especial que le permitirá cambiar su clase principal por la secundaria. Para ello, aparte de los puntos de renombre se deberán gastar 20 días de descanso, 20 gp y cumplir la siguiente condición: La clase secundaria debe ser como mínimo 2 niveles superior a la clase principal. Tras solicitar esta recompensa en #recompensas y ser aceptada por un miembro de @Staff, deberás poner el siguiente mensaje en #registro-de-personajes [Nombre de Personaje] ha entrenado durante 20 días gastando 20 gp. [Clase] es ahora su clase principal y [clase] es ahora su clase secundaria. Este cambio solo tiene efectos de cara a subir nivel. Tus proficiencias en skill y tus Hit Points no cambiarán. Por la contra, si lo deseas, puedes cambiar tus proficiencias en salvaciones a las de tu nueva clase principal. En este caso, el mensaje será el siguiente: [Nombre de Personaje] ha entrenado durante 20 días gastando 20 gp. [Clase] es ahora su clase principal y [clase] es ahora su clase secundaria, cambiando su proficiencia en salvaciones a las de la nueva clase principal.
-
-## ENTRENAMIENTOS ESPECIALES [- Puntos]
-
-Usando esta opción conseguirás acceso a entrenamientos especiales que te otorgarán proficiencia en habilidades, armas o armaduras en concreto. Para hacer uso de esta opción es necesario usar una gran cantidad de días de descanso [150-300-400], piezas de oro y una prueba de habilidad que determine cuan eficaz eres en el desarrollo del aprendizaje, aparte de los puntos requeridos. También es necesario que la ciudad desarrolle la infraestructura necesaria y consiga el personal cualificado para ello.
-
-## Objetos Mágicos
-
-En lugar de hacer una tirada aleatoria en una tabla de tesoros cuando uses tus puntos de tesoro, puede ser que tengas un objetivo claro. De ser así, probablemente quieras usar esta opción. Usando los puntos de renombre indicados a continuación (junto con los puntos de tesoro necesarios para acceder a la tabla) puedes escoger el resultado que gustes. Los objetos conseguidos de esta forma pueden ser intercambiados, pero no vendidos. Cabe destacar que las recompensas que son tiradas en otras tablas y el 100, no son elegibles.
-
-Tier 1: 10 Puntos Tier 2: 20 Puntos Tier 3: 30 Puntos Tier 4: 40 Puntos
-
-Un personaje solo puede reclamar esta recompensa dos veces por Tier, pero nunca para obtener el mismo objeto. Esta recompensa no es acumulable, un personaje no podrá tener más de uno a la vez.
+Dan competencia en habilidades, armas o armaduras concretas. Requieren muchos Días de Descanso (150, 300 o 400), oro, una prueba de habilidad y los puntos que indique el DM. La ciudad también debe tener la infraestructura y el personal para enseñarlos.
 
 ## Facciones
 
-Los personajes de la Lanza de Plata pueden unirse a las distintas Facciones que se indica en el documento de Facciones. Para ello deberás comprar las siguientes recompensas en función de la facción a la que pertenezcas:
-
-## Lords Alliance
-
-### Fidelidad: Lords Alliance [1]
-
-El personaje obtiene 1 Punto de Fidelidad con la facción señalada.
-
-### Fidelidad: Lords Alliance Estructure [1]
-
-El personaje accede a una de las estructuras de su faccion.
-
-## Harpers
-
-### Fidelidad: Harpers [1]
-
-El personaje obtiene 1 Punto de Fidelidad con la facción señalada.
-
-## Emerald Enclave
-
-### Fidelidad: Emerald Enclave [2]
-
-El personaje obtiene 1 Punto de Fidelidad con la facción señalada.
-
-### Fidelidad: Emerald Enclave Estructure Iniciado [2]
-
-El personaje accede a una de las estructuras de su faccion.
-
-### Fidelidad: Emerald Enclave Estructure Agente [1]
-
-El personaje accede a una de las estructuras de su faccion.
-
-## Order of the Gauntlet
-
-### Fidelidad: Order of the Gauntlet [1]
-
-El personaje obtiene 1 Punto de Fidelidad con la facción señalada.
-
-### Fidelidad: Order of the Gauntlet Estructure Agente [1]
-
-El personaje accede a una de las estructuras de su faccion.
-
-## Lords Zhentarim
-
-### Fidelidad: Zhentarim Agente [1]
-
-El personaje obtiene 1 Punto de Fidelidad con la facción señalada.
+La Fidelidad de facción se compra a razón de **1 PR por punto**. Las reglas completas están en [Facciones](facciones.md).
