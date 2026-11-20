@@ -21,11 +21,11 @@ Su desaparición dividió a la compañía. Surgieron supuestos sucesores, los an
 
 | Nivel de Guerrero | Rasgos |
 |---|---|
-| 3 | Técnica de Asta, Arte de Asta, Carga, Mantener Posición, Asta de Plata, Especialidad del Astero |
+| 3 | Heredero de la Compañía Plateada, Técnica de Asta, Arte de Asta, Carga, Mantener Posición, Asta de Plata, Especialidad del Astero |
 | 7 | Mejora del Arte de Asta, rasgo de Especialidad |
 | 10 | Ataques Insaciables, Mantener Posición Mejorado, rasgo de Especialidad |
 | 15 | Yo, Comandante, rasgo de Especialidad |
-| 18 | Mejora del Arte de Asta, rasgo de Especialidad |
+| 18 | Mejora del Arte de Asta, Aguante, rasgo de Especialidad |
 
 ### Técnica de Asta
 
@@ -52,6 +52,13 @@ Puedes usarlo tantas veces como tu modificador de Fuerza (mínimo 1). Recuperas 
 
 *Nivel 3.* Plantas tu arma contra la embestida enemiga. Cuando una criatura entra en tu alcance, puedes atacarla con tu reacción. Puedes usarlo tantas veces como tu modificador de Constitución (mínimo 1) por descanso largo.
 
+### Heredero de la Compañía Plateada
+
+*Nivel 3.* La Compañía cayó, pero sus lanzas siguen buscando dueño.
+
+- Tu arma de asta recubierta de plata cuenta como una [Lanza de Plata](tesoro.md#lanza-de-plata): puede despertar y transformarse como ella, pero le basta la mitad (**5 sesiones y 1.500 puntos de experiencia**) para su primera transformación.
+- Una vez por sesión, en cualquier asentamiento, puedes buscar a un antiguo lancero de la Compañía. El DM decide si hay uno, qué sabe y qué pide a cambio.
+
 ### Asta de Plata
 
 *Nivel 3.* Tus ataques con un arma de asta recubierta de plata cuentan como mágicos para superar resistencias al daño.
@@ -71,6 +78,10 @@ Puedes usarlo tantas veces como tu modificador de Fuerza (mínimo 1). Recuperas 
 ### Yo, Comandante
 
 *Nivel 15.* Una vez por descanso largo, entras en un estado de liderazgo durante 1 minuto o hasta quedar inconsciente. Al inicio de cada uno de tus turnos, los aliados a 60 pies que puedan entenderte ganan puntos de golpe temporales iguales a tu nivel de Guerrero.
+
+### Aguante
+
+*Nivel 18.* Al inicio de tu turno puedes recuperar puntos de golpe iguales a 5 veces tu nivel de Guerrero. Puedes hacerlo una vez por descanso largo. El esfuerzo es tal que ganas 1 nivel de Agotamiento.
 
 ## Especialidades
 
