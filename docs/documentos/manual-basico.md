@@ -51,8 +51,7 @@ Tu **primer personaje** tira sus atributos:
 4. Reparte los 6 resultados entre tus atributos como quieras.
 5. Suma los aumentos de tu trasfondo.
 
-!!! pendiente "Por completar (DM)"
-    Cómo generan atributos los personajes siguientes: compra de puntos (27), conjunto estándar o una nueva tirada.
+Tus **personajes siguientes** usan **compra de puntos (27 puntos)**, como indica el Player's Handbook 2024. Después suman los aumentos de su trasfondo.
 
 ## 5. Equipo y oro
 
