@@ -1,0 +1,81 @@
+site_name: La Lanza de Plata
+site_description: Repositorio oficial de la mesa La Lanza de Plata — reglas, lore y documentos para jugadores.
+site_url: https://magicflee-hue.github.io/lanza-de-plata/
+copyright: La Lanza de Plata, mesa de Yeison. Contenido para jugadores.
+repo_url: https://github.com/MagicFlee-hue/lanza-de-plata
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: es
+  palette:
+    scheme: slate
+    primary: custom
+    accent: custom
+  font: false
+  logo: assets/logo.svg
+  icon:
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+
+extra_css:
+  - assets/css/lanza.css
+
+plugins:
+  - search:
+      lang: es
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: "¶"
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Inicio: index.md
+  - Empezar a jugar:
+      - empezar/index.md
+      - Crear y registrar tu personaje: empezar/personaje.md
+      - Horarios de las mesas: empezar/horarios.md
+  - Reglas:
+      - reglas/index.md
+      - Tiers y progresión: reglas/tiers.md
+      - Parties y mesas: reglas/parties.md
+  - El mundo:
+      - mundo/index.md
+      - Aaredale: mundo/aaredale.md
+      - La taberna y el Cuerpo de Aventureros: mundo/la-lanza.md
+      - Los 13 de Aaredale: mundo/los-13.md
+      - El mapa: mundo/mapa.md
+      - Crónicas: mundo/cronicas.md
+  - Manuales:
+      - documentos/index.md
+      - Manual básico: documentos/manual-basico.md
+      - Manual avanzado: documentos/manual-avanzado.md
+      - Recompensas: documentos/recompensas.md
+      - Tesoro: documentos/tesoro.md
+      - Mercado: documentos/mercado.md
+      - Facciones: documentos/facciones.md
+      - Astero de Plata: documentos/astero-de-plata.md
+      - Caballero Sagrado: documentos/caballero-sagrado.md
+      - Blackthunderpowder: documentos/blackthunderpowder.md
+  - Preguntas frecuentes: faq.md
