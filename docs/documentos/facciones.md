@@ -1,7 +1,12 @@
 # Facciones
 
-!!! pendiente "Borrador importado (versión 2.0 del documento original)"
-    Este texto se pasó automáticamente desde el PDF. Revísalo y adáptalo a tu mesa: referencias a Roll20, canales de Discord, MCs o al servidor original pueden no aplicar.
+Las facciones de Faerûn también tienen presencia en Aaredale. Un personaje puede unirse a **una** facción desde **Tier 2** y subir de rango ganando **Fidelidad**.
+
+!!! info "Resumen rápido"
+    - Te unes desde Tier 2 y solo a una facción (un Noble de Aaredale puede estar en hasta 3).
+    - Cada facción pide ciertos alineamientos.
+    - Ganas 1 punto de Fidelidad por cada Punto de Renombre que inviertas, hasta 10 al mes.
+    - Al subir de rango ganas beneficios, y desde Tier 2 puedes construir en tu Bastión la instalación especial de tu facción.
 
 Dentro de este mundo conocido como Faerûn muchos seres habitan y vagan por sus tierras y mares a lo largo de los años. Obviamente todo el mundo tiene su propia visión del mundo o de cómo actuar en él. Y es así, como con un mero intercambio de palabras e ideales se fueron formando diferentes agrupaciones de personas que fueron creciendo en número con el tiempo. Y a día de hoy, muchos grupos son reconocidos por sus nombres y por cómo actúan. Algunos en contra de la ley, otros la siguen al pie de la letra. Algunos quieren ayudar al pobre y otros al necesitado. Y es entonces señoras y señores, que entramos en el concepto de “Facciones”.
 
@@ -33,25 +38,42 @@ Restaurar y preservar el orden natural, mantener las fuerzas elementales del mun
 
 El Zhentarim busca volverse omnipresente e ineludible, más rico y poderoso, y lo más importante, intocable. La cara pública de la organización parece mucho más benigna, ofreciendo los mejores mercenarios que el dinero puede comprar. Aunque para llegar a tener medios requieren de un comercio constante con las redes ilegales y esto puede llegar a ser peligroso. Un miembro del Zhentarim piensa en sí mismo como un miembro de una familia muy grande y depende de la “Red Negra” para los recursos y la seguridad. Sin embargo, a los miembros se les concede suficiente autonomía para perseguir sus propios intereses y obtener cierta medida de poder o influencia personal. Sus ideales siendo: El Zhentarim es tu familia. Cuidas de él, y él te cuida. Eres el amo de tu propio destino. Nunca seas menos de lo que mereces ser. Todo, y todos, tiene un precio.
 
-## Condiciones para unirse a una facción
+## Cómo unirse
 
-Los personajes de Tier 1 no pueden unirse a ninguna facción, pues ninguno de estos personajes serán invitados debido a su volatibilidad y efemeridad: muchos aventureros que no alcanzan el T2 se vuelven malvados, muestran no ser aptos, son capturados por los enemigos o sencillamente se mueren. Ninguna facción está dispuesta a invertir recursos en estos individuos. Un personaje solo puede pertenecer a una facción. Cada facción tiene sus requisitos propios de alineamiento para unirse a ellas. Tu posición en la facción se mide en base a tu Fidelidad. Habitualmente podrás obtener 1 Punto de Fidelidad con 1 Punto de Renombre. Un personaje solo puede obtener 10 de fidelidad al mes. Un Noble de Aaredale puede estar en 3 facciones a la vez.
+- **Tier 2 como mínimo.** Ninguna facción invierte recursos en aventureros de Tier 1: muchos mueren, desertan o se vuelven malvados antes de llegar a T2.
+- **Una sola facción** por personaje. Un Noble de Aaredale puede pertenecer a 3 a la vez.
+- **Alineamiento:** cada facción tiene los suyos (ver abajo).
+- **Fidelidad:** inviertes **1 Punto de Renombre por cada punto de Fidelidad**. Puedes ganar como máximo **10 de Fidelidad al mes**. El DM también puede dar Fidelidad por misiones que sirvan a la facción.
+- Si dejas una facción o cambias de facción, pierdes toda tu Fidelidad en la anterior.
 
-## Los rangos
+## Rangos
 
-Dentro de las distintas facciones hay un sistema de rangos que indica hasta que punto un personaje se ha implicado con su facción. Aunque cada una nombra a su forma cada uno de los rangos, de manera genérica para todos se pueden resumir de la siguiente forma:
+Todas las facciones usan los mismos cinco rangos, cada una con su propio nombre. Si tu Fidelidad baja del mínimo, pierdes el rango.
 
-### Rango
+| Rango | Fidelidad | Harpistas | Orden del Guantelete | Enclave Esmeralda | Alianza de los Señores | Zhentarim |
+|---|---|---|---|---|---|---|
+| Iniciado | 1 | Vigía | Chevall | Guardaprimaveras | Capa | Colmillo |
+| Agente | 10 | Sombra del Arpa | Marcheon | Caminante del Verano | Cuchillo Rojo | Lobo |
+| Veterano | 25 | Vela Brillante | Halcón Blanco | Segador de Otoño | Hoja Punzante | Víbora |
+| Mentor | 40 | Búho Sabio | Vindicador | Acechador de Invierno | Duque de Guerra | Ardragón |
+| Miembro Ejemplar | 60 | Arpista Mayor | Mano Justa | Señor de lo Salvaje | Corona de León | Señor del Terror |
 
-| Rango | Fidelidad |
-|---|---|
-| Iniciado | 1 |
-| Agente | 10 |
-| Veterano | 25 |
-| Mentor | 40 |
-| Miembro Ejemplar | 60 |
+## La facción en tu Bastión
 
-Una vez alcances la cantidad de Fidelidad necesaria para poseer un determinado rango, lo obtienes. En caso de que tu fidelidad se reduzca, el rango puede ser revocado.
+Desde Tier 2 cada personaje puede tener un [Bastión](bastiones.md). Si perteneces a una facción, al llegar a rango **Agente** puedes construir la **instalación especial de tu facción** (Heroes of Faerûn, capítulo 6) como una de tus instalaciones especiales.
+
+## Contactos en Aaredale
+
+!!! pendiente "Propuesta (DM)"
+    Cada facción tiene un contacto natural entre [Los 13](../mundo/los-13.md). Ajústalo o bórralo si no encaja con tu lore:
+
+    | Facción | Contacto propuesto | Por qué |
+    |---|---|---|
+    | Harpistas | Ciuran Marka | Líder de los Arpistas en el consejo |
+    | Orden del Guantelete | San Cristóbal | Comandante de los Paladines; Tyr, Helm y Torm |
+    | Enclave Esmeralda | Stoney Boldobrote | Elegido de Mielikki, a cargo del enclave natural |
+    | Alianza de los Señores | La Familia Theolgrim | Nobles regentes de Aaredale |
+    | Zhentarim | Freily Boldoleaf | A cargo de los negocios de los "bajos mundos" |
 
 ## Lords Alliance
 
@@ -59,7 +81,7 @@ Para poder unirte a la Alianza de los Señores, deberás ser de alineamiento: La
 
 ### Iniciado
 
-Dispondrás de acceso al canal de la Facción y tendrás Poder de Voto.
+Tienes acceso a la sede de la facción en Aaredale y voz en sus decisiones.
 
 ### Agente
 
@@ -75,7 +97,7 @@ La alianza pondrá su poder económico para establecer un campamento militar en 
 
 ### Miembro Ejemplar
 
-Acceso al canal de los Maestros Por cada 3 Puntos de Fidelidad obtienes 3 PT
+Formas parte del consejo de la facción. Por cada 3 Puntos de Fidelidad obtienes 3 PT
 
 ## The Harpers
 
@@ -83,7 +105,7 @@ Para poder unirte a los Harpistas, deberás ser de alineamiento: Lawful neutral,
 
 ### Iniciado
 
-Dispondrás de acceso al canal de la Facción y tendrás Poder de Voto.
+Tienes acceso a la sede de la facción en Aaredale y voz en sus decisiones.
 
 ### Agente
 
@@ -99,7 +121,7 @@ Acceso al portal de teletransportación de Aaredale. En caso de hacer entrega de
 
 ### Miembro Ejemplar
 
-Acceso al canal de los Maestros Por cada Punto de Fidelidad obtienes 500 gp.
+Formas parte del consejo de la facción. Por cada Punto de Fidelidad obtienes 500 gp.
 
 ## The Order of the Gauntlet, la principal facción de Aaredale
 
@@ -107,7 +129,7 @@ Para poder unirte a la Orden del Guantalete, deberás ser de alineamiento: Lawfu
 
 ### Iniciado
 
-Dispondrás de acceso al canal de la Facción y tendrás Poder de Voto.
+Tienes acceso a la sede de la facción en Aaredale y voz en sus decisiones.
 
 ### Agente
 
@@ -123,7 +145,7 @@ Puedes adquirir Raise Dead Por 10 Puntos de Tesoro y 10 Puntos de Renombre para 
 
 ### Miembro Ejemplar
 
-Acceso al canal de los Maestros. Por cada 3 Puntos de Fidelidad obtienes un Segundo Aliento acumulable para el personaje
+Formas parte del consejo de la facción. Por cada 3 Puntos de Fidelidad obtienes un Segundo Aliento acumulable para el personaje
 
 ## The Emerald Enclave
 
@@ -131,11 +153,11 @@ Para poder unirte al Enclave Esmeralda, deberás ser de alineamiento: Chaotic Go
 
 ### Iniciado
 
-Dispondrás de acceso al canal de la Facción. Podrás tener acceso a las estructuras de la facción a cambio de 2 PR.
+Tienes acceso a la sede de la facción en Aaredale. Podrás tener acceso a las estructuras de la facción a cambio de 2 PR.
 
 ### Agente
 
-Obtienes Poder de Voto Podrás tener acceso a las estructuras de la facción a cambio de 1 PR.
+Tienes voz en las decisiones de la facción. Podrás tener acceso a las estructuras de la facción a cambio de 1 PR.
 
 ### Veterano
 
@@ -147,7 +169,7 @@ Escoges que Supernatural Charm obtienes de entre los últimos 20 lanzados aleato
 
 ### Miembro Ejemplar
 
-Acceso al canal de los Maestros. Magicos T1 para el personaje.
+Formas parte del consejo de la facción. Magicos T1 para el personaje.
 
 ## The Zhentarim
 
@@ -155,23 +177,23 @@ Para poder unirte a los Zhentarim, deberás ser de alineamiento: Chaotic Neutral
 
 ### Iniciado
 
-Dispondrás de acceso al canal de la Facción y tendrás Poder de Voto.
+Tienes acceso a la sede de la facción en Aaredale y voz en sus decisiones.
 
 ### Agente
 
-La red de los Zhentarim te permitirá ejercer la actividad de días de descanso "Gambling" en Shaarmid. Podrás tener acceso a las estructuras de la facción a cambio de 100 gp.
+La red de los Zhentarim te permitirá ejercer la actividad de días de descanso "Gambling" en los bajos fondos de Aaredale. Podrás tener acceso a las estructuras de la facción a cambio de 100 gp.
 
 ### Veterano
 
-Formas parte íntegra de la red de los Zhentarim, la cual se extiende hasta lugares insospechados. Por 200 gp y con el permiso del MC puedes obtener 1 pieza de lore del punto de interés que vas a visitar. Con el suficiente dinero podrás contratar a mercenarios de alto calibre para tus expediciones
+Formas parte íntegra de la red de los Zhentarim, la cual se extiende hasta lugares insospechados. Por 200 gp y con el permiso del DM puedes obtener 1 pieza de lore del punto de interés que vas a visitar. Con el suficiente dinero podrás contratar a mercenarios de alto calibre para tus expediciones
 
 ### Mentor
 
-Tu poder se extiende por Faerûn, sabrás cosas que no quieres saber y tendrás responsabilidades que preferirías ignorar. A cambio dispones de acceso libre a las estructuras de la facción y puedes obtener 1 pieza de lore cualquier punto que visites gratuitamente. Se te hace entrega también de un Ring of Mind Shielding que deberás emplear en territorio aeredalino. Obtendrás acceso a los encargos de la Facción.
+Tu poder se extiende por Faerûn, sabrás cosas que no quieres saber y tendrás responsabilidades que preferirías ignorar. A cambio dispones de acceso libre a las estructuras de la facción y puedes obtener 1 pieza de lore cualquier punto que visites gratuitamente. Se te hace entrega también de un Ring of Mind Shielding que deberás emplear en territorio de Aaredale. Obtendrás acceso a los encargos de la Facción.
 
 ### Miembro Ejemplar
 
-Acceso al canal de los Maestros. Por cada 3 Puntos de Fidelidad obtienes un Expedicionario Profesional acumulable para el personaje.
+Formas parte del consejo de la facción. Por cada 3 Puntos de Fidelidad obtienes un Expedicionario Profesional acumulable para el personaje.
 
 ### Especialistas de Lord's Alliance
 
@@ -262,11 +284,11 @@ puede coincidir con un descanso corto o un descanso largo, el Pulidor le otorgar
 
 **Idiomas: Aparte de sus idiomas raciales, el Torturador.**
 
-dispone de 2 idiomas adicionales. El trabajo que no pueden hacer los aventureros: El torturador no tiene ningún límite de alineamiento, a diferencia de los aventureros. Sin escrúpulos: El torturador empleará métodos mundanos y mágicos para sacar información de una criatura que comparta su idioma y se encuentre completamente reducida. Tras 24 horas de trabajo obtendrá 1d4+ Cha Modifier piezas de lore de la criatura. Mucha gente: Debido a que la tripulación consta de múltiples individuos, no puedes escoger la raza de los mismos. Por la contra, el MC puede asumir que la tripulación se compone de principalmente razas del PHB, incluyendo minoritariamente razas de otros libros. Sin capitán: La tripulación no dispone de capitán. Para poder usar sus features es necesario disponer de un Piloto capaz de gestionar el vehículo en cuestión o de un aventurero que disponga de Expertise en el mencionado vehículo. Tamaño mediano: Pueden tripular cualquier vehículo que requiera hasta 45 tripulantes para ser manejado de manera eficiente. Entrenamiento: Mientras se pueda garantizar el pago de sus servicios, la tripulación jamás se amotinará.
+dispone de 2 idiomas adicionales. El trabajo que no pueden hacer los aventureros: El torturador no tiene ningún límite de alineamiento, a diferencia de los aventureros. Sin escrúpulos: El torturador empleará métodos mundanos y mágicos para sacar información de una criatura que comparta su idioma y se encuentre completamente reducida. Tras 24 horas de trabajo obtendrá 1d4+ Cha Modifier piezas de lore de la criatura. Mucha gente: Debido a que la tripulación consta de múltiples individuos, no puedes escoger la raza de los mismos. Por la contra, el DM puede asumir que la tripulación se compone de principalmente razas del PHB, incluyendo minoritariamente razas de otros libros. Sin capitán: La tripulación no dispone de capitán. Para poder usar sus features es necesario disponer de un Piloto capaz de gestionar el vehículo en cuestión o de un aventurero que disponga de Expertise en el mencionado vehículo. Tamaño mediano: Pueden tripular cualquier vehículo que requiera hasta 45 tripulantes para ser manejado de manera eficiente. Entrenamiento: Mientras se pueda garantizar el pago de sus servicios, la tripulación jamás se amotinará.
 
 ### Tripulación Grande
 
-Mucha gente: Debido a que la tripulación consta de múltiples individuos, no puedes escoger la raza de los mismos. Por la contra, el MC puede asumir que la tripulación se compone de principalmente razas del PHB, incluyendo minoritariamente razas de otros libros. Sin capitán: La tripulación no dispone de capitán. Para poder usar sus features es necesario disponer de un Piloto capaz de gestionar el vehículo en cuestión o de un aventurero que disponga de Expertise en el mencionado vehículo. Tamaño grande: Pueden tripular cualquier vehículo de manera eficiente. Entrenamiento: Mientras se pueda garantizar el pago de sus servicios, la tripulación jamás se amotinará.
+Mucha gente: Debido a que la tripulación consta de múltiples individuos, no puedes escoger la raza de los mismos. Por la contra, el DM puede asumir que la tripulación se compone de principalmente razas del PHB, incluyendo minoritariamente razas de otros libros. Sin capitán: La tripulación no dispone de capitán. Para poder usar sus features es necesario disponer de un Piloto capaz de gestionar el vehículo en cuestión o de un aventurero que disponga de Expertise en el mencionado vehículo. Tamaño grande: Pueden tripular cualquier vehículo de manera eficiente. Entrenamiento: Mientras se pueda garantizar el pago de sus servicios, la tripulación jamás se amotinará.
 
 ### Mercenarios de los Zhentarim
 
@@ -293,8 +315,8 @@ Mucha gente: Debido a que la tripulación consta de múltiples individuos, no pu
 | Champion | 75 | Elite | 6 |
 | Cloud Giant | 81 | Elite | 2 |
 
-Para contratar a cualquiera de estas mujeres y hombres, es necesario dejar por fianza en Shaarmid 10 veces el coste estimado de su contrato (tiempo de viaje de ida, vuelta + 5 días adicionales). En caso de morir no se devolverá la fianza.
+Para contratar a cualquiera de estas mujeres y hombres, es necesario dejar por fianza en la casa Zhentarim de Aaredale 10 veces el coste estimado de su contrato (tiempo de viaje de ida, vuelta + 5 días adicionales). En caso de morir no se devolverá la fianza.
 
 ### Hirelings
 
-Deberás comunicarle al MC la intención de contratar a estos hirelings antes de la partida y la estimación de días apropiada para la fianza en caso de ser necesaria. El pago de los mismos se realizará AL ACABAR la sesión con un pago (ingame) en #trade-logs. Deberás tú también encargarte de su comida, como con el resto de Hirelings.
+Deberás comunicarle al DM la intención de contratar a estos hirelings antes de la partida y la estimación de días apropiada para la fianza en caso de ser necesaria. El pago de los mismos se realizará AL ACABAR la sesión y se anota en tu hoja de registro. Deberás tú también encargarte de su comida, como con el resto de Hirelings.
