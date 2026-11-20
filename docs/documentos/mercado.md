@@ -2,8 +2,10 @@
 
 Precios de objetos y servicios en Aaredale. Usa el buscador de arriba o `Ctrl + F` para encontrar un objeto.
 
-!!! pendiente "Borrador importado"
-    Lista pasada desde *Precios Lanza de Plata.xlsx*. po = piezas de oro, pp = piezas de plata, pc = piezas de cobre. Revisa los precios antes de publicarla.
+**po** = piezas de oro · **pp** = piezas de plata · **pc** = piezas de cobre. Se vende a la mitad del precio de compra.
+
+!!! pendiente "Por revisar (DM)"
+    Precios basados en el Player's Handbook 2014 y en la economía de la campaña. Compáralos con el Player's Handbook 2024 cuando puedas.
 
 ## Servicios en Aaredale
 
@@ -374,17 +376,6 @@ Precios de objetos y servicios en Aaredale. Usa el buscador de arriba o `Ctrl + 
 | Wooden Staff | 20 po | Woodcarver's Tools |
 | Orb | 40 po |  |
 
-## Gastos de estilo de vida
-
-| Objeto | Precio | Herramienta para fabricarlo |
-|---|---|---|
-| Squalid Shaarmid | 4,5 po |  |
-| Poor Shaarmid | 9 po |  |
-| Modest Shaarmid | 45 po |  |
-| Comfortable Shaarmid | 90 po |  |
-| Wealthy Shaarmid | 180 po |  |
-| Aristocratic Shaarmid | 700 po |  |
-
 ## Otros
 
 | Objeto | Precio | Herramienta para fabricarlo |
@@ -392,17 +383,14 @@ Precios de objetos y servicios en Aaredale. Usa el buscador de arriba o `Ctrl + 
 | Theki Root | 10 po | Herbalism's Kit |
 | Kit de Acampada | 10 po |  |
 | Potion of Healing | 150 po | Herbalism's Kit |
-| Granizado de Curación | 50 po | ES VERANO |
 | 1 gp en Tintas para hechizos | 4 po |  |
 | Materials for spells | 2 po |  |
 | Diamantes para hechizos (1 gp) | 70 po |  |
 | Rubíes y rubíes en polvo para hechizos (1 gp) | 3 po |  |
 | Componentes de Alquimia | 1 po |  |
-| Municion Blackthunderpowder | 40 po |  |
-| Pasaje a Shaarmid | 100 po |  |
+| Munición Blackthunderpowder | 20 po | Solo en el Bastión de Danerion |
 | Pasaje a Lurag | 1.000 po |  |
 | Pasaje a Dialta | 25 po |  |
-| Miel de Shaarmid | 1.600 po |  |
 | Spellbook | 200 po |  |
 | 1 pound Dulces del Festival | 2 po |  |
 | Estandarte de las Fiestas | 5 po |  |
