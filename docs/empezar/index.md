@@ -6,7 +6,7 @@ La Lanza de Plata es un *west marches*: no hay un solo grupo fijo, sino una comu
 
 1. **Lee las [reglas de la mesa](../reglas/index.md).** Son cortas y evitan la mayoría de los problemas.
 2. **Crea tu personaje** siguiendo la guía de [crear y registrar tu personaje](personaje.md).
-3. **Regístralo** en la hoja de registro de personajes.
+3. **Regístralo** en la [hoja de registro de personajes](https://docs.google.com/spreadsheets/d/1QzgLjxXs5M-6_O-IhiIEr9-S-Lg3La-x/edit?gid=554051115#gid=554051115).
 4. **Revisa los [horarios](horarios.md)** y avisa en qué mesas puedes jugar.
 5. **Espera la convocatoria.** El DM arma cada mesa según nivel, clase y tiempo sin jugar. Lee [cómo se arman las mesas](../reglas/parties.md).
 
