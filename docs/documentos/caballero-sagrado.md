@@ -23,7 +23,7 @@ Llevas sirviendo al Puño de los Dioses desde los 5 años. Hace 3 años te trans
 | 3 | Conjuros de juramento, Arma Sagrada, Chispas de Fe, Juicio, Carga Sagrada, rasgo de tu dios |
 | 7 | Juicio Mejorado, El Mal Debe Caer, rasgo mejorado de tu dios |
 | 15 | Doble Juicio, Segunda Oportunidad, rasgo de tu dios |
-| 20 | Avatar de tu dios |
+| 20 | Avatar de tu dios (Juez Ciego, Mártir Leal o Vigilante Eterno) |
 
 ### Arma Sagrada
 
@@ -69,6 +69,10 @@ Llevas sirviendo al Puño de los Dioses desde los 5 años. Hace 3 años te trans
 
 *Nivel 15.* Si recibes una herida que te mataría al instante, haces una salvación contra muerte con CD 7. Si la superas, tu arma sagrada y tu símbolo sagrado se rompen, pero quedas estable a 0 puntos de golpe. El milagro no se repite hasta que devuelvas 3 favores religiosos a tu dios.
 
+### Avatar de tu dios
+
+*Nivel 20.* Como acción adicional, te conviertes en el avatar de tu dios durante **10 minutos**. Termina antes si quedas incapacitado. Puedes hacerlo una vez por descanso largo, o gastando un espacio de conjuro de nivel 5. Cada dios da su forma (ver cada juramento).
+
 ## Juramento a Tyr
 
 *Nunca romperé una promesa. Prometo ser valiente. Prometo guiar a mis feligreses en la dirección correcta. Prometo ser moralmente superior al resto. El mal será identificado. El mal será sentenciado. El mal será ajusticiado. ¡Yo seré Justicar! ¡SANTA ES!*
@@ -86,7 +90,10 @@ Llevas sirviendo al Puño de los Dioses desde los 5 años. Hace 3 años te trans
 - **Trance de Batalla (nivel 3).** En la primera ronda de un combate, como acción, usas Canalizar Divinidad (o gastas 3 Chispas) para hincar la rodilla y rezar por las vidas que vas a tomar. Entras en trance hasta que no queden enemigos o pases una ronda inconsciente: +2 a los ataques con tu arma sagrada, los efectos de Heroism sin concentración, y puedes gastar 1 Chispa para atacar con ventaja como acción adicional.
 - **Guiado por la Ira (nivel 7).** En trance, tus ataques suman tu modificador de Carisma al daño. Además, puedes cambiar un ataque de tu acción de Ataque por una maniobra contra una criatura Enorme o menor a 5 pies: salvación de Fuerza (con desventaja si estás en trance) o queda derribada. Si cae, puedes atacarla como acción adicional y gastar 1 Chispa para que ese ataque sea crítico si acierta.
 - **Vanguardia (nivel 15).** No puedes ser sorprendido. Antes de tirar iniciativa puedes gastar 2 Chispas para sacar un 20 en el dado; no puedes repetirlo hasta compensar 2 favores religiosos.
-- **Avatar de Tyr (nivel 20).** Por escribir.
+- **Avatar de Tyr (nivel 20). El Juez Ciego.** La justicia de Tyr no necesita ojos:
+    - Eres inmune a Cegado y tienes visión verdadera a 60 pies.
+    - Entras en Trance de Batalla sin gastar nada, y tus ataques con un arma sagrada son críticos con 19 o 20.
+    - **Sentencia:** una vez por turno, cuando aciertas con tu arma sagrada, el objetivo hace una salvación de Carisma contra tu CD de conjuros o queda Aturdido hasta el final de tu siguiente turno. Una criatura malvada tiene desventaja.
 
 ## Juramento a Torm
 
@@ -105,7 +112,10 @@ Llevas sirviendo al Puño de los Dioses desde los 5 años. Hace 3 años te trans
 - **La Luz de la Santa Trinidad (nivel 3).** Como acción, usas Canalizar Divinidad (o gastas 3 Chispas) y entonas un cántico: cada aliado a 60 pies recupera 2d8 + tu modificador de Carisma puntos de golpe.
 - **Luz Mejorada (nivel 7).** Puedes usar la Luz como acción adicional. Los aliados de alineamiento bueno que cure brillan (5 pies) y suman tu modificador de Carisma a sus salvaciones durante 1 minuto; durante ese minuto, tú lo sumas a tus ataques.
 - **Limpiar la Mente (nivel 15).** Gastas 1 Chispa y tocas a una criatura dispuesta: se libera de Hechizado y Asustado, recupera sus atributos mentales reducidos y se elimina cualquier mal que la retuviera.
-- **Avatar de Torm (nivel 20).** Por escribir.
+- **Avatar de Torm (nivel 20). El Mártir Leal.** Torm pide dar la vida por los demás, y te da con qué:
+    - Emites luz brillante en 30 pies. Cada aliado que empieza su turno en esa luz recupera 10 puntos de golpe.
+    - **Sacrificio:** cuando un aliado en tu luz cae a 0 puntos de golpe, puedes usar tu reacción para que quede a 1 y recibir tú el daño que sobraba. Ese daño no se puede reducir.
+    - Puedes usar La Luz de la Santa Trinidad como acción adicional sin gastar Canalizar Divinidad ni Chispas, una vez por turno.
 
 ## Juramento a Helm
 
@@ -124,7 +134,10 @@ Llevas sirviendo al Puño de los Dioses desde los 5 años. Hace 3 años te trans
 - **El Juicio de Helm (nivel 3).** Como acción, usas Canalizar Divinidad (o gastas 3 Chispas) para dar los beneficios de tu juicio a 2 aliados a 60 pies.
 - **Juicio Mejorado y Salvación (nivel 7).** Los aliados de alineamiento bueno no cuentan para el límite del Juicio de Helm, y mientras dure sumas la mitad de tu modificador de Carisma a ataques y daño. Además, cuando una criatura a 30 pies va a quedar a 0 puntos de golpe, puedes gastar 1 Chispa y tu reacción para recibir el daño en su lugar; ese daño no se puede reducir.
 - **Marcha Sagrada (nivel 15).** Como acción adicional, gastas 2 Chispas: las criaturas dispuestas que elijas a 60 pies pueden usar su reacción para moverse su velocidad + 15 pies. Este movimiento provoca ataques de oportunidad.
-- **Avatar de Helm (nivel 20).** Por escribir.
+- **Avatar de Helm (nivel 20). El Vigilante Eterno.** Helm nunca duerme, y tú tampoco caes:
+    - No puedes ser sorprendido ni Cegado. Tú y tus aliados a 30 pies tienen +2 a la CA y ventaja en las salvaciones.
+    - Puedes usar Salvación sin gastar Chispas ni reacción, una vez por ronda.
+    - Una vez durante la transformación, puedes lanzar **Wall of Force** sin gastar espacio de conjuro y sin necesitar concentración.
 
 ## Rasgos de la versión anterior pendientes de decisión
 
