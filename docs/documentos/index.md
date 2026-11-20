@@ -1,30 +1,31 @@
 # Manuales
 
-Los documentos oficiales de la mesa. Cada uno es una página de este sitio, así que puedes buscar dentro de todos con el buscador de arriba.
+Los documentos oficiales de la mesa, actualizados a **D&D 5.5 (2024)**. Cada uno es una página de este sitio, así que puedes buscar en todos con el buscador de arriba.
 
 ## Para empezar
 
 | Documento | Para qué sirve |
 |---|---|
-| [Manual básico](manual-basico.md) | Crear tu primer personaje y jugar tu primera partida |
-| [Manual avanzado](manual-avanzado.md) | Reglas completas de la campaña: adaptaciones, tiers, registros, economía, códigos de Aaredale |
+| [Manual básico](manual-basico.md) | Libros permitidos, creación de personaje y tu primera partida |
+| [Manual avanzado](manual-avanzado.md) | Reglas completas: adaptaciones, tiers, Días de Descanso, expediciones, códigos de Aaredale |
 
 ## Recompensas y economía
 
 | Documento | Para qué sirve |
 |---|---|
-| [Recompensas](recompensas.md) | Puntos de tesoro, renombre y en qué gastarlos |
+| [Recompensas](recompensas.md) | Puntos de Tesoro y de Renombre, Favores del Puño, dones divinos y revisiones |
 | [Tesoro](tesoro.md) | Las tablas de tesoro por tier y cómo tirar en ellas |
 | [Mercado](mercado.md) | Precios de objetos y servicios en Aaredale |
+| [Bastiones](bastiones.md) | Tu base propia desde Tier 2, a 7 Días de Descanso por turno |
 
-## Facciones y opciones especiales
+## Facciones y opciones de prestigio
 
 | Documento | Para qué sirve |
 |---|---|
-| [Facciones](facciones.md) | Las facciones del mundo y lo que ofrecen |
-| [Astero de Plata](astero-de-plata.md) | Clase propia: los herederos de la Compañía Plateada, maestros del arma de asta |
-| [Caballero Sagrado](caballero-sagrado.md) | Opción de personaje: un soldado al servicio del Puño de los Dioses desde niño |
+| [Facciones](facciones.md) | Las cinco facciones, sus rangos y lo que ofrecen |
+| [Astero de Plata](astero-de-plata.md) | Subclase de Guerrero de prestigio (Tier 2): los herederos de la Compañía Plateada |
+| [Caballero Sagrado](caballero-sagrado.md) | Juramento de Paladín de prestigio (Tier 3): soldados del Puño de los Dioses |
 | [Blackthunderpowder](blackthunderpowder.md) | Armas experimentales de pólvora negra del Bastión de Danerion |
 
-!!! pendiente "Por revisar (DM)"
-    Todos estos manuales se importaron de los PDF originales. Mientras los adaptas a tu mesa, cada página lleva un aviso de borrador al inicio. Cuando termines de revisar una, borra el aviso.
+!!! info "Avisos en las páginas"
+    Los recuadros morados marcan decisiones del DM que faltan. Los recuadros amarillos de "en pruebas" marcan reglas nuevas que se ajustarán tras probarlas en mesa.
