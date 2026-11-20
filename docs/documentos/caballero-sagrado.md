@@ -20,9 +20,9 @@ Llevas sirviendo al Puño de los Dioses desde los 5 años. Hace 3 años te trans
 
 | Nivel de Paladín | Rasgos |
 |---|---|
-| 3 | Conjuros de juramento, Arma Sagrada, Chispas de Fe, Juicio, Carga Sagrada, rasgo de tu dios |
-| 7 | Juicio Mejorado, El Mal Debe Caer, rasgo mejorado de tu dios |
-| 15 | Doble Juicio, Segunda Oportunidad, rasgo de tu dios |
+| 3 | Conjuros de juramento, Arma Sagrada, Chispas de Fe, Juicio, Carga Sagrada, El Poder de la Justicia, Absolución, rasgo de tu dios |
+| 7 | Juicio Mejorado, El Mal Debe Caer, Maestro del Combate, Marcar a los Herejes, rasgo mejorado de tu dios |
+| 15 | Doble Juicio, Segunda Oportunidad, La Fe se Transmite, rasgo de tu dios |
 | 20 | Avatar de tu dios (Juez Ciego, Mártir Leal o Vigilante Eterno) |
 
 ### Arma Sagrada
@@ -53,6 +53,20 @@ Llevas sirviendo al Puño de los Dioses desde los 5 años. Hace 3 años te trans
 
 *Nivel 3.* En tu primer turno de un combate puedes gastar 2 Chispas de Fe para usar la acción de Correr y luego la acción de Ataque con tu arma sagrada. Si aciertas a una criatura malvada, o a una que ya haya herido a un aliado, tus ataques contra ella hasta el final de la ronda hacen 1d8 de daño radiante extra.
 
+### El Poder de la Justicia
+
+*Nivel 3. Solo si eres de alineamiento legal.* Un caballero del Puño no se deja guiar por falsos testimonios. Como acción, gastas 1 Chispa de Fe y tu cuerpo empieza a brillar con la luz de la justicia durante 1 minuto:
+
+- Sabes el alineamiento de toda criatura que puedas ver u oír.
+- Conoces la ubicación exacta de toda criatura malvada a 60 pies. No puede esconderse de ti ni beneficiarse de ser invisible.
+
+### Absolución
+
+*Nivel 3. Solo si eres de alineamiento bueno.* Tu devoción va más allá de la violencia: puedes vencer convenciendo al alma en lugar de castigar el cuerpo. Como acción, gastas 1 Chispa de Fe y eliges una criatura malvada a 60 pies que puedas ver. Hace una salvación de Carisma contra tu CD de conjuros; puede fallarla a voluntad, y falla automáticamente si tiene menos puntos de golpe que el doble de tu nivel de Paladín.
+
+- **Si falla**, el mal la abandona: su alineamiento pasa a bueno, conserva su personalidad (con los pequeños cambios que esto implique) y deja de ser hostil contigo y tu grupo.
+- **Si tiene éxito**, no pasa nada y no puedes volver a intentarlo con ella en 30 días.
+
 ### Juicio Mejorado
 
 *Nivel 7.* Puedes gastar 2 Chispas en un juicio para duplicar su bonificador. Desde nivel 15, puedes gastar 3 para triplicarlo. Si el juicio es de Resistencia, ganas resistencia a 2 o 3 tipos de daño.
@@ -61,6 +75,14 @@ Llevas sirviendo al Puño de los Dioses desde los 5 años. Hace 3 años te trans
 
 *Nivel 7.* Sumas tu modificador de Carisma a tus tiradas de ataque, pruebas de habilidad y salvaciones contra criaturas malvadas.
 
+### Maestro del Combate
+
+*Nivel 7.* Tus años de entrenamiento te enseñaron a dirigir la línea. Al inicio de una ronda, puedes gastar 1 Chispa de Fe y tu reacción para intercambiar tu iniciativa con la de un aliado dispuesto. Si lo haces, sumas tu bonificador de competencia a tu nueva iniciativa.
+
+### Marcar a los Herejes
+
+*Nivel 7.* Como acción adicional, gastas 2 Chispas de Fe y haces una prueba de Inteligencia (Religión) CD 15 para saber a qué dios sirve una criatura inteligente a 60 pies que puedas ver. Contra infernales y muertos vivientes tienes éxito automático. Si no sirve a Tyr, Torm o Helm, puedes marcarla como **hereje** durante 1 minuto: tus ataques con un arma sagrada contra ella suman tu modificador de Carisma al daño. Si el hereje muere, puedes mover la marca a otra criatura como acción adicional sin gastar más Chispas.
+
 ### Doble Juicio
 
 *Nivel 15.* Puedes mantener 2 juicios distintos a la vez, pagando las Chispas de cada uno.
@@ -68,6 +90,10 @@ Llevas sirviendo al Puño de los Dioses desde los 5 años. Hace 3 años te trans
 ### Segunda Oportunidad
 
 *Nivel 15.* Si recibes una herida que te mataría al instante, haces una salvación contra muerte con CD 7. Si la superas, tu arma sagrada y tu símbolo sagrado se rompen, pero quedas estable a 0 puntos de golpe. El milagro no se repite hasta que devuelvas 3 favores religiosos a tu dios.
+
+### La Fe se Transmite
+
+*Nivel 15.* Como acción adicional, gastas un espacio de conjuro para recuperar 2 Chispas de Fe.
 
 ### Avatar de tu dios
 
@@ -138,15 +164,3 @@ Llevas sirviendo al Puño de los Dioses desde los 5 años. Hace 3 años te trans
     - No puedes ser sorprendido ni Cegado. Tú y tus aliados a 30 pies tienen +2 a la CA y ventaja en las salvaciones.
     - Puedes usar Salvación sin gastar Chispas ni reacción, una vez por ronda.
     - Una vez durante la transformación, puedes lanzar **Wall of Force** sin gastar espacio de conjuro y sin necesitar concentración.
-
-## Rasgos de la versión anterior pendientes de decisión
-
-!!! pendiente "Por decidir (DM)"
-    Estos rasgos de la clase original no entraron en el juramento para no sobrecargarlo. Decide si alguno vuelve, quizás como uso de Canalizar Divinidad:
-
-    - **Absolución** (solo alineamiento bueno): con 1 Chispa, una criatura malvada a 60 pies hace una salvación de Carisma o su alineamiento pasa a bueno.
-    - **El Poder de la Justicia** (solo alineamiento legal): con 1 Chispa, durante 1 minuto conoces el alineamiento de quien veas u oigas y localizas a las criaturas malvadas a 60 pies.
-    - **Maestro del Combate:** con 1 Chispa y tu reacción, intercambias tu iniciativa con la de un aliado.
-    - **Maniobra de Fanático:** con 1 Chispa, atacas con tu arma sagrada como acción adicional.
-    - **Marcar a los Herejes:** con 2 Chispas, identificas el dios de una criatura y la marcas como hereje para sumar tu Carisma al daño.
-    - **La Fe se Transmite:** gastas un espacio de conjuro como acción adicional para recuperar 2 Chispas.
