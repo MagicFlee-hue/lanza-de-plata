@@ -33,11 +33,9 @@ Algunas opciones solo se abren cuando ya tienes un personaje en cierto tier:
 |---|---|---|
 | Tier 2 | **Astero de Plata**, subclase de Guerrero | [Astero de Plata](astero-de-plata.md) |
 | Tier 2 | Especies de prestigio: Loxodon, Minotaur, Owlin, Hadozee, Giff, Elf (Astral) | Libros de 2014 y Ravenloft |
+| Tier 2 | **Especie homebrew**: una especie creada por el jugador | Se habla con el DM antes de crearla |
 | Tier 3 | **Caballero Sagrado**, Juramento de Paladín | [Caballero Sagrado](caballero-sagrado.md) |
-| Tier 4 | Sabio | Por escribir |
-
-!!! pendiente "Por completar (DM)"
-    La opción de prestigio del Tier 4 (Sabio).
+| Tier 4 | **Sabio**, tradición de Mago | [Sabio](sabio.md) |
 
 ### 3.2 Varios personajes
 
@@ -315,7 +313,7 @@ Por 1 Día de Descanso puedes mezclar dos pociones según las reglas de mezcla d
 
 ## 8. Registro de personajes
 
-Toda la información de tus personajes vive en la **[hoja de registro](https://docs.google.com/spreadsheets/d/1QzgLjxXs5M-6_O-IhiIEr9-S-Lg3La-x/edit?gid=554051115#gid=554051115)** (Google Sheets). Ahí anotas la creación, cada subida de nivel, los Días de Descanso gastados, las compras y ventas y los turnos de Bastión. El DM anota las recompensas de cada sesión.
+Toda la información de tus personajes vive en la **hoja de registro**. Ahí anotas la creación, cada subida de nivel, los Días de Descanso gastados, las compras y ventas y los turnos de Bastión. El DM anota las recompensas de cada sesión.
 
 - **Nunca edites un registro anterior.** Si te equivocas, avisa al DM.
 - Si tu personaje muere o se retira, anótalo en la hoja como baja. Existe la posibilidad de resucitarlo.
@@ -610,6 +608,5 @@ Si una regla da lugar a dudas, se consulta el **Player's Handbook 2024**. Por ej
 - Mientras vivas en la taberna de la Lanza de Plata, la comida y el alojamiento los paga el Puño de los Dioses.
 - Tener casa propia (o un Bastión) en la ciudad donde está tu personaje reduce su manutención a 0.
 - Las caravanas cambian de ruta según la temporada. Viajar fuera de temporada cuesta el doble.
-
-!!! pendiente "Por completar (DM)"
-    Costo diario de manutención en otras ciudades de tu campaña.
+- **Fuera de la taberna**, pagas el estilo de vida del Player's Handbook 2024 con el recargo de la oscuridad: desde que el Faro se apagó, casi todo cuesta **5 veces** más en Aaredale. La comida ya se estabilizó gracias a la misión de cultivos, pero el alojamiento, la seguridad y lo demás siguen caros (ver [Mercado](mercado.md#el-precio-de-la-oscuridad)).
+- **Otras ciudades:** cada una tendrá su costo de vida cuando la historia llegue a ella. El DM lo anunciará.
