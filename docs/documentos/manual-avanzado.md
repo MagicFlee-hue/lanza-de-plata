@@ -315,7 +315,7 @@ Por 1 Día de Descanso puedes mezclar dos pociones según las reglas de mezcla d
 
 ## 8. Registro de personajes
 
-Toda la información de tus personajes vive en la **hoja de registro** (Google Sheets). Ahí anotas la creación, cada subida de nivel, los Días de Descanso gastados, las compras y ventas y los turnos de Bastión. El DM anota las recompensas de cada sesión.
+Toda la información de tus personajes vive en la **[hoja de registro](https://docs.google.com/spreadsheets/d/1QzgLjxXs5M-6_O-IhiIEr9-S-Lg3La-x/edit?gid=554051115#gid=554051115)** (Google Sheets). Ahí anotas la creación, cada subida de nivel, los Días de Descanso gastados, las compras y ventas y los turnos de Bastión. El DM anota las recompensas de cada sesión.
 
 - **Nunca edites un registro anterior.** Si te equivocas, avisa al DM.
 - Si tu personaje muere o se retira, anótalo en la hoja como baja. Existe la posibilidad de resucitarlo.
