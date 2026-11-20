@@ -63,7 +63,7 @@ Empiezas con:
 
 ## 6. Registro
 
-Registra tu personaje en la **[hoja de registro de personajes](https://docs.google.com/spreadsheets/d/1QzgLjxXs5M-6_O-IhiIEr9-S-Lg3La-x/edit?gid=554051115#gid=554051115)** (Google Sheets) antes de jugar. Ahí quedan tu nivel, tu tier, tu oro, tus Puntos de Tesoro y de Renombre y tus Días de Descanso.
+Registra tu personaje en la **hoja de registro de personajes** antes de jugar. Ahí quedan tu nivel, tu tier, tu oro, tus Puntos de Tesoro y de Renombre y tus Días de Descanso.
 
 ## 7. Huecos de personaje
 
