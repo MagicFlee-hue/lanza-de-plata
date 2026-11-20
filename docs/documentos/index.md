@@ -25,6 +25,7 @@ Los documentos oficiales de la mesa, actualizados a **D&D 5.5 (2024)**. Cada uno
 | [Facciones](facciones.md) | Las cinco facciones, sus rangos y lo que ofrecen |
 | [Astero de Plata](astero-de-plata.md) | Subclase de Guerrero de prestigio (Tier 2): los herederos de la Compañía Plateada |
 | [Caballero Sagrado](caballero-sagrado.md) | Juramento de Paladín de prestigio (Tier 3): soldados del Puño de los Dioses |
+| [Sabio](sabio.md) | Tradición de Mago de prestigio (Tier 4): los que remiendan el Telar |
 | [Blackthunderpowder](blackthunderpowder.md) | Armas experimentales de pólvora negra del Bastión de Danerion |
 
 !!! info "Avisos en las páginas"
