@@ -19,6 +19,7 @@ El consejo que gobierna el primer piso del Bastión de Danerion. Trece regentes 
 
 <div class="regentes">
   <div class="regente regente--alta"><span class="regente__asiento">13</span><b>Belerofonte / Belfegor</b><i>Entidad dual</i><em>Alta Regencia</em><p>Preside a los 13 y sostiene el equilibrio entre la luz de Tyr y la sombra de Asmodeus. Nadie sabe cuál de sus dos caras te va a responder.</p></div>
+  <div class="regente"><span class="regente__asiento">1</span><b>Thalassa</b><i>Genasi de agua</i><em>Salud y Bienestar</em><p>Jefa del Gran Sanatorio, maestra alquimista y guardiana de la moral pública.</p></div>
   <div class="regente"><span class="regente__asiento">2</span><b>San Cristóbal</b><i>Humano</i><em>Justicia Divina</em><p>Comandante de los Paladines. Purificación espiritual y orden sagrado.</p></div>
   <div class="regente"><span class="regente__asiento">3</span><b>Mavdos Krell</b><i>Humano (caído)</i><em>Lord Penitenciario</em><p>Verdugo oficial. Prisiones y cobro de deudas de almas.</p></div>
   <div class="regente"><span class="regente__asiento">4</span><b>Ciuran Marka</b><i>Shifter</i><em>Alta Magia y Espionaje</em><p>Líder de los Arpistas y maestra de la magia de conjuración protectora.</p></div>
@@ -30,8 +31,5 @@ El consejo que gobierna el primer piso del Bastión de Danerion. Trece regentes 
   <div class="regente"><span class="regente__asiento">10</span><b>El Magic'o</b><i>Mediano</i><em>Archivero de la Realidad</em><p>Registro histórico, profecías y preservación del conocimiento antiguo.</p></div>
   <div class="regente"><span class="regente__asiento">11</span><b>Bucky Drench Chuf</b><i>Enano</i><em>Minería y Arqueología</em><p>Extracción de recursos y artefactos bajo tierra.</p></div>
   <div class="regente"><span class="regente__asiento">12</span><b>Vespera</b><i>Hobgoblin</i><em>Defensa Marcial</em><p>Comandante del Puño de los Dioses y responsable de la milicia ciudadana.</p></div>
-  <div class="regente"><span class="regente__asiento">13</span><b>Thalassa</b><i>Genasi de agua</i><em>Salud y Bienestar</em><p>Jefa del Gran Sanatorio, maestra alquimista y guardiana de la moral pública.</p></div>
 </div>
 
-!!! pendiente "Revisar (DM)"
-    En la ilustración, Belerofonte / Belfegor y Thalassa aparecen los dos con el asiento 13, y no hay asiento 1. Confirma cuál es el número de cada uno.
