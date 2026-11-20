@@ -20,8 +20,16 @@ Las armas de Blackthunderpowder son armas experimentales. Ni la competencia con 
 
 Al ganar competencia con un arma, sumas tu bonificador de competencia a su Bonificador y a su daño (disparo o cualquier rasgo), y reduces su Inestabilidad en 1. Ningún estilo de combate se aplica directamente a estas armas.
 
-!!! pendiente "Propuesta (DM)"
-    Maestría de armas sugerida para quien tenga competencia: Pistol, Vex · Shotgun, Push · Pogrifle, Slow · Machine Gun, Graze.
+### Maestría de armas
+
+Si tienes competencia con un arma experimental y el rasgo Weapon Mastery, puedes usar su maestría:
+
+| Arma | Maestría |
+|---|---|
+| Blackthunderpowder Pistol | Vex (como la Pistol del Player's Handbook 2024) |
+| Blackthunderpowder Pogrifle | Slow (como el Musket del Player's Handbook 2024) |
+| Blackthunderpowder Shotgun | Push |
+| Blackthunderpowder Machine Gun | Graze |
 
 ## Propiedades
 
