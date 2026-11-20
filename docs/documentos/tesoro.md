@@ -1,9 +1,9 @@
 # Tesoro
 
-!!! pendiente "Borrador importado (versión 2.4 del documento original)"
-    Este texto se pasó automáticamente desde el PDF. Revísalo y adáptalo a tu mesa: referencias a Roll20, canales de Discord, MCs o al servidor original pueden no aplicar.
+!!! pendiente "Por revisar (DM)"
+    Las tablas usan los nombres y rarezas de los objetos de 2014. El Dungeon Master's Guide 2024 revisó muchos objetos: usa su versión nueva cuando exista.
 
-Con los respectivos Puntos de Tesoro, puedes tirar 1d100 usando el formato anclado en #registrojugadores y adquirir de forma aleatoria uno de los objetos de las siguientes tablas que quedan expuestas en este documento. Cabe recalcar que solo podrás tirar en una tabla de tu mismo Tier o inferior.
+Con los respectivos Puntos de Tesoro, puedes tirar 1d100, anotarlo en tu hoja de registro y adquirir de forma aleatoria uno de los objetos de las siguientes tablas que quedan expuestas en este documento. Cabe recalcar que solo podrás tirar en una tabla de tu mismo Tier o inferior.
 
 ## Tablas disponibles
 
@@ -53,7 +53,7 @@ Con los respectivos Puntos de Tesoro, puedes tirar 1d100 usando el formato ancla
 
 ## Opciones recomendadas
 
-Pese a que el resultado de tu tirada, y por tanto el objeto resultante son aleatorios, hay ciertas opciones para intentar favorecer que el jugador consiga algún objeto que realmente le interese. Nos referimos a las recompensas Ojo por el Tesoro, Ojo por el Detalle y Objetos Mágicos, ambas explicadas y disponibles en el documento de Recompensas disponible en el canal de #recompensas .
+Pese a que el resultado de tu tirada, y por tanto el objeto resultante son aleatorios, hay ciertas opciones para intentar favorecer que el jugador consiga algún objeto que realmente le interese. Nos referimos a las recompensas Ojo por el Tesoro, Ojo por el Detalle y Objetos Mágicos, ambas explicadas en [Recompensas](recompensas.md).
 
 ### Ojo por el Tesoro
 
@@ -812,15 +812,15 @@ Una vez en su forma durmiente, el arma obtendrá la condición de attunement por
 
 | Próximo Estado Experiencia | Rareza | Tier esperado |  |
 |---|---|---|---|
-| Dormant | 3.000 | Ucommon | T1 |
+| Dormant | 3.000 | Uncommon | T1 |
 | Awakened | 50.000 | Rare | T2 |
 | Exalted | 100.000 | Very Rare | T3 |
 
-Si la experiencia obtenida por el arma se encuentra fuera de su tier esperado, ésta se multiplicará por 2 por cada tier de diferencia. La experiencia se reduce a 0 una vez cambia de fase. Se cuenta la experiencia de los #registro-mc, descontando expedicionarios profesionales y otros bonos de eventos.
+Si la experiencia obtenida por el arma se encuentra fuera de su tier esperado, ésta se multiplicará por 2 por cada tier de diferencia. La experiencia se reduce a 0 una vez cambia de fase. Cuenta la experiencia que anota el DM al final de cada sesión, descontando expedicionarios profesionales y otros bonos de eventos.
 
 ## Miltadur Forma Parte del Arma
 
-Debido al origen del arma, ésta no se ve afectada por el Evento 13 en ninguna de sus formas. La Lanza de Plata comparte aventuras y experiencias con su usuario. Una vez dicho arma ha salido de aventuras un mínimo de 10 sesiones y ha obtenido 3.000 puuntos de experiencia, el arma evoluciona, siguiendo la siguiente tabla, en la forma que más experiencia de clase haya obtenido:
+Debido al origen del arma, ésta no se ve afectada por el Evento 13 en ninguna de sus formas. La Lanza de Plata comparte aventuras y experiencias con su usuario. Una vez dicho arma ha salido de aventuras un mínimo de 10 sesiones y ha obtenido 3.000 puntos de experiencia, el arma evoluciona, siguiendo la siguiente tabla, en la forma que más experiencia de clase haya obtenido:
 
 of Divine Protection
 
