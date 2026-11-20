@@ -31,6 +31,9 @@ theme:
 extra_css:
   - assets/css/lanza.css
 
+extra_javascript:
+  - assets/js/lanza.js
+
 plugins:
   - search:
       lang: es
