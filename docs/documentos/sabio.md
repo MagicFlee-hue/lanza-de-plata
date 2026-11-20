@@ -62,9 +62,9 @@ Puedes usarlo tantas veces como tu modificador de Inteligencia (mínimo 1). Recu
 |---|---|
 | Vida Mayor | Quien la lleva y cae a 0 puntos de golpe recupera la mitad de sus puntos de golpe máximos y termina todas las condiciones que tenga |
 | Telar Mayor | Recuperas un espacio de conjuro gastado de nivel 5 o menor |
-| Transmutación Mayor | Puedes crear gemas, incluidos diamantes, por un valor total de hasta 500 po. Solo una vez cada 7 Días de Descanso |
+| Transmutación Mayor | Con 1 minuto de trabajo, transformas hasta 10 pies cúbicos de material no mágico en otro de valor igual o menor, o recubres un arma de plata o adamantina durante 24 horas. Nunca crea gemas ni metales preciosos |
 
 Además, tu cuerpo deja de envejecer.
 
-!!! pendiente "Por revisar (DM)"
-    La Transmutación Mayor permite crear diamantes, que en Aaredale no existen. Es una puerta a resucitar sin depender de expediciones. Decide si la mantienes así, si la limitas más o si la quitas.
+!!! info "La Gran Obra no está completa"
+    Ningún Sabio ha logrado crear diamantes. Es lo que separa a la Piedra Filosofal verdadera de la que tienes en la mano.
