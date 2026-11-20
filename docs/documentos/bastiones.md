@@ -1,16 +1,16 @@
 # Bastiones
 
-Desde **Tier 2** cada personaje puede tener un **Bastión**: una base propia en Aaredale o en sus protectorados. La mesa usa las reglas de Bastiones del **Dungeon Master's Guide 2024**, con los ajustes de esta página.
+Desde **Tier 2** y **nivel 5** cada personaje puede tener un **Bastión**: una base propia en Aaredale o en sus protectorados. La mesa usa las reglas de Bastiones del **Dungeon Master's Guide 2024**, con los ajustes de esta página.
 
 !!! info "Resumen rápido"
-    - Recibes tu Bastión al llegar a **nivel 5**.
+    - Recibes tu Bastión al llegar a **nivel 5 y Tier 2** (con la misión de ascenso completada). Antes no hay Bastión.
     - Cada **turno de Bastión cuesta 7 Días de Descanso**.
     - En cada turno das una orden a cada instalación especial.
     - Llevas tu Bastión en tu hoja de registro; el DM tira los eventos.
 
 ## Cómo consigues tu Bastión
 
-Al llegar a nivel 5, el Puño de los Dioses te cede un lugar para tu Bastión, en agradecimiento por tus servicios al Cuerpo. Decides con el DM qué es: una casa en la ciudad, una torre en la Muralla Exterior, una granja en los campos o un edificio en ruinas que reconstruyes.
+Al llegar a nivel 5 y Tier 2, el Puño de los Dioses te cede un lugar para tu Bastión, en agradecimiento por tus servicios al Cuerpo. Decides con el DM qué es: una casa en la ciudad, una torre en la Muralla Exterior, una granja en los campos o un edificio en ruinas que reconstruyes.
 
 ## Instalaciones
 
@@ -51,7 +51,4 @@ Anota en tu hoja de registro:
 
 ## Lo que reemplaza
 
-El Bastión reemplaza el antiguo sistema de **Financiar Estructuras**. Las casas que ya tengan los personajes pueden convertirse en su Bastión al llegar a nivel 5.
-
-!!! pendiente "Por completar (DM)"
-    Si quieres permitir Bastiones antes de nivel 5 (solo con instalaciones básicas), indícalo aquí.
+El Bastión reemplaza el antiguo sistema de **Financiar Estructuras**. Las casas que ya tengan los personajes pueden convertirse en su Bastión al llegar a nivel 5 y Tier 2. No hay Bastiones antes de eso, ni siquiera con instalaciones básicas.
