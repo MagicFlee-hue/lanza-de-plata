@@ -69,6 +69,9 @@ nav:
       - Crónicas: mundo/cronicas.md
       - Tablón de la Lanza: mundo/tablon.md
       - Licencias de Aaredale: mundo/licencias.md
+  - La Gaceta:
+      - gaceta/index.md
+      - Edición especial: gaceta/edicion-especial.md
   - Manuales:
       - documentos/index.md
       - Manual básico: documentos/manual-basico.md
