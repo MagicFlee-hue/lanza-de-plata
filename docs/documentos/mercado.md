@@ -382,8 +382,6 @@ Conjuros que lanzan los sacerdotes del Bastión de Danerion. El precio es solo e
 | Rubíes y rubíes en polvo para hechizos (1 gp) | 3 po |  |
 | Componentes de Alquimia | 1 po |  |
 | Munición Blackthunderpowder | 20 po | Solo en el Bastión de Danerion |
-| Pasaje a Lurag | 1.000 po |  |
-| Pasaje a Dialta | 25 po |  |
 | Spellbook | 200 po |  |
 | 1 pound Dulces del Festival | 2 po |  |
 | Estandarte de las Fiestas | 5 po |  |
@@ -398,16 +396,3 @@ Conjuros que lanzan los sacerdotes del Bastión de Danerion. El precio es solo e
 | Lantern of Undead Tracking | 1.000 po |  |
 
 Los **diamantes** no se venden en Aaredale: no hay. Si un conjuro los pide, hay que traerlos de expedición.
-
-## Objetos del Enclave Esmeralda (evento 17)
-
-| Objeto | Aaredale | Nota |
-|---|---|---|
-| Potion of Animal Friendship (4) | 200 po |  |
-| Potion of Climbing (4) | 200 po |  |
-| Potion of Gaseous Form (2) | 200 po |  |
-| Potion of Growth (2) | 200 po |  |
-| Potion of Heroism (1) | 100 po |  |
-| Potion of Hill Giant Strength (2) | 200 po |  |
-| Potion of Resistance (2) | 200 po |  |
-| Potion of Water Breathing (4) | 200 po |  |
