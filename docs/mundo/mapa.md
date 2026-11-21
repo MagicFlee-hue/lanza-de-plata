@@ -4,7 +4,7 @@
 
 [Ver el mapa en tamaño completo](../assets/img/mapa.jpg){ target=_blank }
 
-Cada hex mide **25 millas**, cerca de un día de viaje a pie. **Solo puedes explorar las zonas de tu tier.**
+Cada hex mide **25 millas**, cerca de un día de viaje a pie. **Solo puedes explorar las zonas de tu tier.** <span class="dm-consejo" data-tip="Para proponerle un destino al DM, dale la coordenada de 5 dígitos del punto. Por ejemplo, Aaredale está en 81290. Cómo se leen está en el Manual avanzado."></span>
 
 | Zona | Tier | Niveles | Hasta dónde llega |
 |---|---|---|---|

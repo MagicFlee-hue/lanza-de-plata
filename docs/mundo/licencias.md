@@ -4,6 +4,8 @@
 
 Aaredale es una ciudad de paladines. Muchas cosas que en otra ciudad harías sin pensar aquí necesitan licencia.
 
+<div class="lz-buscar" data-placeholder="¿Qué quieres hacer? Busca: veneno, montura, armas…"></div>
+
 !!! info "Disposiciones generales"
     - Cada licencia la emite un regente de [Los 13](los-13.md) y se renueva **cada año**.
     - El titular debe llevar consigo el **sello de cera** de su licencia y mostrarlo cuando la milicia de Vespera lo pida.
