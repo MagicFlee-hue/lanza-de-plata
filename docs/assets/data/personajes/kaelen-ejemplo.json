@@ -1,0 +1,69 @@
+{
+  "ejemplo": true,
+  "jugador": "Ejemplo",
+  "nombre": "Kaelen Ardorbrisa",
+  "imagen": "kaelen-ejemplo.svg",
+  "especie": "Wood Elf",
+  "trasfondo": "Sage",
+  "clases": [
+    { "clase": "Explorador", "subclase": "Hunter", "nivel": 6 }
+  ],
+  "pg_max": 52,
+  "ca": 17,
+  "velocidad": 35,
+  "iniciativa_extra": 0,
+  "caracteristicas": { "FUE": 10, "DES": 18, "CON": 14, "INT": 12, "SAB": 16, "CAR": 8 },
+  "salvaciones": ["FUE", "DES"],
+  "habilidades": { "Percepción": "Pericia", "Sigilo": "Competente", "Supervivencia": "Competente", "Arcanos": "Competente", "Historia": "Competente", "Naturaleza": "Competente" },
+  "armadura": "Studded Leather Armor +1",
+  "idiomas": ["Common", "Elvish", "Sylvan"],
+  "competencias": "Armas sencillas y marciales; armaduras ligeras y medias; escudos; Herbalism Kit.",
+  "dotes": ["Magic Initiate (Druid)", "Sharpshooter"],
+  "rasgos_especie": ["Darkvision", "Fey Ancestry", "Keen Senses", "Trance", "Wood Elf Lineage"],
+  "objetos": [
+    { "nombre": "Studded Leather Armor +1", "sintonizado": false },
+    { "nombre": "Cloak of Elvenkind", "sintonizado": true },
+    { "nombre": "Potion of Healing", "sintonizado": false }
+  ],
+  "bendiciones": [],
+  "bastion": "Todavía no tiene. Puede empezar uno: ya es nivel 5 o más y está en Tier 2.",
+  "oro": "340 po",
+  "ataques": [
+    { "nombre": "Longbow", "car": "DES", "ataque": "+9", "dano": "1d8+4", "tipo": "perforante", "maestria": "Slow", "alcance": "150/600", "notas": "Arquería ya incluida. Sharpshooter: ignoras media y tres cuartos de cobertura." },
+    { "nombre": "Shortsword", "car": "DES", "ataque": "+7", "dano": "1d6+4", "tipo": "perforante", "maestria": "Vex", "alcance": "5 pies", "notas": "" }
+  ],
+  "conjuros": {
+    "car": "SAB",
+    "espacios": [4, 2, 0, 0, 0, 0, 0, 0, 0],
+    "lista": [
+      { "nombre": "Druidcraft", "nivel": 0, "estado": "Truco", "fuente": "Magic Initiate", "notas": "" },
+      { "nombre": "Guidance", "nivel": 0, "estado": "Truco", "fuente": "Magic Initiate", "notas": "Dale +1d4 a la prueba de un aliado." },
+      { "nombre": "Hunter's Mark", "nivel": 1, "estado": "Siempre preparado", "fuente": "Explorador", "notas": "Concentración. +1d6 de daño a la presa marcada." },
+      { "nombre": "Goodberry", "nivel": 1, "estado": "Preparado", "fuente": "Explorador", "notas": "" },
+      { "nombre": "Cure Wounds", "nivel": 1, "estado": "Preparado", "fuente": "Explorador", "notas": "" },
+      { "nombre": "Ensnaring Strike", "nivel": 1, "estado": "Preparado", "fuente": "Explorador", "notas": "Concentración." },
+      { "nombre": "Speak with Animals", "nivel": 1, "estado": "Preparado", "fuente": "Magic Initiate", "notas": "Una vez gratis por descanso largo." },
+      { "nombre": "Pass without Trace", "nivel": 2, "estado": "Siempre preparado", "fuente": "Wood Elf", "notas": "Una vez gratis por descanso largo." },
+      { "nombre": "Spike Growth", "nivel": 2, "estado": "Preparado", "fuente": "Explorador", "notas": "Concentración." }
+    ]
+  },
+  "recursos": [
+    { "nombre": "Favored Enemy", "max": 3, "recupera": "Descanso largo", "notas": "Hunter's Mark sin gastar espacio." },
+    { "nombre": "Pass without Trace (Wood Elf)", "max": 1, "recupera": "Descanso largo", "notas": "" },
+    { "nombre": "Speak with Animals (Magic Initiate)", "max": 1, "recupera": "Descanso largo", "notas": "" },
+    { "nombre": "Potion of Healing", "max": 1, "recupera": "Otro", "notas": "Se gasta al beberla." }
+  ],
+  "descripcion": "Explorador elfo que creció en los bosques al norte del Shaar. Mapea todo lo que ve y desconfía de cualquier luz que no sea la del Faro.",
+  "consejos": [
+    "Abre el combate con Hunter's Mark sobre el enemigo más peligroso. Mientras dure, cuando caiga puedes mover la marca con tu acción adicional sin gastar otro espacio.",
+    "Tu arco tiene la maestría Slow: cada golpe le quita 10 pies de velocidad al objetivo. Úsalo contra quien persigue a tus compañeros de primera línea.",
+    "Hunter's Mark y Spike Growth piden concentración: no puedes tener los dos a la vez. Elige según el combate.",
+    "Fuera de combate eres los ojos del grupo: tienes pericia en Percepción y tu pasiva es muy alta. Ofrécete a ir delante y a cartografiar."
+  ],
+  "recordatorios": [
+    "Cloak of Elvenkind solo funciona con la capucha puesta: díselo al DM antes de esconderte.",
+    "Pass without Trace gratis una vez por descanso largo gracias a tu linaje élfico.",
+    "Anota los mapas que dibujas: en exploraciones cuentan para el informe al Puño."
+  ],
+  "proximo_nivel": "En el nivel 7 el Hunter gana una nueva opción de defensa. Revisa tu manual o pregúntale al DM antes de la sesión en la que subas."
+}

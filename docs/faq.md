@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Preguntas frecuentes
 
 ??? question "¿Puedo jugar una misión de otro tier?"

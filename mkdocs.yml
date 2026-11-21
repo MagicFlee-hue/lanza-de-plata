@@ -23,8 +23,12 @@ theme:
     - navigation.top
     - navigation.indexes
     - navigation.footer
+    - navigation.path
+    - navigation.tracking
     - search.suggest
     - search.highlight
+    - search.share
+    - content.tooltips
     - content.tabs.link
     - toc.follow
 
@@ -33,12 +37,14 @@ extra_css:
 
 extra_javascript:
   - assets/js/lanza.js
+  - assets/js/ficha.js
 
 plugins:
   - search:
       lang: es
 
 markdown_extensions:
+  - abbr
   - admonition
   - attr_list
   - md_in_html
@@ -46,6 +52,9 @@ markdown_extensions:
   - toc:
       permalink: "¶"
   - pymdownx.details
+  - pymdownx.snippets:
+      auto_append:
+        - includes/siglas.md
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -88,5 +97,6 @@ nav:
       - Caballero Sagrado: documentos/caballero-sagrado.md
       - Sabio: documentos/sabio.md
       - Blackthunderpowder: documentos/blackthunderpowder.md
+  - Personajes: personajes/index.md
   - Solicitudes: solicitudes.md
   - Preguntas frecuentes: faq.md

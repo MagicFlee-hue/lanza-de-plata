@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 375" role="img" aria-label="Retrato de ejemplo: un explorador encapuchado con un arco">
+  <defs>
+    <radialGradient id="luz" cx="50%" cy="38%" r="70%">
+      <stop offset="0" stop-color="#4a3a1c"/>
+      <stop offset=".45" stop-color="#231f2e"/>
+      <stop offset="1" stop-color="#151729"/>
+    </radialGradient>
+    <linearGradient id="capa" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2f4a35"/>
+      <stop offset="1" stop-color="#16251b"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="375" fill="url(#luz)"/>
+  <g fill="none" stroke="#f4b942" stroke-opacity=".18">
+    <path d="M40 300 L80 277 L120 300 L120 346 L80 369 L40 346Z"/>
+    <path d="M180 300 L220 277 L260 300 L260 346 L220 369 L180 346Z"/>
+  </g>
+  <path d="M232 52 C 296 140, 296 236, 232 324" fill="none" stroke="#8a6a3c" stroke-width="7" stroke-linecap="round"/>
+  <path d="M232 52 L 232 324" stroke="#ece3cf" stroke-opacity=".55" stroke-width="1.5"/>
+  <path d="M60 375 C 62 290, 92 250, 150 244 C 208 250, 238 290, 240 375Z" fill="url(#capa)"/>
+  <path d="M150 70 C 104 70, 86 108, 88 150 C 90 196, 112 236, 150 248 C 188 236, 210 196, 212 150 C 214 108, 196 70, 150 70Z" fill="#1f3326"/>
+  <path d="M150 110 C 124 110, 112 134, 114 160 C 116 190, 132 214, 150 220 C 168 214, 184 190, 186 160 C 188 134, 176 110, 150 110Z" fill="#0f1120"/>
+  <path d="M128 166 Q 138 160 146 166" stroke="#f4b942" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M154 166 Q 162 160 172 166" stroke="#f4b942" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <path d="M150 248 L 150 300" stroke="#c3cad6" stroke-opacity=".4" stroke-width="2"/>
+  <circle cx="150" cy="262" r="6" fill="#c3cad6" fill-opacity=".7"/>
+</svg>
