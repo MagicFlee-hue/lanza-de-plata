@@ -10,7 +10,7 @@ Los personajes van del nivel 1 al 20, agrupados en cuatro tiers. Cada tier tiene
 | **T4** | 17 – 20 | Desde nivel 17 | <span class="zona t4"></span>Hasta la línea verde |
 
 !!! warning "Subir de nivel no basta"
-    Para pasar de T1 a T2, y de T2 a T3, hay que llegar al nivel **y** completar la misión que abre el siguiente tier. Mientras no la completes, sigues jugando misiones de tu tier actual.
+    Para pasar de T1 a T2, y de T2 a T3, hay que llegar al nivel **y** completar la misión que abre el siguiente tier. Mientras no la completes, sigues jugando misiones de tu tier actual. <span class="dm-consejo" data-tip="Cuando te acerques a nivel 5 u 11, pregúntale al DM qué misión abre el siguiente tier. Tu grupo puede proponerla para el tablón de encargos."></span>
 
 - **T3** es el tier de las misiones épicas.
 - **T4** todavía está por llegar.
