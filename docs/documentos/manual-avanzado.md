@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Manual avanzado
 
 Las reglas completas de La Lanza de Plata para D&D 5.5. Si es tu primera vez, empieza por el [Manual básico](manual-basico.md): aquí está todo lo demás.
@@ -172,7 +177,7 @@ Representan la fama del personaje por sus servicios a Aaredale y al Puño de los
 
 ## 7. Días de Descanso
 
-Además de oro y experiencia, los personajes reciben **Días de Descanso**. Se gastan en las actividades de esta sección. Antes o después de cada sesión puedes gastar hasta **20 días** en actividades, y cada actividad solo una vez por sesión.
+Además de oro y experiencia, los personajes reciben **Días de Descanso**. Se gastan en las actividades de esta sección. Antes o después de cada sesión puedes gastar hasta **20 días** en actividades, y cada actividad solo una vez por sesión. <span class="dm-consejo" data-tip="Decide en qué gastarás tus Días de Descanso antes de llegar a la mesa: así no pierdes tiempo de juego y aprovechas el límite de 20 días."></span>
 
 ### 7.1 Ponerse al corriente
 
@@ -330,7 +335,7 @@ Toda la información de tus personajes vive en la **hoja de registro**. Ahí ano
 
 ## 9. Expediciones
 
-Las expediciones las arma el DM con el **tablón de encargos**:
+Las expediciones las arma el DM con el **tablón de encargos**: <span class="dm-consejo" data-tip="Lean el tablón juntos y elijan pronto: tienen hasta 48 horas antes de la mesa, y un encargo elegido con tiempo deja preparar mejor el viaje."></span>
 
 1. Cada semana el DM publica 2 o 3 encargos por mesa: destino en el mapa, tier, rumor y pago del Puño.
 2. Los jugadores convocados eligen uno al menos 48 horas antes.
@@ -357,7 +362,7 @@ Puedes ver el mapa en [El mapa](../mundo/mapa.md).
 
 ## 11. Campamentos
 
-En viajes largos puede convenir no volver a Aaredale entre sesiones. Para eso existe el **Kit de Acampada**: comida para varios días, herramientas de supervivencia, material de camuflaje y lo necesario para aguantar en la oscuridad. El grupo lo compra al empezar la sesión: cuesta **10 po** y pesa **120 libras**. Con el kit, y avisando al DM, el grupo puede **acampar una vez** durante la sesión.
+En viajes largos puede convenir no volver a Aaredale entre sesiones. Para eso existe el **Kit de Acampada**: comida para varios días, herramientas de supervivencia, material de camuflaje y lo necesario para aguantar en la oscuridad. El grupo lo compra al empezar la sesión: cuesta **10 po** y pesa **120 libras**. Con el kit, y avisando al DM, el grupo puede **acampar una vez** durante la sesión. <span class="dm-consejo" data-tip="El kit pesa 120 libras. Decidan antes de salir quién lo carga, o lleven una montura o un carro."></span>
 
 ### 11.1 Acampar
 
@@ -391,7 +396,7 @@ Una **sesión de exploración** es una partida para descubrir terreno nuevo en l
 
 ### 12.1 Preparación
 
-- Con suficiente anticipación, el grupo le dice al DM qué ruta o zona va a explorar, para que pueda prepararla.
+- Con suficiente anticipación, el grupo le dice al DM qué ruta o zona va a explorar, para que pueda prepararla. <span class="dm-consejo" data-tip="Si nadie del grupo domina Cartographer's Tools, contratar cartógrafo sale caro por la fianza. Vale la pena que alguien la aprenda."></span>
 - Alguien del grupo debe tener competencia con **Cartographer's Tools**. Si nadie la tiene, contratan a un cartógrafo (empleado experto) por 2 po al día.
 - La familia del cartógrafo cobra una fianza de **3 veces el costo total del viaje**, calculado según los días para volver a Aaredale. Si el cartógrafo muere, se pierde toda la fianza; si vuelven con retraso, se pierde un tercio.
 - Si el grupo acampa, el cartógrafo necesita su propio Kit de Acampada y cobra 10 días más.

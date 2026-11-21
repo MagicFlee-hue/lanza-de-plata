@@ -4,7 +4,7 @@ Desde **Tier 2** y **nivel 5** cada personaje puede tener un **Bastión**: una b
 
 !!! info "Resumen rápido"
     - Recibes tu Bastión al llegar a **nivel 5 y Tier 2** (con la misión de ascenso completada). Antes no hay Bastión.
-    - Cada **turno de Bastión cuesta 7 Días de Descanso**.
+    - Cada **turno de Bastión cuesta 7 Días de Descanso**. <span class="dm-consejo" data-tip="Cuando planees tus Días de Descanso de la sesión, separa primero los 7 de tu turno de Bastión."></span>
     - En cada turno das una orden a cada instalación especial.
     - Llevas tu Bastión en tu hoja de registro; el DM tira los eventos.
 

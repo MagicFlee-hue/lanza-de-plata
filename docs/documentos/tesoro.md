@@ -1,11 +1,20 @@
+---
+search:
+  boost: 2
+---
+
 # Tesoro
 
 Con tus **Puntos de Tesoro (PT)** compras tiradas en las tablas de esta página.
 
-1. Elige una tabla de tu tier **o de un tier inferior**.
+1. Elige una tabla de tu tier **o de un tier inferior**. <span class="dm-consejo" data-tip="Antes de tirar, mira cuántos objetos sintonizados llevas: solo puedes tener 3. Un objeto que requiere sintonía puede no servirte si ya estás lleno."></span>
 2. Paga su costo en PT y anótalo.
 3. Tira **1d100** y busca el resultado en la columna d100.
 4. Si sale **↻ Tira…**, haces esas tiradas extra en la tabla que indica, sin pagar más.
+
+¿Buscas un objeto concreto? Escríbelo aquí y te dice en qué tabla sale y con qué tirada.
+
+<div class="lz-buscar" data-placeholder="Busca un objeto: Bag of Holding, Cloak…"></div>
 
 !!! pendiente "Por revisar (DM)"
     Las tablas usan los nombres de los objetos de 2014. Si un objeto tiene versión en el Dungeon Master's Guide 2024, usa la nueva. Las tablas de Tier 4 son nuevas: revisa objetos y costos.

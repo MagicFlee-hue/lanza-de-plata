@@ -1,6 +1,13 @@
+---
+search:
+  boost: 2
+---
+
 # Mercado
 
-Precios de objetos y servicios en Aaredale. Usa el buscador de arriba o `Ctrl + F` para encontrar un objeto.
+Precios de objetos y servicios en Aaredale. Busca un objeto aquí abajo, toca el encabezado de una tabla para ordenarla por precio y pasa el cursor (o toca) un objeto para ver qué hace.
+
+<div class="lz-buscar" data-placeholder="Busca un objeto o servicio (en inglés o español)…"></div>
 
 **po** = piezas de oro · **pp** = piezas de plata · **pc** = piezas de cobre. Se vende a la mitad del precio de Aaredale.
 
@@ -17,7 +24,7 @@ Desde que el Faro se apagó, en Aaredale casi todo cuesta **5 veces** su precio 
 
 ## Servicios en Aaredale
 
-Conjuros que lanzan los sacerdotes del Bastión de Danerion. El precio es solo el del lanzamiento. Si el conjuro pide un componente con costo, lo aportas tú: el templo no lo pone. Aaredale **no tiene diamantes**, así que hay que conseguirlos en expedición.
+Conjuros que lanzan los sacerdotes del Bastión de Danerion. El precio es solo el del lanzamiento. Si el conjuro pide un componente con costo, lo aportas tú: el templo no lo pone. Aaredale **no tiene diamantes**, así que hay que conseguirlos en expedición. <span class="dm-consejo" data-tip="Consigan el diamante de Revivify antes de necesitarlo. Cuando alguien cae, ya no hay tiempo para salir a buscarlo."></span>
 
 | Servicio | Precio | Componente que aportas |
 |---|---|---|

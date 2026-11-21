@@ -1,3 +1,8 @@
+---
+search:
+  boost: 2
+---
+
 # Manual básico
 
 Todo lo que necesitas para crear tu primer personaje y jugar tu primera partida en La Lanza de Plata. La mesa usa las reglas de **D&D 5.5 (Player's Handbook 2024)**.
@@ -63,7 +68,7 @@ Empiezas con:
 
 ## 6. Registro
 
-Registra tu personaje en la **hoja de registro de personajes** antes de jugar. Ahí quedan tu nivel, tu tier, tu oro, tus Puntos de Tesoro y de Renombre y tus Días de Descanso.
+Registra tu personaje en la **hoja de registro de personajes** antes de jugar. Ahí quedan tu nivel, tu tier, tu oro, tus Puntos de Tesoro y de Renombre y tus Días de Descanso. <span class="dm-consejo" data-tip="Anota tus PT, PR, Días de Descanso y oro el mismo día de la sesión. Si dejas pasar varias mesas sin anotar, es muy fácil perder algo."></span>
 
 ## 7. Huecos de personaje
 
@@ -95,7 +100,7 @@ Las expediciones las arma el DM. Cada semana se publica un **tablón de encargos
 
 ## 9. Lectura y escritura
 
-La mayoría de la población es analfabeta, y eso incluye a los aventureros:
+La mayoría de la población es analfabeta, y eso incluye a los aventureros: <span class="dm-consejo" data-tip="Revisa tu Inteligencia antes de elegir idiomas: con 10 o menos tu personaje no sabe leer, y en la mesa eso pesa con cartas, letreros y libros."></span>
 
 - Con **Inteligencia 10 o menos**, tu personaje no sabe leer ni escribir.
 - Con **Inteligencia 8 o 9**, sabe un idioma menos del que le corresponde.
