@@ -71,3 +71,66 @@
     window.addEventListener("scroll", ocultar, { passive: true });
   });
 })();
+
+// Interacción de jugadores: formulario, tablón y comentarios.
+// Los enlaces se configuran en assets/data/interaccion.json. Si un campo está vacío, esa parte no se muestra.
+(function () {
+  var script = document.querySelector("script[src*='assets/js/lanza.js']");
+  if (!script) return;
+  var raiz = script.src.replace(/assets\/js\/lanza\.js.*$/, "");
+
+  function marco(url, titulo, alto) {
+    var f = document.createElement("iframe");
+    f.src = url; f.title = titulo; f.loading = "lazy";
+    f.className = "lz-marco"; f.style.height = alto + "px";
+    return f;
+  }
+
+  function comentarios(appId) {
+    var articulo = document.querySelector("article.md-content__inner");
+    var ruta = location.href.split("#")[0].split("?")[0].replace(raiz, "");
+    if (!articulo || ruta === "" || ruta === "index.html" || ruta.indexOf("404") === 0) return;
+    var caja = document.createElement("section");
+    caja.className = "lz-comentarios";
+    var h = document.createElement("h2"); h.textContent = "Comentarios"; caja.appendChild(h);
+    var p = document.createElement("p");
+    p.textContent = "Pon tu nombre o el de tu personaje. No pongas datos personales. El DM revisa cada comentario antes de publicarlo.";
+    caja.appendChild(p);
+    var hilo = document.createElement("div");
+    hilo.id = "cusdis_thread";
+    hilo.setAttribute("data-host", "https://cusdis.com");
+    hilo.setAttribute("data-app-id", appId);
+    hilo.setAttribute("data-page-id", ruta);
+    hilo.setAttribute("data-page-url", location.href.split("#")[0]);
+    hilo.setAttribute("data-page-title", document.title);
+    hilo.setAttribute("data-theme", "dark");
+    caja.appendChild(hilo);
+    articulo.appendChild(caja);
+    var idioma = document.createElement("script");
+    idioma.src = "https://cusdis.com/js/widget/lang/es.js";
+    idioma.onload = idioma.onerror = function () {
+      var s = document.createElement("script");
+      s.src = "https://cusdis.com/js/cusdis.es.js"; s.async = true;
+      document.body.appendChild(s);
+    };
+    document.body.appendChild(idioma);
+  }
+
+  fetch(raiz + "assets/data/interaccion.json", { cache: "no-cache" })
+    .then(function (r) { return r.json(); })
+    .then(function (C) {
+      document.querySelectorAll(".lz-embed[data-campo]").forEach(function (div) {
+        var url = (C[div.getAttribute("data-campo")] || "").trim();
+        if (!url) return;
+        if (div.getAttribute("data-campo") === "formulario") {
+          if (url.indexOf("embedded=true") < 0) url += (url.indexOf("?") < 0 ? "?" : "&") + "embedded=true";
+          div.replaceChildren(marco(url, "Formulario de solicitudes", 1100));
+        } else {
+          div.replaceChildren(marco(url, "Tablón de solicitudes", 520));
+        }
+      });
+      var appId = (C.cusdis_app_id || "").trim();
+      if (appId) comentarios(appId);
+    })
+    .catch(function () {});
+})();
