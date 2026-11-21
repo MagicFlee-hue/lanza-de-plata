@@ -6,6 +6,7 @@ Las reglas completas están en el [Manual básico](../documentos/manual-basico.m
 2. **Genera tus atributos.** Tu primer personaje tira 4d6 descartando el dado más bajo, 7 veces, y descarta el resultado más bajo. Los siguientes usan compra de puntos (27).
 3. **Toma tu equipo**: el de tu clase, el de tu trasfondo (o 50 po) y los **50 po y el mapa** que te da el Cuerpo de Aventureros.
 4. **Regístralo** con el DM antes de jugar.
+5. **Llena la plantilla de ficha** que te pasa el DM y envíasela. Con ella tu personaje aparece en la [galería de personajes](../personajes/index.md) con su ficha interactiva.
 
 !!! pendiente "Por definir (DM)"
     Dónde y cómo se registran los personajes, las subidas de nivel, las compras y los turnos de Bastión.
