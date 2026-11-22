@@ -58,6 +58,8 @@ Todas las facciones usan los mismos cinco rangos, cada una con su propio nombre.
 | Mentor | 40 | Búho Sabio | Vindicador | Acechador de Invierno | Duque de Guerra | Ardragón |
 | Miembro Ejemplar | 60 | Arpista Mayor | Mano Justa | Señor de lo Salvaje | Corona de León | Señor del Terror |
 
+Cada facción tiene su propio tesoro, con tablas según tu rango. Mira el [Tesoro de las facciones](tesoro-facciones.md).
+
 ## La facción en tu Bastión
 
 Desde Tier 2 cada personaje puede tener un [Bastión](bastiones.md). Si perteneces a una facción, al llegar a rango **Agente** puedes construir la **instalación especial de tu facción** (Heroes of Faerûn, capítulo 6) como una de tus instalaciones especiales.

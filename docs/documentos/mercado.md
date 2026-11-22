@@ -383,15 +383,10 @@ Conjuros que lanzan los sacerdotes del Bastión de Danerion. El precio es solo e
 | Componentes de Alquimia | 1 po |  |
 | Munición Blackthunderpowder | 20 po | Solo en el Bastión de Danerion |
 | Spellbook | 200 po |  |
-| 1 pound Dulces del Festival | 2 po |  |
-| Estandarte de las Fiestas | 5 po |  |
-| Pirotecnia BTP | 5 po |  |
 | Bead of Nourishment | 5 po |  |
-| Disfraz de las Fiestas | 5 po |  |
 | Lesser Orb of Time | 25 po |  |
 | Lesser Horn of Silent Alarm | 25 po |  |
 | Lesser Wand of Smiles | 25 po |  |
-| 1 pound Dulces del Festival Picantes | 50 po |  |
 | Lesser Orb of Direction | 100 po |  |
 | Lantern of Undead Tracking | 1.000 po |  |
 

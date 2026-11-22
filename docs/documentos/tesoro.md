@@ -12,6 +12,8 @@ Con tus **Puntos de Tesoro (PT)** compras tiradas en las tablas de esta página.
 3. Tira **1d100** y busca el resultado en la columna d100.
 4. Si sale **↻ Tira…**, haces esas tiradas extra en la tabla que indica, sin pagar más.
 
+Si perteneces a una facción, también tiene su propio tesoro: mira el [Tesoro de las facciones](tesoro-facciones.md).
+
 ¿Buscas un objeto concreto? Escríbelo aquí y te dice en qué tabla sale y con qué tirada.
 
 <div class="lz-buscar" data-placeholder="Busca un objeto: Bag of Holding, Cloak…"></div>

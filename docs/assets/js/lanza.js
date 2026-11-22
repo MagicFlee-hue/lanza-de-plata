@@ -132,7 +132,7 @@
     return D[t] || D[t.replace(/\s*\*$/, "")] || D[t.replace(/\s*\(\d+\)$/, "")] || null;
   };
   cuandoListo(function () {
-    if (!/\/documentos\/(tesoro|mercado)\//.test(location.pathname)) return;
+    if (!/\/documentos\/(tesoro|tesoro-facciones|mercado)\//.test(location.pathname)) return;
     LZ.objetos().then(function (D) {
       document.querySelectorAll(".md-typeset table td").forEach(function (td) {
         var d = LZ.descripcionObjeto(D, td.textContent);
