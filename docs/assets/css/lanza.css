@@ -382,7 +382,7 @@ button.pj-chip.activo, button.pj-chip:hover { opacity: 1; background: rgba(255,2
 .md-typeset a.pj-tarjeta:hover b { color: var(--faro); }
 .pj-tarjeta[hidden] { display: none !important; }
 .md-typeset .pj-tarjeta__retrato { display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; background: #10121f; }
-.pj-sin-retrato { display: grid; place-items: center; background: radial-gradient(circle at 50% 38%, #3a2f19, #151729 70%); }
+.md-typeset .pj-sin-retrato { display: grid; place-items: center; background: radial-gradient(circle at 50% 38%, #3a2f19, #151729 70%); }
 .pj-sin-retrato span { font-size: 2.6rem; font-weight: 700; color: var(--faro); opacity: .8; }
 .pj-tarjeta__texto { display: block; padding: .8rem .9rem 1rem; }
 .pj-tarjeta__texto b { display: block; font-size: 1.12rem; line-height: 1.25; }
