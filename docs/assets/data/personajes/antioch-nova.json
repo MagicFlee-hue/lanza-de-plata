@@ -250,5 +250,56 @@
     "Stone of Good Luck: +1 a pruebas de característica y salvaciones. La ficha no lo suma solo; agrégalo al tirar.",
     "Tienes 3 objetos sintonizados (Rogue's Mantle, Ventilating Lungs y Stone of Good Luck): es el máximo."
   ],
-  "proximo_nivel": "Ya tienes la misión para subir en el escalafón. En el nivel 8 piensas tomar la dote Skill Expert, y en el nivel 9 ganas Soul Blades, el siguiente rasgo del Soulknife."
+  "proximo_nivel": "Ya tienes la misión para subir en el escalafón. En el nivel 8 piensas tomar la dote Skill Expert, y en el nivel 9 ganas Soul Blades, el siguiente rasgo del Soulknife.",
+  "guia_combate": [
+    {
+      "nombre": "Ataque Furtivo",
+      "resumen": "4d6 extra, una vez por turno",
+      "cuando": "Una vez por turno, al acertar con un arma sutil o a distancia (tus dagas y Psychic Blade cuentan). Necesitas ventaja en el ataque, o un aliado a 5 pies del objetivo y que tú no tengas desventaja.",
+      "tira": "El daño normal del arma + 4d6 del mismo tipo. Ejemplo con Psychic Blade: 1d6+3 + 4d6 psíquico. En crítico tiras todo el doble: 2d6+3 + 8d6.",
+      "ojo": "Crece con tu nivel: a nivel 9 serán 5d6. Si fallas el primer ataque del turno, el segundo (Nick o la segunda hoja) puede llevarse el furtivo."
+    },
+    {
+      "nombre": "Cunning Strike",
+      "resumen": "cambia dados de furtivo por efectos",
+      "cuando": "Al aplicar Ataque Furtivo puedes renunciar a algunos de sus d6 para añadir un efecto.",
+      "tira": "Quitas los dados que cueste el efecto: Poison (1d6, el objetivo salva CON o queda envenenado), Trip (1d6, salva DES o cae derribado), Withdraw (1d6, te alejas la mitad de tu velocidad sin provocar ataques). La CD es 8 + Destreza (3) + competencia (3) = 14.",
+      "ojo": "Trip deja al enemigo derribado: tus aliados a 5 pies le pegan con ventaja. Withdraw es tu salida gratis."
+    },
+    {
+      "nombre": "Psychic Blade",
+      "resumen": "tu mejor arma, siempre a mano",
+      "cuando": "Cuando quieras: aparece en tu mano, no gasta dados psiónicos.",
+      "tira": "1d20+6 para golpear. Daño 1d6+3 psíquico. Si aciertas, tienes ventaja en tu siguiente ataque contra ese enemigo (maestría Vex). Acción adicional: segunda hoja, 1d20+6 y 1d4+3.",
+      "ojo": "Vex te asegura la ventaja para el furtivo del siguiente ataque. A distancia alcanza 60 pies: no necesitas estar en primera línea."
+    },
+    {
+      "nombre": "Dagas con Nick",
+      "resumen": "un ataque extra sin gastar acción adicional",
+      "cuando": "Con dos armas ligeras (dagas) tomas la acción de Atacar.",
+      "tira": "Primer ataque normal (por ejemplo, Dagger +1: 1d20+7, daño 1d4+4). El ataque de la segunda daga va dentro de la misma acción y su daño no suma tu Destreza (solo el dado y lo mágico).",
+      "ojo": "Así tu acción adicional queda libre para Cunning Action (Esconderse, Correr, Destrabarse) o Steady Aim."
+    },
+    {
+      "nombre": "Steady Aim",
+      "resumen": "ventaja si no te mueves",
+      "cuando": "Acción adicional, antes de moverte en tu turno.",
+      "tira": "Tu siguiente ataque del turno va con ventaja (2d20, te quedas con el mayor), lo que habilita el Ataque Furtivo. Tu velocidad queda en 0 ese turno.",
+      "ojo": "Úsalo cuando ataques a distancia desde un buen lugar. No es el Ataque Furtivo: solo te da la ventaja."
+    },
+    {
+      "nombre": "Venenos",
+      "resumen": "Poisoner y tus viales",
+      "cuando": "Con la dote Poisoner aplicas una dosis al arma como acción adicional.",
+      "tira": "Si el golpe acierta, el objetivo hace la salvación de CON del veneno (por ejemplo, Serpent Venom CD 11: 3d6 de veneno, la mitad si salva). Gracias a Poisoner, tu daño de veneno ignora la resistencia.",
+      "ojo": "Marca el vial gastado en Recursos y equipo. Aplicar el veneno usa tu acción adicional: ese turno no hay segunda hoja ni Cunning Action."
+    },
+    {
+      "nombre": "Reliable Talent y Evasion",
+      "resumen": "tus defensas de nivel 7",
+      "cuando": "Reliable Talent: en pruebas con habilidades que dominas. Evasion: en salvaciones de Destreza contra áreas (Fireball, aliento de dragón).",
+      "tira": "Reliable Talent: si el d20 sale 9 o menos, cuenta como 10. Evasion: si salvas no recibes daño; si fallas, recibes la mitad.",
+      "ojo": "Con Pericia en Sigilo (+9) y Reliable Talent, tu Sigilo mínimo es 19 (20 con Stone of Good Luck)."
+    }
+  ]
 }

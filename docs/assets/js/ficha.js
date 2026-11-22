@@ -467,6 +467,30 @@
       return h("div", { class: "pj-bloque" }, h("h3", { text: titulo }), h("ul", { class: "pj-etiquetas" }, items.map(function (t) { return h("li", { text: t }); })));
     }
 
+    /* Guía de combate: cómo tirar cada ataque o rasgo */
+    function guiaCombate(lista) {
+      if (!lista.length) return null;
+      var filas = [["cuando", "Cuándo"], ["tira", "Qué tiras"], ["ojo", "Ojo"]];
+      var base = h("details", { class: "pj-guia__item pj-guia__item--base" },
+        h("summary", null, h("b", { text: "Cómo funciona una tirada" })),
+        h("dl", null,
+          h("dt", { text: "Atacar" }), h("dd", { text: "Tira 1d20 y suma tu bono de Golpe. Si iguala o supera la CA del enemigo, aciertas y tiras el daño." }),
+          h("dt", { text: "Ventaja" }), h("dd", { text: "Tira 2d20 y quédate con el más alto. Desventaja: el más bajo. Si tienes las dos a la vez, se cancelan y tiras uno solo." }),
+          h("dt", { text: "Crítico" }), h("dd", { text: "Un 20 natural siempre acierta: tira el doble de dados de daño (también los extra, como Ataque Furtivo) y suma el modificador una sola vez. Un 1 natural siempre falla." }),
+          h("dt", { text: "Salvaciones" }), h("dd", { text: "Si el conjuro pide salvación, tú no tiras: el enemigo tira 1d20 contra tu CD de conjuros." })));
+      return h("div", { class: "pj-guia" },
+        h("h3", { text: "Cómo sacarle provecho a tus ataques" }),
+        h("p", { class: "pj-leyenda", text: "Consejos del DM: lo que más se olvida en la mesa. Toca cada uno para abrirlo." }),
+        base,
+        lista.map(function (g, i) {
+          return h("details", { class: "pj-guia__item", open: i === 0 },
+            h("summary", null, h("b", { text: g.nombre }), g.resumen ? h("span", { text: g.resumen }) : null),
+            h("dl", null, filas.map(function (f) {
+              return g[f[0]] ? [h("dt", { text: f[1] }), h("dd", { text: g[f[0]] })] : null;
+            })));
+        }));
+    }
+
     /* Combate */
     var condCaja = h("div", { class: "pj-condiciones" });
     function pintarCond() {
@@ -495,6 +519,7 @@
           return h("tr", null, nombre, h("td", { class: "num", text: a.ataque || "—" }),
             h("td", { text: [a.dano, a.tipo].filter(Boolean).join(" ") || "—" }), maes, h("td", { text: a.alcance || "—" }));
         })))) : h("p", { class: "pj-leyenda", text: "Sin ataques anotados." }),
+      guiaCombate(pj.guia_combate || []),
       h("h3", { text: "Tu turno" }),
       h("div", { class: "pj-turno" },
         h("div", null, h("b", { text: "Movimiento" }), h("span", { text: "Hasta " + (pj.velocidad || 30) + " pies, repartido como quieras antes y después de actuar." })),

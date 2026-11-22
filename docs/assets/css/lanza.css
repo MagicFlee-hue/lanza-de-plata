@@ -575,3 +575,20 @@ button.pj-chip.activo, button.pj-chip:hover { opacity: 1; background: rgba(255,2
 .pj-aviso.visible { opacity: 1; transform: translate(-50%, 0); }
 .md-typeset p.pj-pie { margin-top: 2.5rem; font-size: .82rem; color: var(--ceniza); }
 .md-typeset :is(h1, h2, h3, h4) abbr { text-decoration: none; }
+
+/* Guía de combate */
+.pj-guia { margin: 1.4rem 0 .6rem; }
+.md-typeset details.pj-guia__item { margin: .45rem 0; padding: 0; font-size: inherit; background: var(--tinta); border: 0; border-left: 3px solid var(--faro); border-radius: 0; box-shadow: none; }
+.md-typeset details.pj-guia__item--base { border-left-color: var(--ceniza); }
+.md-typeset .pj-guia__item > summary { display: flex; flex-wrap: wrap; align-items: baseline; gap: .2rem .8rem; margin: 0; padding: .6rem .9rem .6rem 2.1rem; background: none; border: 0; font-weight: 400; cursor: pointer; list-style: none; position: relative; }
+.md-typeset .pj-guia__item > summary::-webkit-details-marker { display: none; }
+.md-typeset .pj-guia__item > summary::after { display: none; }
+.md-typeset .pj-guia__item > summary::before { content: "\25B8"; position: absolute; left: .9rem; top: .55rem; width: auto; height: auto; background: none; -webkit-mask-image: none; mask-image: none; color: var(--faro); transition: transform .15s; }
+.md-typeset .pj-guia__item[open] > summary::before { transform: rotate(90deg); }
+.md-typeset .pj-guia__item > summary b { color: var(--pergamino); }
+.md-typeset .pj-guia__item > summary span { font-size: .85rem; color: var(--ceniza); }
+.md-typeset .pj-guia__item dl { display: grid; grid-template-columns: 7rem 1fr; gap: .35rem 1rem; margin: 0; padding: 0 .9rem .8rem 2.1rem; font-size: .9rem; }
+.md-typeset .pj-guia__item dt { color: var(--faro); font-weight: 700; }
+.md-typeset .pj-guia__item dd { margin: 0; color: #d9d0bc; }
+@media (max-width: 36em) { .md-typeset .pj-guia__item dl { grid-template-columns: 1fr; padding-left: .9rem; gap: .1rem; } .md-typeset .pj-guia__item dd { margin-bottom: .45rem; } }
+@media (prefers-reduced-motion: reduce) { .md-typeset .pj-guia__item > summary::before { transition: none; } }

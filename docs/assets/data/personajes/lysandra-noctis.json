@@ -75,11 +75,11 @@
       "nombre": "Vicious Weapon",
       "car": "INT",
       "ataque": "+9",
-      "dano": "1d8 (+2d6 con 20 natural)",
+      "dano": "1d8+5 (+2d6 con 20 natural)",
       "tipo": "cortante",
       "maestria": "—",
       "alcance": "5 pies",
-      "notas": "Versátil."
+      "notas": "Versátil. Usas Inteligencia (Battle Ready)."
     }
   ],
   "conjuros": {
@@ -269,6 +269,12 @@
       "max": 1,
       "recupera": "Descanso largo",
       "notas": "Lanzas tu conjuro de nivel 1 de la dote sin gastar espacio."
+    },
+    {
+      "nombre": "Arcane Jolt",
+      "max": 5,
+      "recupera": "Descanso largo",
+      "notas": "Una vez por turno, cuando tú o Rey aciertan: +2d6 de fuerza al objetivo, o curas 2d6 a una criatura a 30 pies."
     }
   ],
   "descripcion": "Lysandra Noctis es una humana artífice, Herrera de Batalla: brillante, curiosa y segura de sí misma. Junto a Rey, su Defensor de Acero, combina ingenio arcano con una personalidad coqueta y un humor afilado.",
@@ -284,5 +290,42 @@
     "Pruebas de característica: Guidance (+1d4) y tu Diadema se pueden combinar.",
     "Tus PG máximos (105) están por encima del promedio de tu nivel con Tough (93). Si los tiraste, todo bien; si no, revísalos con el DM."
   ],
-  "proximo_nivel": "Sigue como Artífice. Pregúntale al DM qué gana tu Herrera de Batalla en el nivel 10 antes de subir."
+  "proximo_nivel": "Sigue como Artífice. Pregúntale al DM qué gana tu Herrera de Batalla en el nivel 10 antes de subir.",
+  "guia_combate": [
+    {
+      "nombre": "Extra Attack",
+      "resumen": "atacas dos veces",
+      "cuando": "Siempre que tomes la acción de Atacar.",
+      "tira": "Dos ataques con Vicious Weapon: cada uno 1d20+9, daño 1d8+5 cortante. Con un 20 natural, el arma suma 2d6 y el crítico duplica los dados: 2d8+2d6+5.",
+      "ojo": "Si lanzas un conjuro con tu acción, ese turno no atacas dos veces."
+    },
+    {
+      "nombre": "Arcane Jolt",
+      "resumen": "+2d6 o curar 2d6, 5 veces por día",
+      "cuando": "Una vez por turno, cuando aciertas con tu arma mágica o Rey acierta con su ataque.",
+      "tira": "Eliges: 2d6 de fuerza extra al objetivo, o curar 2d6 a una criatura que veas a 30 pies.",
+      "ojo": "Tienes 5 usos (tu Inteligencia) por descanso largo. Es de los rasgos que más se olvidan: márcalo en Recursos y equipo."
+    },
+    {
+      "nombre": "Rey, tu Steel Defender",
+      "resumen": "actúa en tu turno si le das la orden",
+      "cuando": "Usa tu acción adicional para ordenarle; si no le ordenas nada, solo esquiva.",
+      "tira": "Force-Empowered Rend: 1d20+9 para golpear, daño 1d8+4 de fuerza. Con su reacción puede proteger a un aliado a 5 pies: el atacante tira con desventaja.",
+      "ojo": "Rey tiene sus propios PG; si cae, lo reparas con Mending o lo recreas en un descanso largo."
+    },
+    {
+      "nombre": "Shining Smite",
+      "resumen": "2d6 radiante y ventaja para todos",
+      "cuando": "Acción adicional justo después de acertar un ataque con arma. Requiere concentración.",
+      "tira": "+2d6 radiante (más con espacios altos). El objetivo brilla: todos los ataques contra él van con ventaja y no puede volverse invisible.",
+      "ojo": "Esa ventaja ayuda a todo el grupo (el pícaro gana su furtivo). Compite con la orden a Rey por tu acción adicional y con Haste por tu concentración."
+    },
+    {
+      "nombre": "Shield",
+      "resumen": "+5 a la CA en reacción",
+      "cuando": "Cuando te van a golpear, antes de que el DM diga el daño.",
+      "tira": "No tiras nada: tu CA sube de 19 a 24 hasta el inicio de tu siguiente turno, también contra Magic Missile.",
+      "ojo": "Solo tienes una reacción por ronda: si la usas en Shield, no hay ataque de oportunidad."
+    }
+  ]
 }

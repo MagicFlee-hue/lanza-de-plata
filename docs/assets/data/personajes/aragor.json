@@ -302,5 +302,49 @@
     "Memorize Spell: tras un descanso corto puedes cambiar un conjuro preparado por otro de tu libro.",
     "Antes de cada expedición, revisa los componentes con costo: calavera dorada de 300 po para Summon Undead y 10 po de materiales para Find Familiar."
   ],
-  "proximo_nivel": "Seguir como mago, más enfocado en invocaciones que en daño alto. En el nivel 6 ganas Grave Power y Undead Thralls (Animate Dead siempre preparado, gratis una vez por descanso largo, y no muertos con más PG): justo lo que buscas."
+  "proximo_nivel": "Seguir como mago, más enfocado en invocaciones que en daño alto. En el nivel 6 ganas Grave Power y Undead Thralls (Animate Dead siempre preparado, gratis una vez por descanso largo, y no muertos con más PG): justo lo que buscas.",
+  "guia_combate": [
+    {
+      "nombre": "Tus trucos crecieron",
+      "resumen": "a nivel 5 hacen el doble",
+      "cuando": "Cada turno que no quieras gastar espacios.",
+      "tira": "Fire Bolt: 1d20+7 para golpear, 2d10 de fuego a 120 pies. Toll the Dead: el enemigo salva SAB contra CD 15; si falla, 2d8 necrótico, o 2d12 si ya le faltan PG. Chill Touch: 1d20+7 cuerpo a cuerpo, 2d10 necrótico y no puede curarse hasta tu siguiente turno.",
+      "ojo": "Contra un enemigo herido, Toll the Dead (2d12) pega más que Fire Bolt."
+    },
+    {
+      "nombre": "Magic Missile",
+      "resumen": "daño seguro, sin tirada",
+      "cuando": "Cuando necesitas rematar a alguien o romperle la concentración a un enemigo.",
+      "tira": "No tiras para golpear: 3 dardos que aciertan siempre, cada uno 1d4+1 de fuerza. Cada nivel extra de espacio suma un dardo.",
+      "ojo": "Cada dardo obliga a una salvación de concentración aparte: ideal contra lanzadores enemigos."
+    },
+    {
+      "nombre": "Fireball",
+      "resumen": "8d6 en área",
+      "cuando": "Cuando haya 3 o más enemigos juntos y ningún aliado en el radio de 20 pies.",
+      "tira": "Tú tiras 8d6 de fuego una sola vez. Cada enemigo salva DES contra tu CD 15: si falla recibe todo, si salva, la mitad.",
+      "ojo": "Si un aliado tiene Evasion (como un pícaro) aguanta mejor, pero mejor no meterlo."
+    },
+    {
+      "nombre": "Vampiric Touch",
+      "resumen": "daño y curación cada turno",
+      "cuando": "Cuando estés cuerpo a cuerpo y necesites curarte. Requiere concentración.",
+      "tira": "1d20+7 cuerpo a cuerpo, 3d6 necrótico; te curas la mitad del daño. Mientras dure, puedes repetir el ataque cada turno con tu acción.",
+      "ojo": "Es nigromancia lanzada con espacio: con Undead Vitality también curas a uno de tus no muertos (nivel del espacio + 5)."
+    },
+    {
+      "nombre": "Tu familiar no muerto",
+      "resumen": "ataca en tu lugar",
+      "cuando": "Con Undead Familiar, al tomar la acción de Atacar puedes ceder tu ataque para que tu familiar ataque con su reacción.",
+      "tira": "Usa el ataque de su forma: Skeleton (espada corta +5, 1d6+3) o Zombie (golpe +3, 1d8+1). Revisa su bloque con el DM.",
+      "ojo": "Es útil cuando no quieres gastar un espacio. Tu familiar no puede atacar por su cuenta sin este rasgo."
+    },
+    {
+      "nombre": "Tus no muertos (Animate Dead)",
+      "resumen": "una orden para todos",
+      "cuando": "Con tu acción adicional das una orden a todos los que tengas a 60 pies.",
+      "tira": "Cada esqueleto o zombi ataca con su propio bloque (como arriba). El control dura 24 horas: vuelve a lanzar el conjuro antes para mantenerlos.",
+      "ojo": "Animate Dead no pide concentración: puedes tener tus no muertos y además Summon Undead o Vampiric Touch."
+    }
+  ]
 }
