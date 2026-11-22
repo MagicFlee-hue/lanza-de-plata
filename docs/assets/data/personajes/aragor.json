@@ -1,0 +1,305 @@
+{
+  "jugador": "Daniel",
+  "nombre": "Aragor",
+  "imagen": "aragor.webp",
+  "especie": "Human",
+  "trasfondo": "Sage",
+  "clases": [
+    {
+      "clase": "Mago",
+      "subclase": "Nigromante",
+      "nivel": 5
+    }
+  ],
+  "pg_max": 42,
+  "ca": 11,
+  "velocidad": 30,
+  "iniciativa_extra": 0,
+  "caracteristicas": {
+    "FUE": 8,
+    "DES": 13,
+    "CON": 15,
+    "INT": 18,
+    "SAB": 12,
+    "CAR": 10
+  },
+  "salvaciones": [
+    "INT",
+    "SAB"
+  ],
+  "habilidades": {
+    "Arcanos": "Pericia",
+    "Historia": "Competente",
+    "Investigación": "Competente",
+    "Medicina": "Competente",
+    "Percepción": "Competente"
+  },
+  "armadura": "Ninguna (con Mage Armor: CA 14)",
+  "idiomas": [
+    "Common",
+    "Draconic",
+    "Infernal"
+  ],
+  "competencias": "Armas sencillas; sin armaduras; Calligrapher's Supplies.",
+  "dotes": [
+    "Magic Initiate (Wizard)",
+    "War Caster",
+    "Tough"
+  ],
+  "rasgos_especie": [
+    "Resourceful",
+    "Skillful",
+    "Versatile"
+  ],
+  "objetos": [],
+  "bendiciones": [],
+  "bastion": "Ninguno todavía",
+  "oro": "350 po",
+  "ataques": [
+    {
+      "nombre": "Dagger",
+      "car": "DES",
+      "ataque": "+4",
+      "dano": "1d4+1",
+      "tipo": "Piercing",
+      "maestria": "",
+      "alcance": "5 pies (arrojadiza 20/60)",
+      "notas": "Finesse, Light, Thrown"
+    },
+    {
+      "nombre": "Quarterstaff",
+      "car": "FUE",
+      "ataque": "+2",
+      "dano": "1d6-1",
+      "tipo": "Bludgeoning",
+      "maestria": "",
+      "alcance": "5 pies",
+      "notas": "Versatile (1d8-1); también es mi foco arcano"
+    }
+  ],
+  "conjuros": {
+    "car": "INT",
+    "espacios": [
+      4,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lista": [
+      {
+        "nombre": "Fire Bolt",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Magic Initiate (Wizard)",
+        "notas": ""
+      },
+      {
+        "nombre": "Chill Touch",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Magic Initiate (Wizard)",
+        "notas": ""
+      },
+      {
+        "nombre": "Mage Hand",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Minor Illusion",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Toll the Dead",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Light",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Detect Magic",
+        "nivel": 1,
+        "estado": "Siempre preparado",
+        "fuente": "Magic Initiate (Wizard)",
+        "notas": "Una vez gratis por descanso largo; con espacio, normal"
+      },
+      {
+        "nombre": "Mage Armor",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "CA 14 sin armadura"
+      },
+      {
+        "nombre": "Magic Missile",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Shield",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "Reacción"
+      },
+      {
+        "nombre": "Comprehend Languages",
+        "nivel": 1,
+        "estado": "Ritual (en el libro)",
+        "fuente": "Mago",
+        "notas": "Ritual"
+      },
+      {
+        "nombre": "Tasha's Hideous Laughter",
+        "nivel": 1,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Find Familiar",
+        "nivel": 1,
+        "estado": "Ritual (en el libro)",
+        "fuente": "Necromancer",
+        "notas": "Ritual. Consume 10 po de materiales. Forma de Skeleton o Zombie (Necromancy Spellbook)."
+      },
+      {
+        "nombre": "Misty Step",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "Acción adicional"
+      },
+      {
+        "nombre": "Blindness/Deafness",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Necromancer",
+        "notas": "Necromancy Savant"
+      },
+      {
+        "nombre": "Gentle Repose",
+        "nivel": 2,
+        "estado": "Ritual (en el libro)",
+        "fuente": "Necromancer",
+        "notas": "Necromancy Savant; ritual"
+      },
+      {
+        "nombre": "Counterspell",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "Reacción"
+      },
+      {
+        "nombre": "Fireball",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Vampiric Touch",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Necromancer",
+        "notas": "Conjuro de nigromancia gratis en el libro"
+      },
+      {
+        "nombre": "Dispel Magic",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Animate Dead",
+        "nivel": 3,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": "No es ritual: gasta un espacio de nivel 3. No requiere concentración."
+      },
+      {
+        "nombre": "Summon Undead",
+        "nivel": 3,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": "Concentración. Componente: una calavera dorada de 300 po."
+      },
+      {
+        "nombre": "Speak with Dead",
+        "nivel": 3,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Fear",
+        "nivel": 3,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": ""
+      }
+    ]
+  },
+  "recursos": [
+    {
+      "nombre": "Arcane Recovery",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "En descanso corto recupero espacios hasta 3 niveles combinados (ninguno de nivel 6+)"
+    },
+    {
+      "nombre": "Heroic Inspiration (Human: Resourceful)",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Inspiración heroica gratis tras cada descanso largo"
+    },
+    {
+      "nombre": "Detect Magic sin gastar espacio (Magic Initiate)",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Una vez gratis al día"
+    },
+    {
+      "nombre": "Memorize Spell",
+      "max": 1,
+      "recupera": "Descanso corto",
+      "notas": "Tras un descanso corto cambio 1 conjuro preparado por otro del libro"
+    }
+  ],
+  "descripcion": "Aragor fue uno de los estudiantes más brillantes de la academia arcana, hasta que lo expulsaron por una falsa acusación de magia prohibida. Hoy estudia nigromancia. Le arrebataron a Gibsy, su mejor amigo perruno, y busca venganza y la forma de traerlo de vuelta.",
+  "consejos": [
+    "Arcane Recovery: una vez por día, al terminar un descanso corto, recuperas espacios de conjuro que sumen hasta 3 niveles (por ejemplo, uno de nivel 3, o uno de nivel 2 y uno de nivel 1). Guárdalo para después de haber gastado un Fireball o un Counterspell.",
+    "Rituales: los que tengas en el libro (Comprehend Languages, Find Familiar, Gentle Repose) los lanzas sin prepararlos y sin gastar espacio; solo tardan 10 minutos más. Fuera de combate, úsalos siempre en vez de gastar espacios.",
+    "Para tus invocaciones: Animate Dead no pide concentración, así que puedes tener tus esqueletos y además Summon Undead o Blindness/Deafness. Revisa los componentes antes de salir: Summon Undead necesita una calavera dorada de 300 po y Find Familiar consume 10 po de materiales.",
+    "Tu CA es 11. Lanza Mage Armor al empezar el día (dura 8 horas y sube a 14) y guarda un espacio de nivel 1 para Shield, que la sube a 19 por un turno.",
+    "War Caster te da ventaja en las salvaciones para mantener la concentración. Aun así, quédate detrás de la primera línea: con tu familiar o tus no muertos delante, los enemigos tardan más en llegar a ti."
+  ],
+  "recordatorios": [
+    "Mage Armor cada mañana: CA 14 por 8 horas.",
+    "Arcane Recovery: una vez al día, en un descanso corto, hasta 3 niveles de espacios.",
+    "Memorize Spell: tras un descanso corto puedes cambiar un conjuro preparado por otro de tu libro.",
+    "Antes de cada expedición, revisa los componentes con costo de tus conjuros."
+  ],
+  "proximo_nivel": "Seguir como mago, más enfocado en invocaciones que en daño alto. Pregúntale al DM qué gana tu escuela de Nigromancia en el nivel 6 antes de subir."
+}
