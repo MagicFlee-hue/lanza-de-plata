@@ -11,7 +11,7 @@
       "nivel": 7
     }
   ],
-  "pg_max": 30,
+  "pg_max": 45,
   "ca": 16,
   "velocidad": 30,
   "iniciativa_extra": 3,
@@ -29,13 +29,13 @@
   ],
   "habilidades": {
     "Acrobacias": "Competente",
-    "Engaño": "Competente",
+    "Engaño": "Pericia",
     "Investigación": "Competente",
-    "Juego de Manos": "Competente",
-    "Percepción": "Competente",
+    "Juego de Manos": "Pericia",
+    "Percepción": "Pericia",
     "Perspicacia": "Competente",
     "Persuasión": "Competente",
-    "Sigilo": "Competente"
+    "Sigilo": "Pericia"
   },
   "armadura": "Glamoured Studded Leather Armor",
   "idiomas": [
@@ -44,7 +44,7 @@
     "Infernal",
     "Dwarven"
   ],
-  "competencias": "Armas sencillas y marciales; armaduras ligeras; herramientas de ladrón, de herrero y de envenenador; Herbalism Kit.",
+  "competencias": "Armas sencillas y marciales; armaduras ligeras; herramientas de ladrón, de herrero, de envenenador y de cartógrafo; Herbalism Kit.",
   "dotes": [
     "Poisoner"
   ],
@@ -65,6 +65,22 @@
     {
       "nombre": "Rogue's Mantle",
       "sintonizado": true
+    },
+    {
+      "nombre": "Ventilating Lungs",
+      "sintonizado": true
+    },
+    {
+      "nombre": "Stone of Good Luck",
+      "sintonizado": true
+    },
+    {
+      "nombre": "Dagger +1",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Hooded Lantern (5 frascos de aceite)",
+      "sintonizado": false
     }
   ],
   "bendiciones": [],
@@ -75,7 +91,7 @@
       "nombre": "Daga Arrojadiza",
       "car": "DES",
       "ataque": "+6",
-      "dano": "1d4+2",
+      "dano": "1d4+3",
       "tipo": "perforante",
       "maestria": "Nick",
       "alcance": "20/60 pies",
@@ -85,7 +101,7 @@
       "nombre": "Daga Arrojadiza Pulida",
       "car": "DES",
       "ataque": "+6",
-      "dano": "2d4+2",
+      "dano": "2d4+3",
       "tipo": "perforante",
       "maestria": "Nick",
       "alcance": "20/60 pies",
@@ -95,7 +111,7 @@
       "nombre": "Daga",
       "car": "DES",
       "ataque": "+6",
-      "dano": "2d6+2",
+      "dano": "2d6+3",
       "tipo": "perforante",
       "maestria": "Nick",
       "alcance": "20/60 pies",
@@ -105,17 +121,27 @@
       "nombre": "Daga Venenosa",
       "car": "DES",
       "ataque": "+6",
-      "dano": "2d4+2",
+      "dano": "2d4+3",
       "tipo": "perforante",
       "maestria": "Nick",
       "alcance": "20/60 pies",
       "notas": "Debo inyectarle el veneno y sumalre daño del veneno usado. cantidad 4"
     },
     {
+      "nombre": "Dagger +1",
+      "car": "DES",
+      "ataque": "+7",
+      "dano": "1d4+4",
+      "tipo": "perforante",
+      "maestria": "Nick",
+      "alcance": "20/60 pies",
+      "notas": "Arma mágica +1."
+    },
+    {
       "nombre": "Psychic Blade",
       "car": "DES",
       "ataque": "+6",
-      "dano": "1d6",
+      "dano": "1d6+3",
       "tipo": "psíquico",
       "maestria": "Vex",
       "alcance": "60/120 pies",
@@ -190,6 +216,24 @@
       "max": 1,
       "recupera": "Descanso largo",
       "notas": ""
+    },
+    {
+      "nombre": "Serpent Venom",
+      "max": 6,
+      "recupera": "Otro (se gasta)",
+      "notas": "Salvación de CON CD 11: 3d6 de veneno, la mitad si salva."
+    },
+    {
+      "nombre": "Assassin's Blood",
+      "max": 4,
+      "recupera": "Otro (se gasta)",
+      "notas": "Salvación de CON CD 10: 1d12 de veneno y envenenado 24 horas; la mitad si salva."
+    },
+    {
+      "nombre": "Truth Serum",
+      "max": 1,
+      "recupera": "Otro (se gasta)",
+      "notas": "Salvación de CON CD 11 o queda envenenado 1 hora y no puede mentir."
     }
   ],
   "descripcion": "Tiefling de Glasya expulsado de Cocytus. Creció en una aldea de exiliados y desplazados, muchos de ellos pícaros, y allí aprendió a robar. Envía dinero a una familia de enanos de esa aldea… aunque en realidad lava dinero con ellos.",
@@ -198,12 +242,13 @@
     "Steady Aim (Puntería firme) no es Ataque Furtivo: es una acción adicional que te da ventaja si no te has movido. Es una forma de conseguir el furtivo, pero te deja quieto ese turno.",
     "Tus Dados de Energía Psiónica no alimentan Psychic Blade: tus hojas psíquicas son gratis y las usas siempre que quieras. Los dados se gastan en Psi-Bolstered Knack (si fallas una prueba con una habilidad que dominas, tiras un dado y lo sumas; solo se gasta si la prueba sale bien) y en Psychic Whispers. En el nivel 9, Soul Blades te deja gastarlos también para ayudar a tus ataques con las hojas.",
     "La maestría Nick: el ataque extra con la segunda arma ligera va dentro de tu acción de Atacar. Así tu acción adicional queda libre para Cunning Action o Steady Aim.",
-    "Como pícaro tienes Pericia (doble competencia) en varias habilidades desde nivel 1 y nivel 6. Tu ficha no marca ninguna: revisa cuáles elegiste y avísale al DM."
+    "Tienes Pericia en Engaño, Juego de Manos, Percepción y Sigilo, y Stone of Good Luck te suma +1 a toda prueba. Con Psi-Bolstered Knack de respaldo, en esas habilidades casi nunca vas a fallar: ofrécete para explorar, mentir y robar."
   ],
   "recordatorios": [
     "Nick + ventaja de tu especie para ocultarte o entrar en sigilo.",
     "No confundas Ataque Furtivo con Steady Aim.",
-    "Revisa el daño de tus dagas: con Destreza 16 sumas +3, y en la ficha dice +2. Tus PG máximos (30) también parecen bajos para un pícaro de nivel 7."
+    "Stone of Good Luck: +1 a pruebas de característica y salvaciones. La ficha no lo suma solo; agrégalo al tirar.",
+    "Tienes 3 objetos sintonizados (Rogue's Mantle, Ventilating Lungs y Stone of Good Luck): es el máximo."
   ],
   "proximo_nivel": "Ya tienes la misión para subir en el escalafón. En el nivel 8 piensas tomar la dote Skill Expert, y en el nivel 9 ganas Soul Blades, el siguiente rasgo del Soulknife."
 }
