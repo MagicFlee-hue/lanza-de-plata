@@ -236,7 +236,7 @@
         "nivel": 3,
         "estado": "En el libro",
         "fuente": "Mago",
-        "notas": "No es ritual: gasta un espacio de nivel 3. No requiere concentración."
+        "notas": "No es ritual: gasta un espacio de nivel 3. No requiere concentración. En nivel 6 (Undead Thralls) lo tendrás siempre preparado y gratis una vez por descanso largo."
       },
       {
         "nombre": "Summon Undead",
@@ -291,15 +291,16 @@
   "consejos": [
     "Arcane Recovery: una vez por día, al terminar un descanso corto, recuperas espacios de conjuro que sumen hasta 3 niveles (por ejemplo, uno de nivel 3, o uno de nivel 2 y uno de nivel 1). Guárdalo para después de haber gastado un Fireball o un Counterspell.",
     "Rituales: los que tengas en el libro (Comprehend Languages, Find Familiar, Gentle Repose) los lanzas sin prepararlos y sin gastar espacio; solo tardan 10 minutos más. Fuera de combate, úsalos siempre en vez de gastar espacios.",
-    "Para tus invocaciones: Animate Dead no pide concentración, así que puedes tener tus esqueletos y además Summon Undead o Blindness/Deafness. Revisa los componentes antes de salir: Summon Undead necesita una calavera dorada de 300 po y Find Familiar consume 10 po de materiales.",
+    "Para tus invocaciones: Animate Dead no pide concentración, así que puedes tener tus no muertos y además Summon Undead o Blindness/Deafness. Con Undead Vitality, cada conjuro de nigromancia que lances con espacio cura a uno de tus no muertos (nivel del espacio + 5). Y con Undead Familiar, al tomar la acción de Atacar puedes ceder tu ataque para que ataque tu familiar.",
     "Tu CA es 11. Lanza Mage Armor al empezar el día (dura 8 horas y sube a 14) y guarda un espacio de nivel 1 para Shield, que la sube a 19 por un turno.",
     "War Caster te da ventaja en las salvaciones para mantener la concentración. Aun así, quédate detrás de la primera línea: con tu familiar o tus no muertos delante, los enemigos tardan más en llegar a ti."
   ],
   "recordatorios": [
+    "Necromancy Spellbook: tienes resistencia al daño necrótico.",
     "Mage Armor cada mañana: CA 14 por 8 horas.",
     "Arcane Recovery: una vez al día, en un descanso corto, hasta 3 niveles de espacios.",
     "Memorize Spell: tras un descanso corto puedes cambiar un conjuro preparado por otro de tu libro.",
-    "Antes de cada expedición, revisa los componentes con costo de tus conjuros."
+    "Antes de cada expedición, revisa los componentes con costo: calavera dorada de 300 po para Summon Undead y 10 po de materiales para Find Familiar."
   ],
-  "proximo_nivel": "Seguir como mago, más enfocado en invocaciones que en daño alto. Pregúntale al DM qué gana tu escuela de Nigromancia en el nivel 6 antes de subir."
+  "proximo_nivel": "Seguir como mago, más enfocado en invocaciones que en daño alto. En el nivel 6 ganas Grave Power y Undead Thralls (Animate Dead siempre preparado, gratis una vez por descanso largo, y no muertos con más PG): justo lo que buscas."
 }
