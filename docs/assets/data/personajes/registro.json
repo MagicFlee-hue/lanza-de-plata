@@ -1,0 +1,223 @@
+[
+  {
+    "id": "thalu",
+    "nombre": "Thalu",
+    "jugador": "Alex",
+    "especie": "Yuan-ti",
+    "clases": [
+      {
+        "clase": "Clérigo",
+        "subclase": "Dominio de la Picardía",
+        "nivel": 10
+      }
+    ],
+    "estado": "Activo"
+  },
+  {
+    "id": "gunter",
+    "nombre": "Gunter",
+    "jugador": "Juan",
+    "especie": "Gnomo",
+    "clases": [
+      {
+        "clase": "Guerrero",
+        "subclase": "Guerrero Rúnico",
+        "nivel": null
+      },
+      {
+        "clase": "Clérigo",
+        "subclase": "Dominio de la Forja",
+        "nivel": null
+      }
+    ],
+    "estado": "Activo",
+    "nivel_total": 10
+  },
+  {
+    "id": "lion-decruff",
+    "nombre": "Lion Decruff",
+    "jugador": "Juan Pablo",
+    "especie": "Tiefling",
+    "clases": [
+      {
+        "clase": "Pícaro",
+        "subclase": "",
+        "nivel": 6
+      }
+    ],
+    "estado": "Activo"
+  },
+  {
+    "id": "dirf",
+    "nombre": "Dirf The lindong",
+    "jugador": "Juanpablito",
+    "especie": "Warforged",
+    "clases": [
+      {
+        "clase": "Guerrero",
+        "subclase": "Champion",
+        "nivel": 9
+      }
+    ],
+    "estado": "Activo"
+  },
+  {
+    "id": "killian",
+    "nombre": "Killian",
+    "jugador": "Laura",
+    "especie": "Alto elfo solar",
+    "clases": [
+      {
+        "clase": "Bardo",
+        "subclase": "Colegio del Saber",
+        "nivel": 8
+      }
+    ],
+    "estado": "Activo"
+  },
+  {
+    "id": "hamtaro",
+    "nombre": "Hamtaro",
+    "jugador": "Mateo",
+    "especie": "Space Hamster",
+    "clases": [
+      {
+        "clase": "Mago",
+        "subclase": "Nigromante",
+        "nivel": 9
+      }
+    ],
+    "estado": "Activo"
+  },
+  {
+    "id": "boyach-karov",
+    "nombre": "Boyach Karov",
+    "jugador": "Oscar",
+    "especie": "Aasimar (linaje personalizado)",
+    "clases": [
+      {
+        "clase": "Paladín",
+        "subclase": "Rompejuramentos",
+        "nivel": 8
+      }
+    ],
+    "estado": "Activo"
+  },
+  {
+    "id": "ember",
+    "nombre": "Ember",
+    "jugador": "Ricardo",
+    "especie": "Dracthyr",
+    "clases": [
+      {
+        "clase": "Hechicero",
+        "subclase": "Linaje Dracónido (fuego)",
+        "nivel": 10
+      }
+    ],
+    "estado": "En pausa"
+  },
+  {
+    "id": "kiling",
+    "nombre": "Kiling",
+    "jugador": "Sebastián",
+    "especie": "Genasi de agua",
+    "clases": [
+      {
+        "clase": "Clérigo",
+        "subclase": "Dominio de la Vida",
+        "nivel": 8
+      }
+    ],
+    "estado": "En pausa"
+  },
+  {
+    "id": "daeronn-darkfire",
+    "nombre": "Daeronn Darkfire",
+    "jugador": "Sergio",
+    "especie": "Tiefling",
+    "clases": [
+      {
+        "clase": "Clérigo",
+        "subclase": "Dominio de la Forja",
+        "nivel": 10
+      }
+    ],
+    "estado": "Activo"
+  },
+  {
+    "id": "khorvac",
+    "nombre": "Khorvac",
+    "jugador": "Sergio",
+    "especie": "Goliath",
+    "clases": [
+      {
+        "clase": "Guerrero",
+        "subclase": "Echo Knight",
+        "nivel": 9
+      }
+    ],
+    "estado": "Activo"
+  },
+  {
+    "id": "sethis",
+    "nombre": "Sethis",
+    "jugador": "Alexander",
+    "especie": "Yuan-ti",
+    "clases": [
+      {
+        "clase": "Mago",
+        "subclase": "Abjurador",
+        "nivel": 4
+      },
+      {
+        "clase": "Artífice",
+        "subclase": "",
+        "nivel": 1
+      }
+    ],
+    "estado": "Activo"
+  },
+  {
+    "id": "therek",
+    "nombre": "Therek",
+    "jugador": "Nicolás",
+    "especie": "Shadar-kai",
+    "clases": [
+      {
+        "clase": "Brujo",
+        "subclase": "Hexblade",
+        "nivel": 3
+      }
+    ],
+    "estado": "Activo"
+  },
+  {
+    "id": "draven-corvus",
+    "nombre": "Draven Corvus",
+    "jugador": "Sergio",
+    "especie": "Shadar-kai",
+    "clases": [
+      {
+        "clase": "Pícaro",
+        "subclase": "Scion of the Three",
+        "nivel": 5
+      }
+    ],
+    "estado": "Activo"
+  },
+  {
+    "id": "leona",
+    "nombre": "Leona",
+    "jugador": "Jhon",
+    "especie": "Humano",
+    "clases": [
+      {
+        "clase": "Cuadrilátero",
+        "subclase": "",
+        "nivel": 5
+      }
+    ],
+    "estado": "Activo"
+  }
+]

@@ -97,10 +97,10 @@
   }
   function lineaClases(pj) {
     return (pj.clases || []).map(function (c) {
-      return c.clase + " " + c.nivel + (c.subclase ? " (" + c.subclase + ")" : "");
+      return c.clase + (c.nivel ? " " + c.nivel : "") + (c.subclase ? " (" + c.subclase + ")" : "");
     }).join(" / ");
   }
-  function nivelTotal(pj) { return (pj.clases || []).reduce(function (s, c) { return s + (+c.nivel || 0); }, 0); }
+  function nivelTotal(pj) { return pj.nivel_total || (pj.clases || []).reduce(function (s, c) { return s + (+c.nivel || 0); }, 0); }
 
   function cargarJSON(url) {
     return fetch(url, { cache: "no-cache" }).then(function (r) {
@@ -117,11 +117,15 @@
     cargarJSON(DATOS + "lista.json").then(function (ids) {
       return Promise.all(ids.map(function (id) {
         return cargarJSON(DATOS + id + ".json").then(function (pj) { pj.id = id; return pj; }).catch(function () { return null; });
-      }));
-    }).then(function (pjs) {
-      pjs = pjs.filter(Boolean).sort(function (a, b) {
-        return (a.ejemplo ? 1 : 0) - (b.ejemplo ? 1 : 0) || a.nombre.localeCompare(b.nombre, "es");
-      });
+      }).concat([cargarJSON(DATOS + "registro.json").catch(function () { return []; })]));
+    }).then(function (todo) {
+      var registro = todo.pop() || [];
+      var pjs = todo.filter(Boolean);
+      var conFicha = {};
+      pjs.forEach(function (pj) { conFicha[pj.id] = 1; });
+      registro.forEach(function (pj) { if (!conFicha[pj.id]) { pj.pendiente = true; pjs.push(pj); } });
+      function orden(pj) { return (pj.ejemplo ? 3 : 0) + (pj.estado === "En pausa" ? 2 : 0) + (pj.pendiente ? 1 : 0); }
+      pjs.sort(function (a, b) { return orden(a) - orden(b) || a.nombre.localeCompare(b.nombre, "es"); });
       var filtroTier = 0;
       var buscar = h("input", { type: "search", placeholder: "Busca por nombre, clase o jugador…", "aria-label": "Buscar personaje" });
       var botones = [0, 1, 2, 3, 4].map(function (t) {
@@ -138,14 +142,15 @@
 
       var tarjetas = pjs.map(function (pj) {
         var n = nivelTotal(pj), t = tierDe(n);
-        var a = h("a", { class: "pj-tarjeta t" + t, href: RAIZ + "personajes/ficha/?pj=" + encodeURIComponent(pj.id) },
+        var a = h(pj.pendiente ? "div" : "a", { class: "pj-tarjeta t" + t + (pj.pendiente ? " pj-tarjeta--pendiente" : ""), href: pj.pendiente ? null : RAIZ + "personajes/ficha/?pj=" + encodeURIComponent(pj.id) },
           retrato(pj, "pj-tarjeta__retrato"),
           h("span", { class: "pj-tarjeta__texto" },
             h("b", { text: pj.nombre }),
             h("span", { text: lineaClases(pj) }),
             h("small", { text: [pj.especie, pj.jugador ? "Jugador: " + pj.jugador : ""].filter(Boolean).join(" · ") })),
           h("span", { class: "pj-tarjeta__tier", text: "T" + t + " · Nv " + n }),
-          pj.ejemplo ? h("span", { class: "pj-tarjeta__ejemplo", text: "Ejemplo" }) : null);
+          pj.ejemplo ? h("span", { class: "pj-tarjeta__ejemplo", text: "Ejemplo" }) : null,
+          pj.pendiente || pj.estado === "En pausa" ? h("span", { class: "pj-tarjeta__ejemplo", text: [pj.estado === "En pausa" ? "En pausa" : "", pj.pendiente ? "Ficha pendiente" : ""].filter(Boolean).join(" · ") }) : null);
         a._clave = (window.LZ ? LZ.normalizar : function (x) { return x.toLowerCase(); })([pj.nombre, lineaClases(pj), pj.especie, pj.jugador].join(" "));
         a._tier = t;
         rejilla.appendChild(a);
