@@ -17,17 +17,19 @@
   "iniciativa_extra": 0,
   "caracteristicas": {
     "FUE": 10,
-    "DES": 10,
-    "CON": 10,
-    "INT": 10,
-    "SAB": 10,
-    "CAR": 10
+    "DES": 13,
+    "CON": 16,
+    "INT": 20,
+    "SAB": 12,
+    "CAR": 8
   },
   "salvaciones": [
     "CON",
     "INT"
   ],
   "habilidades": {
+    "Arcanos": "Competente",
+    "Historia": "Competente",
     "Percepción": "Competente",
     "Perspicacia": "Competente"
   },
@@ -269,7 +271,7 @@
       "notas": "Lanzas tu conjuro de nivel 1 de la dote sin gastar espacio."
     }
   ],
-  "descripcion": "Humana artífice, Herrera de Batalla: brillante, curiosa y segura de sí misma. Junto a Rey, su Defensor de Acero, combina ingenio arcano con una personalidad coqueta y un humor afilado.",
+  "descripcion": "Lysandra Noctis es una humana artífice, Herrera de Batalla: brillante, curiosa y segura de sí misma. Junto a Rey, su Defensor de Acero, combina ingenio arcano con una personalidad coqueta y un humor afilado.",
   "consejos": [
     "Tu papel más fuerte es ser el muro que deja brillar al grupo: con CA 19, Shield como reacción (+5 a la CA) y Rey a tu lado, eres muy difícil de tocar. Ponte en primera línea.",
     "No olvides a Rey: dale una orden cada turno con tu acción adicional. Si no le ordenas nada, solo esquiva.",
@@ -278,9 +280,9 @@
     "Fuera de combate, ofrece Guidance antes de cada prueba importante del grupo: cuesta solo una acción."
   ],
   "recordatorios": [
-    "Tu ficha tiene todas las características en 10 y la CA, los PG y el ataque no cuadran con eso: pásale tus puntuaciones reales al DM para que la ficha calcule bien.",
     "Mind Sharpener protege tu concentración: úsala para no perder Haste o Aura of Vitality.",
-    "Pruebas de característica: Guidance (+1d4) y tu Diadema se pueden combinar."
+    "Pruebas de característica: Guidance (+1d4) y tu Diadema se pueden combinar.",
+    "Tus PG máximos (105) están por encima del promedio de tu nivel con Tough (93). Si los tiraste, todo bien; si no, revísalos con el DM."
   ],
   "proximo_nivel": "Sigue como Artífice. Pregúntale al DM qué gana tu Herrera de Batalla en el nivel 10 antes de subir."
 }
