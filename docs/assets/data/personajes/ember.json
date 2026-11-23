@@ -1,7 +1,7 @@
 {
   "jugador": "Ricardo",
   "nombre": "Ember Aine",
-  "imagen": "",
+  "imagen": "ember.webp",
   "especie": "Dracthyr",
   "trasfondo": "Inquisitive",
   "clases": [
@@ -491,7 +491,7 @@
       "notas": "Al terminar un descanso corto recuperas hasta 5 puntos de hechicería gastados."
     }
   ],
-  "descripcion": "La hija de Asgorath, la Reina Roja. Ember es una dragona de naturaleza curiosa, orgullosa y apasionada por la magia: colecciona reliquias, busca conocimiento nuevo y explora los límites de su propio poder. Confía mucho en sus capacidades, pero siempre encuentra algo nuevo que aprender.",
+  "descripcion": "La hija de Asgorath, la Reina Roja. Ember es una dragona de naturaleza curiosa, orgullosa y apasionada por la magia: colecciona reliquias, busca conocimiento nuevo y explora los límites de su propio poder. Confía mucho en sus capacidades, pero siempre encuentra algo nuevo que aprender. Retrato: Runarta, arte del propio jugador.",
   "consejos": [
     "Tu mejor arma no es el daño, es el control: Hypnotic Pattern, Hold Monster y Wall of Force pueden decidir un combate entero. Ábrelo con control y remata después.",
     "Innate Sorcery al inicio del combate: con una acción adicional tienes ventaja en tus ataques de conjuro y +1 a tu CD durante un minuto. Con Sorcery Incarnate, además, puedes aplicar dos Metamagias a cada conjuro.",
