@@ -420,6 +420,16 @@ Notas para mantener la coherencia de la economía y del mundo.
 
 En Aaredale no hay diamantes: no se venden ni se fabrican. Ningún conjuro, rasgo u objeto (Wish, Fabricate, Creation, True Polymorph, la Piedra Filosofal del Sabio…) puede crearlos. Si un conjuro los pide como componente, hay que conseguirlos en expedición.
 
+### Volver de la muerte
+
+Quien vuelve a la vida con **Revivify** regresa con **5 niveles de Agotamiento**:
+
+- **−10 a todas sus tiradas de d20** (ataques, pruebas y salvaciones) y **−7,5 m de velocidad**.
+- Cada descanso largo quita **1 nivel**, así que necesita cinco descansos largos para recuperarse del todo.
+- Los niveles se acumulan, y con **6 niveles de Agotamiento se muere**. Si vuelve a caer y alguien lo revive cuando todavía le queda aunque sea un nivel, no sobrevive al regreso.
+
+Volver no es gratis. Morir en combate sigue siendo morir, aunque haya un clérigo cerca.
+
 ### Piezas de platino
 
 1 pieza de platino equivale a 100 piezas de oro
