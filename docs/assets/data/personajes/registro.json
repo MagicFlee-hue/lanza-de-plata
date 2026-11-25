@@ -143,7 +143,8 @@
         "nivel": 10
       }
     ],
-    "estado": "Activo"
+    "estado": "Activo",
+    "imagen": "daeronn-darkfire.webp"
   },
   {
     "id": "khorvac",
