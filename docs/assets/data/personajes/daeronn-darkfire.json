@@ -1,0 +1,630 @@
+{
+  "jugador": "Sergio",
+  "nombre": "Daeronn Darkfire",
+  "imagen": "daeronn-darkfire.webp",
+  "especie": "Tiefling (legado infernal)",
+  "trasfondo": "Artesano (Artisan)",
+  "clases": [
+    {
+      "clase": "Clérigo",
+      "subclase": "Dominio de la Forja",
+      "nivel": 10
+    }
+  ],
+  "pg_max": 109,
+  "ca": 28,
+  "velocidad": 30,
+  "iniciativa_extra": 0,
+  "caracteristicas": {
+    "FUE": 23,
+    "DES": 13,
+    "CON": 16,
+    "INT": 14,
+    "SAB": 22,
+    "CAR": 16
+  },
+  "salvaciones": [
+    "SAB",
+    "CAR"
+  ],
+  "habilidades": {
+    "Arcanos": "Competente",
+    "Investigación": "Competente",
+    "Percepción": "Competente",
+    "Perspicacia": "Competente",
+    "Persuasión": "Competente",
+    "Religión": "Competente"
+  },
+  "armadura": "Magnis Mithral Plates (placas +2) y escudo +2",
+  "idiomas": [
+    "Común",
+    "Infernal",
+    "Dracónico",
+    "Enano"
+  ],
+  "competencias": "Armas sencillas y marciales; armaduras ligeras, medias y pesadas; escudos. Herramientas: herborista, calígrafo, carpintero, joyero, herrero, hojalatero, tallista, envenenador, alquimista y peletero.",
+  "dotes": [
+    "Fabricate (ver con el DM)",
+    "Infernal Constitution",
+    "War Caster"
+  ],
+  "rasgos_especie": [
+    "Visión en la oscuridad",
+    "Legado infernal (Fire Bolt, Hellish Rebuke y Darkness)",
+    "Presencia sobrenatural (Thaumaturgy)",
+    "Resistencia al fuego"
+  ],
+  "objetos": [
+    {
+      "nombre": "Magnis Mithral Plates (objeto de campaña)",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Magnis War Hammer (objeto de campaña)",
+      "sintonizado": false
+    },
+    {
+      "nombre": "The Devotee's Sacred Sword (personalizado)",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Stone Giant Strength Gauntlets (objeto de campaña)",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Ring of Invisibility",
+      "sintonizado": true
+    },
+    {
+      "nombre": "Ring of Resistance (necrótico)",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Helm of Comprehending Languages",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Heward's Handy Haversack",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Horn of Valhalla",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Unbreakable Boots (personalizado)",
+      "sintonizado": false
+    }
+  ],
+  "bendiciones": [],
+  "bastion": "Ninguno todavía",
+  "oro": "332.293 po",
+  "ataques": [
+    {
+      "nombre": "The Devotee's Sacred Sword (espada larga)",
+      "car": "FUE",
+      "ataque": "+10",
+      "dano": "1d8+6 + 2d8 + 2d6 (según el objeto)",
+      "tipo": "Radiante",
+      "maestria": "Sap",
+      "alcance": "1,5 m",
+      "notas": "Versátil: 1d10 a dos manos. Blessed Strikes: +1d8 radiante una vez por turno."
+    },
+    {
+      "nombre": "Magnis War Hammer",
+      "car": "FUE",
+      "ataque": "+10",
+      "dano": "1d8+6",
+      "tipo": "Contundente",
+      "maestria": "Push",
+      "alcance": "1,5 m",
+      "notas": "Versátil: 1d10+6 a dos manos. Blessed Strikes: +1d8 radiante una vez por turno."
+    },
+    {
+      "nombre": "Toll the Dead",
+      "car": "SAB",
+      "ataque": "CD 18 (SAB)",
+      "dano": "2d8, o 2d12 si el objetivo está herido",
+      "tipo": "Necrótico",
+      "maestria": "",
+      "alcance": "18 m",
+      "notas": "Truco."
+    },
+    {
+      "nombre": "Sacred Flame",
+      "car": "SAB",
+      "ataque": "CD 18 (DES)",
+      "dano": "2d8",
+      "tipo": "Radiante",
+      "maestria": "",
+      "alcance": "18 m",
+      "notas": "Truco. Ignora cobertura."
+    },
+    {
+      "nombre": "Fire Bolt",
+      "car": "SAB",
+      "ataque": "+10",
+      "dano": "2d10",
+      "tipo": "Fuego",
+      "maestria": "",
+      "alcance": "36 m",
+      "notas": "Truco del legado infernal."
+    }
+  ],
+  "conjuros": {
+    "car": "SAB",
+    "espacios": [
+      4,
+      3,
+      3,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lista": [
+      {
+        "nombre": "Guidance",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Light",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Sacred Flame",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Toll the Dead",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Spare the Dying",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Thaumaturgy",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Legado infernal",
+        "notas": ""
+      },
+      {
+        "nombre": "Fire Bolt",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Legado infernal",
+        "notas": ""
+      },
+      {
+        "nombre": "Identify",
+        "nivel": 1,
+        "estado": "Siempre preparado",
+        "fuente": "Dominio de la Forja",
+        "notas": ""
+      },
+      {
+        "nombre": "Searing Smite",
+        "nivel": 1,
+        "estado": "Siempre preparado",
+        "fuente": "Dominio de la Forja",
+        "notas": ""
+      },
+      {
+        "nombre": "Heat Metal",
+        "nivel": 2,
+        "estado": "Siempre preparado",
+        "fuente": "Dominio de la Forja",
+        "notas": ""
+      },
+      {
+        "nombre": "Magic Weapon",
+        "nivel": 2,
+        "estado": "Siempre preparado",
+        "fuente": "Dominio de la Forja",
+        "notas": ""
+      },
+      {
+        "nombre": "Elemental Weapon",
+        "nivel": 3,
+        "estado": "Siempre preparado",
+        "fuente": "Dominio de la Forja",
+        "notas": ""
+      },
+      {
+        "nombre": "Protection From Energy",
+        "nivel": 3,
+        "estado": "Siempre preparado",
+        "fuente": "Dominio de la Forja",
+        "notas": ""
+      },
+      {
+        "nombre": "Wall of Fire",
+        "nivel": 4,
+        "estado": "Siempre preparado",
+        "fuente": "Dominio de la Forja",
+        "notas": ""
+      },
+      {
+        "nombre": "Backlash",
+        "nivel": 4,
+        "estado": "Siempre preparado",
+        "fuente": "Dominio de la Forja",
+        "notas": "Reemplaza a Fabricate en los conjuros del dominio."
+      },
+      {
+        "nombre": "Animate Objects",
+        "nivel": 5,
+        "estado": "Siempre preparado",
+        "fuente": "Dominio de la Forja",
+        "notas": ""
+      },
+      {
+        "nombre": "Creation",
+        "nivel": 5,
+        "estado": "Siempre preparado",
+        "fuente": "Dominio de la Forja",
+        "notas": ""
+      },
+      {
+        "nombre": "Ceremony",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Clerigo Guia de Xanathar",
+        "notas": "Ritual: lo puedes lanzar como ritual aunque no lo tengas preparado."
+      },
+      {
+        "nombre": "Bless",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Detect Magic",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Clérigo",
+        "notas": "Ritual: lo puedes lanzar como ritual aunque no lo tengas preparado."
+      },
+      {
+        "nombre": "Detect Poison and Disease",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Clérigo",
+        "notas": "Ritual: lo puedes lanzar como ritual aunque no lo tengas preparado."
+      },
+      {
+        "nombre": "Protection From Evil and Good",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Purify Food and Drink",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Clérigo",
+        "notas": "Ritual: lo puedes lanzar como ritual aunque no lo tengas preparado."
+      },
+      {
+        "nombre": "Sanctuary",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Augury",
+        "nivel": 2,
+        "estado": "Ritual / no preparado",
+        "fuente": "Clérigo",
+        "notas": "Ritual: lo puedes lanzar como ritual aunque no lo tengas preparado."
+      },
+      {
+        "nombre": "Dryan's Helpful Homunculi",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Gentle Repose",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Prayer of Healing",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Spiritual Weapon",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Spirit Shroud",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Clerigo Caldero de Tasha",
+        "notas": ""
+      },
+      {
+        "nombre": "Astral Flood",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Dispel Magic",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Feign Death",
+        "nivel": 3,
+        "estado": "Ritual / no preparado",
+        "fuente": "Clérigo",
+        "notas": "Ritual: lo puedes lanzar como ritual aunque no lo tengas preparado."
+      },
+      {
+        "nombre": "Meld Into Stone",
+        "nivel": 3,
+        "estado": "Ritual / no preparado",
+        "fuente": "Clérigo",
+        "notas": "Ritual: lo puedes lanzar como ritual aunque no lo tengas preparado."
+      },
+      {
+        "nombre": "Revivify",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Water Walk",
+        "nivel": 3,
+        "estado": "Ritual / no preparado",
+        "fuente": "Clérigo",
+        "notas": "Ritual: lo puedes lanzar como ritual aunque no lo tengas preparado."
+      },
+      {
+        "nombre": "Divination",
+        "nivel": 4,
+        "estado": "Ritual / no preparado",
+        "fuente": "Clérigo",
+        "notas": "Ritual: lo puedes lanzar como ritual aunque no lo tengas preparado."
+      },
+      {
+        "nombre": "Commune",
+        "nivel": 5,
+        "estado": "Ritual / no preparado",
+        "fuente": "Clérigo",
+        "notas": "Ritual: lo puedes lanzar como ritual aunque no lo tengas preparado."
+      },
+      {
+        "nombre": "Grave Ground",
+        "nivel": 5,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Hallow",
+        "nivel": 5,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Legend Lore",
+        "nivel": 5,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Dawn",
+        "nivel": 5,
+        "estado": "Preparado",
+        "fuente": "Clerigo Guia de Xanathar",
+        "notas": ""
+      },
+      {
+        "nombre": "Spirit Lantern",
+        "nivel": 5,
+        "estado": "Preparado",
+        "fuente": "Clérigo",
+        "notas": ""
+      },
+      {
+        "nombre": "Support of the Soul Forger",
+        "nivel": 3,
+        "estado": "Siempre preparado",
+        "fuente": "Personalizado (Daeronn)",
+        "notas": ""
+      },
+      {
+        "nombre": "Shield of the Celestial Forge",
+        "nivel": 3,
+        "estado": "Siempre preparado",
+        "fuente": "Personalizado (Daeronn)",
+        "notas": ""
+      },
+      {
+        "nombre": "Veil of the Divine Hammer",
+        "nivel": 3,
+        "estado": "Siempre preparado",
+        "fuente": "Personalizado (Daeronn)",
+        "notas": ""
+      },
+      {
+        "nombre": "Moradin's Trial",
+        "nivel": 3,
+        "estado": "Siempre preparado",
+        "fuente": "Personalizado (Daeronn)",
+        "notas": ""
+      },
+      {
+        "nombre": "Pact of the Adamantine Soul",
+        "nivel": 3,
+        "estado": "Siempre preparado",
+        "fuente": "Personalizado (Daeronn)",
+        "notas": ""
+      },
+      {
+        "nombre": "Legion of Guardians",
+        "nivel": 3,
+        "estado": "Siempre preparado",
+        "fuente": "Personalizado (Daeronn)",
+        "notas": ""
+      },
+      {
+        "nombre": "Breath of the Divine Forge",
+        "nivel": 6,
+        "estado": "Ritual / no preparado",
+        "fuente": "Personalizado (Daeronn)",
+        "notas": "Nivel 6: todavía no tienes espacios de este nivel."
+      },
+      {
+        "nombre": "Divine Elemental Armor",
+        "nivel": 6,
+        "estado": "Ritual / no preparado",
+        "fuente": "Personalizado (Daeronn)",
+        "notas": "Nivel 6: todavía no tienes espacios de este nivel."
+      }
+    ]
+  },
+  "recursos": [
+    {
+      "nombre": "Canalizar Divinidad",
+      "max": 3,
+      "recupera": "Descanso corto (1) / largo (todos)",
+      "notas": "Opciones: Divine Spark, Turn Undead y Artisan's Blessing."
+    },
+    {
+      "nombre": "Divine Intervention",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Acción de Magia: lanzas cualquier conjuro de clérigo de nivel 5 o menor sin gastar espacio."
+    },
+    {
+      "nombre": "Blessing of the Forge",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Al terminar un descanso largo: +1 a la CA de una armadura o +1 a ataque y daño de un arma, hasta el siguiente descanso largo."
+    },
+    {
+      "nombre": "Hellish Rebuke (legado infernal)",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Sin gastar espacio."
+    },
+    {
+      "nombre": "Darkness (legado infernal)",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Sin gastar espacio."
+    },
+    {
+      "nombre": "Horn of Valhalla",
+      "max": 1,
+      "recupera": "Otro (7 días)",
+      "notas": "Invoca guerreros berserker que luchan a tu lado. Después hay que esperar 7 días."
+    }
+  ],
+  "descripcion": "Clérigo tiefling del Dominio de la Forja y artesano del Cuerpo de Aventureros, al que en Aaredale llaman «Portador de la Llama». Su meta: convertirse en el mayor maestro artesano del continente y usar su oficio para sostener a todos los expedicionarios.",
+  "consejos": [
+    "Tu propósito de apoyar a todos ya está en tu kit: Divine Spark cura a distancia, Prayer of Healing y Revivify sostienen a la party, y tu oficio puede equipar a los demás.",
+    "Elige una sola concentración por combate: Spirit Shroud si vas a pegar de cerca, Spiritual Weapon si necesitas daño a distancia.",
+    "Fuera del combate eres el mejor recurso del grupo: Artisan's Blessing, Identify y Legend Lore resuelven problemas que la espada no resuelve."
+  ],
+  "recordatorios": [
+    "Tienes 3 usos de Canalizar Divinidad y recuperas 1 en cada descanso corto. Si llegas al final de la sesión con usos sin gastar, los perdiste.",
+    "CD de tus conjuros: 18. Ataque de conjuro: +10.",
+    "War Caster: ventaja en las salvaciones de concentración, y puedes lanzar un conjuro (como Toll the Dead) en lugar de un ataque de oportunidad.",
+    "Antes de cada combate, repasa la mochila: pergaminos, el Horn of Valhalla y el Ring of Invisibility también ganan peleas.",
+    "No tienes Ataque Extra: tu daño viene de un golpe fuerte con Blessed Strikes más un conjuro con tu acción adicional."
+  ],
+  "proximo_nivel": "Convertirse en el mayor maestro artesano del continente, descubrir nuevas formas de crear objetos y llevar la senda de la artesanía más lejos, siempre para apoyar a todos.",
+  "guia_combate": [
+    {
+      "nombre": "Golpe con Blessed Strikes",
+      "resumen": "tu ataque con arma, con daño radiante extra",
+      "cuando": "Cada turno que estés cuerpo a cuerpo.",
+      "tira": "1d20+10 para golpear. Con el martillo, 1d8+6 contundente; con la espada, lo que indique el objeto. Si aciertas, una vez por turno sumas 1d8 radiante de Blessed Strikes.",
+      "ojo": "El clérigo no tiene Ataque Extra: es un solo golpe por turno, así que tu acción adicional tiene que aportar el resto."
+    },
+    {
+      "nombre": "Spirit Shroud",
+      "resumen": "más daño en cada golpe y enemigos frenados",
+      "cuando": "Al empezar el combate, con tu acción adicional, si vas a pelear de cerca.",
+      "tira": "Durante 1 minuto, tus ataques contra criaturas a 3 m suman 1d8 radiante. Las que empiezan su turno cerca pierden 3 m de velocidad y no pueden recuperar PG.",
+      "ojo": "Requiere concentración. Con War Caster tienes ventaja para mantenerla."
+    },
+    {
+      "nombre": "Spiritual Weapon",
+      "resumen": "un arma espectral que pega por ti",
+      "cuando": "Cuando el enemigo está lejos o prefieres no gastar la concentración en Spirit Shroud.",
+      "tira": "Acción adicional: ataque de conjuro 1d20+10, 1d8+6 de fuerza. En los turnos siguientes la mueves y atacas con tu acción adicional.",
+      "ojo": "En las reglas 2024 también requiere concentración: no la combines con Spirit Shroud."
+    },
+    {
+      "nombre": "Divine Spark",
+      "resumen": "curar o dañar a distancia con Canalizar Divinidad",
+      "cuando": "Cuando un aliado está bajo o quieres rematar sin acercarte.",
+      "tira": "Curar: 2d8+6 PG a una criatura a 9 m. Dañar: el objetivo tira salvación de Constitución contra CD 18 y recibe 2d8+6 radiante o necrótico (la mitad si la supera).",
+      "ojo": "Gasta un uso de Canalizar Divinidad (tienes 3) y tu acción de Magia."
+    },
+    {
+      "nombre": "Hellish Rebuke y War Caster",
+      "resumen": "tus reacciones",
+      "cuando": "Cuando alguien a 18 m te hace daño, o cuando un enemigo sale de tu alcance.",
+      "tira": "Hellish Rebuke: salvación de Destreza CD 18, 2d10 de fuego (la mitad si la supera); una vez gratis por descanso largo. Con War Caster puedes lanzar Toll the Dead como ataque de oportunidad.",
+      "ojo": "Solo tienes una reacción por ronda."
+    },
+    {
+      "nombre": "Divine Intervention",
+      "resumen": "un conjuro gratis cuando todo se complica",
+      "cuando": "Una vez por descanso largo, en el momento crítico.",
+      "tira": "Acción de Magia: lanzas cualquier conjuro de clérigo de nivel 5 o menor sin gastar espacio. Por ejemplo Mass Cure Wounds o Flame Strike.",
+      "ojo": "Pregunta al DM cómo aplica la regla de los diamantes de Aaredale a Revivify o Raise Dead."
+    },
+    {
+      "nombre": "Horn of Valhalla",
+      "resumen": "refuerzos para una pelea difícil",
+      "cuando": "En un combate grande o contra muchos enemigos.",
+      "tira": "Tocas el cuerno con tu acción y aparecen guerreros berserker que luchan a tu lado.",
+      "ojo": "Después tienes que esperar 7 días para volver a usarlo."
+    }
+  ]
+}
