@@ -207,8 +207,9 @@
     var pasiva = 10 + bonoHab("Percepción", "SAB");
     var conj = pj.conjuros || {};
     var tieneConjuros = !!(conj.car || (conj.lista && conj.lista.length));
-    var cdConj = conj.car ? 8 + prof + M[conj.car] : null;
-    var atqConj = conj.car ? prof + M[conj.car] : null;
+    var bonoConj = Number(conj.bono) || 0; // objetos como un símbolo sagrado +2
+    var cdConj = conj.car ? 8 + prof + M[conj.car] + bonoConj : null;
+    var atqConj = conj.car ? prof + M[conj.car] + bonoConj : null;
     var espacios = (conj.espacios || []).map(function (x) { return +x || 0; });
     var pacto = conj.pacto && typeof conj.pacto === "object" ? conj.pacto : null;
     var dadosGolpe = (pj.clases || []).map(function (c) { return { caras: DADOS[c.clase] || 8, total: +c.nivel || 0, clase: c.clase }; });

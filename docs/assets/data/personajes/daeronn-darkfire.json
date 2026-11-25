@@ -72,6 +72,10 @@
       "sintonizado": false
     },
     {
+      "nombre": "Símbolo sagrado +2 (CD y ataque de conjuro)",
+      "sintonizado": false
+    },
+    {
       "nombre": "Ring of Invisibility",
       "sintonizado": true
     },
@@ -123,7 +127,7 @@
     {
       "nombre": "Toll the Dead",
       "car": "SAB",
-      "ataque": "CD 18 (SAB)",
+      "ataque": "CD 20 (SAB)",
       "dano": "2d8, o 2d12 si el objetivo está herido",
       "tipo": "Necrótico",
       "maestria": "",
@@ -133,7 +137,7 @@
     {
       "nombre": "Sacred Flame",
       "car": "SAB",
-      "ataque": "CD 18 (DES)",
+      "ataque": "CD 20 (DES)",
       "dano": "2d8",
       "tipo": "Radiante",
       "maestria": "",
@@ -143,7 +147,7 @@
     {
       "nombre": "Fire Bolt",
       "car": "SAB",
-      "ataque": "+10",
+      "ataque": "+12",
       "dano": "2d10",
       "tipo": "Fuego",
       "maestria": "",
@@ -522,7 +526,8 @@
         "fuente": "Personalizado (Daeronn)",
         "notas": "Nivel 6: todavía no tienes espacios de este nivel."
       }
-    ]
+    ],
+    "bono": 2
   },
   "recursos": [
     {
@@ -570,7 +575,7 @@
   ],
   "recordatorios": [
     "Tienes 3 usos de Canalizar Divinidad y recuperas 1 en cada descanso corto. Si llegas al final de la sesión con usos sin gastar, los perdiste.",
-    "CD de tus conjuros: 18. Ataque de conjuro: +10.",
+    "CD de tus conjuros: 20. Ataque de conjuro: +12 (ya incluye el +2 del símbolo sagrado).",
     "War Caster: ventaja en las salvaciones de concentración, y puedes lanzar un conjuro (como Toll the Dead) en lugar de un ataque de oportunidad.",
     "Antes de cada combate, repasa la mochila: pergaminos, el Horn of Valhalla y el Ring of Invisibility también ganan peleas.",
     "No tienes Ataque Extra: tu daño viene de un golpe fuerte con Blessed Strikes más un conjuro con tu acción adicional."
@@ -595,21 +600,21 @@
       "nombre": "Spiritual Weapon",
       "resumen": "un arma espectral que pega por ti",
       "cuando": "Cuando el enemigo está lejos o prefieres no gastar la concentración en Spirit Shroud.",
-      "tira": "Acción adicional: ataque de conjuro 1d20+10, 1d8+6 de fuerza. En los turnos siguientes la mueves y atacas con tu acción adicional.",
+      "tira": "Acción adicional: ataque de conjuro 1d20+12, 1d8+6 de fuerza. En los turnos siguientes la mueves y atacas con tu acción adicional.",
       "ojo": "En las reglas 2024 también requiere concentración: no la combines con Spirit Shroud."
     },
     {
       "nombre": "Divine Spark",
       "resumen": "curar o dañar a distancia con Canalizar Divinidad",
       "cuando": "Cuando un aliado está bajo o quieres rematar sin acercarte.",
-      "tira": "Curar: 2d8+6 PG a una criatura a 9 m. Dañar: el objetivo tira salvación de Constitución contra CD 18 y recibe 2d8+6 radiante o necrótico (la mitad si la supera).",
+      "tira": "Curar: 2d8+6 PG a una criatura a 9 m. Dañar: el objetivo tira salvación de Constitución contra CD 20 y recibe 2d8+6 radiante o necrótico (la mitad si la supera).",
       "ojo": "Gasta un uso de Canalizar Divinidad (tienes 3) y tu acción de Magia."
     },
     {
       "nombre": "Hellish Rebuke y War Caster",
       "resumen": "tus reacciones",
       "cuando": "Cuando alguien a 18 m te hace daño, o cuando un enemigo sale de tu alcance.",
-      "tira": "Hellish Rebuke: salvación de Destreza CD 18, 2d10 de fuego (la mitad si la supera); una vez gratis por descanso largo. Con War Caster puedes lanzar Toll the Dead como ataque de oportunidad.",
+      "tira": "Hellish Rebuke: salvación de Destreza CD 20, 2d10 de fuego (la mitad si la supera); una vez gratis por descanso largo. Con War Caster puedes lanzar Toll the Dead como ataque de oportunidad.",
       "ojo": "Solo tienes una reacción por ronda."
     },
     {
