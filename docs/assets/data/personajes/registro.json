@@ -158,7 +158,8 @@
         "nivel": 9
       }
     ],
-    "estado": "Activo"
+    "estado": "Activo",
+    "imagen": "khorvac.webp"
   },
   {
     "id": "sethis",
