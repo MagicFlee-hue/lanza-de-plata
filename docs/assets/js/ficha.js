@@ -25,7 +25,7 @@
     ["Acrobacias", "DES"], ["Arcanos", "INT"], ["Atletismo", "FUE"], ["Engaño", "CAR"], ["Historia", "INT"],
     ["Interpretación", "CAR"], ["Intimidación", "CAR"], ["Investigación", "INT"], ["Juego de Manos", "DES"],
     ["Medicina", "SAB"], ["Naturaleza", "INT"], ["Percepción", "SAB"], ["Perspicacia", "SAB"], ["Persuasión", "CAR"],
-    ["Religión", "INT"], ["Sigilo", "DES"], ["Supervivencia", "SAB"], ["Trato con Animales", "SAB"]];
+    ["Religión (conocimiento)", "INT", "Religión"], ["Religión (comunión)", "SAB", "Religión"], ["Sigilo", "DES"], ["Supervivencia", "SAB"], ["Trato con Animales", "SAB"]];
   var CONDICIONES = [
     ["Agarrado", "Tu velocidad es 0. Desventaja al atacar a cualquiera que no sea quien te agarra. Te puede mover consigo."],
     ["Apresado", "Velocidad 0. Desventaja en tus ataques y en salvaciones de Destreza; los ataques contra ti tienen ventaja."],
@@ -199,8 +199,10 @@
     CARACS.forEach(function (c) { M[c[0]] = mod(C[c[0]]); });
     var salv = pj.salvaciones || [];
     var hab = pj.habilidades || {};
-    function bonoHab(nombre, car) {
-      var e = hab[nombre];
+    // Homebrew de la mesa: Religión tiene dos caras (INT y SAB). Si la ficha no las separa, ambas usan la competencia de "Religión".
+    function estadoHab(nombre, alias) { return hab[nombre] || (alias ? hab[alias] : undefined); }
+    function bonoHab(nombre, car, alias) {
+      var e = estadoHab(nombre, alias);
       return M[car] + (e === "Pericia" ? 2 * prof : e === "Competente" ? prof : 0);
     }
     var iniciativa = M.DES + (+pj.iniciativa_extra || 0);
@@ -452,9 +454,9 @@
       })),
       h("h3", { text: "Habilidades" }),
       h("ul", { class: "pj-habs" }, HABILIDADES.map(function (x) {
-        var e = hab[x[0]];
+        var e = estadoHab(x[0], x[2]);
         return h("li", { class: e === "Pericia" ? "pericia" : e === "Competente" ? "comp" : "" },
-          h("b", { text: signo(bonoHab(x[0], x[1])) }), h("span", { text: x[0] }), h("small", { text: x[1] + (e === "Pericia" ? " · pericia" : "") }));
+          h("b", { text: signo(bonoHab(x[0], x[1], x[2])) }), h("span", { text: x[0] }), h("small", { text: x[1] + (e === "Pericia" ? " · pericia" : "") }));
       })),
       h("p", { class: "pj-leyenda" }, h("span", { class: "punto comp" }), " competente  ", h("span", { class: "punto pericia" }), " pericia (doble competencia)"),
       bloqueTexto("Rasgos de especie", lista(pj.rasgos_especie)),

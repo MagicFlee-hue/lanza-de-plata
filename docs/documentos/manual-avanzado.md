@@ -92,6 +92,7 @@ El Player's Handbook 2024 reemplaza todo lo que tenga una versión nueva. Lo de 
 - **Subclases de 2014 en clases de 2024:** si el primer rasgo de la subclase era de nivel 1 o 2, lo ganas a nivel 3 junto con el resto de rasgos de ese nivel.
 - **Vuelo:** toda especie con velocidad de vuelo (Aarakocra, Fairy, Owlin, tiflin alado y similares) vuela a 30 pies, pero las fuertes brisas le impiden volar alto. Si al final de su turno no está a 10 pies o menos de una superficie sólida, desciende lentamente hasta esa altura.
 - **Trance:** toda habilidad parecida al Trance de los elfos sigue la regla del Player's Handbook: meditas 4 horas en lugar de dormir.
+- **Religión tiene dos caras:** **Religión (conocimiento)** usa Inteligencia y cubre lo que se sabe de los dioses: ritos, símbolos, cultos e historia sagrada. **Religión (comunión)** usa Sabiduría y cubre la relación con tu dios: rezar, interpretar sus señales y sentir su voluntad. La competencia en Religión sirve para las dos.
 - **Lore:** las referencias a Solamnia se cambian por la "Guerra del Bien contra los Orcos".
 
 ### 4.2 Subclases ajustadas
