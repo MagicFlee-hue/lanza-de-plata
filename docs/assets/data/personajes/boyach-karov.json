@@ -1,0 +1,405 @@
+{
+  "jugador": "Oscar",
+  "nombre": "Boyach Karov",
+  "imagen": "boyach-karov.webp",
+  "especie": "Aasimar (linaje personalizado)",
+  "trasfondo": "Granjero (Farmer)",
+  "clases": [
+    {
+      "clase": "Paladín",
+      "subclase": "Oathbreaker",
+      "nivel": 8
+    }
+  ],
+  "pg_max": 107,
+  "ca": 25,
+  "velocidad": 30,
+  "iniciativa_extra": 0,
+  "caracteristicas": {
+    "FUE": 18,
+    "DES": 15,
+    "CON": 18,
+    "INT": 12,
+    "SAB": 14,
+    "CAR": 16
+  },
+  "salvaciones": [
+    "SAB",
+    "CAR"
+  ],
+  "habilidades": {
+    "Atletismo": "Competente",
+    "Intimidación": "Competente",
+    "Naturaleza": "Competente",
+    "Percepción": "Competente",
+    "Perspicacia": "Competente",
+    "Persuasión": "Competente",
+    "Supervivencia": "Competente",
+    "Trato con Animales": "Competente"
+  },
+  "armadura": "Clockwork Plate Armor y Boomerang Shield",
+  "idiomas": [
+    "Común",
+    "Celestial",
+    "Infernal",
+    "Jerga del bajo mundo"
+  ],
+  "competencias": "Armas sencillas y marciales; armaduras ligeras, medias y pesadas; escudos. Herramientas: carpintero, ebanista, cartógrafo, tejedor, soplador de vidrio, cervecero y kit de sanador.",
+  "dotes": [
+    "Tough",
+    "Skilled",
+    "Polearm Master",
+    "Estilo de combate: Defense"
+  ],
+  "rasgos_especie": [
+    "Visión en la oscuridad"
+  ],
+  "objetos": [
+    {
+      "nombre": "Clockwork Plate Armor",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Boomerang shield",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Frost Brand Longsword",
+      "sintonizado": false
+    }
+  ],
+  "bendiciones": [],
+  "bastion": "",
+  "oro": "1.000 po y 200 pp",
+  "ataques": [
+    {
+      "nombre": "Longsword",
+      "car": "FUE",
+      "ataque": "+7",
+      "dano": "1d8+4 (+3 Aura of Hate)",
+      "tipo": "Cortante",
+      "maestria": "Sap",
+      "alcance": "",
+      "notas": "Versátil: 1d10 a dos manos (sin escudo)."
+    },
+    {
+      "nombre": "Frost Brand Longsword",
+      "car": "FUE",
+      "ataque": "+7",
+      "dano": "1d8+4 + 1d6 frío (+3 Aura of Hate)",
+      "tipo": "Cortante",
+      "maestria": "Sap",
+      "alcance": "",
+      "notas": "Versátil: 1d10 a dos manos (sin escudo)."
+    },
+    {
+      "nombre": "Javelin",
+      "car": "FUE",
+      "ataque": "+7",
+      "dano": "1d6+4",
+      "tipo": "Perforante",
+      "maestria": "Slow",
+      "alcance": "30/120",
+      "notas": "Tienes 4. Lanzada no suma Aura of Hate."
+    },
+    {
+      "nombre": "Handaxe + runa explosiva",
+      "car": "FUE",
+      "ataque": "+7",
+      "dano": "1d6+4 + 2d4",
+      "tipo": "Cortante",
+      "maestria": "Vex",
+      "alcance": "20/60",
+      "notas": "Tienes 2."
+    },
+    {
+      "nombre": "Sickle",
+      "car": "FUE",
+      "ataque": "+7",
+      "dano": "1d4+4 (+3 Aura of Hate)",
+      "tipo": "Cortante",
+      "maestria": "Nick",
+      "alcance": "",
+      "notas": ""
+    },
+    {
+      "nombre": "Boomerang Shield",
+      "car": "FUE",
+      "ataque": "+7",
+      "dano": "1d6+4",
+      "tipo": "Cortante",
+      "maestria": "",
+      "alcance": "20/60",
+      "notas": "Lanzado."
+    }
+  ],
+  "conjuros": {
+    "car": "CAR",
+    "espacios": [
+      4,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lista": [
+      {
+        "nombre": "Thunderous Smite",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Paladin",
+        "notas": "Acción adicional tras impactar: +2d6 de trueno. Si falla una salvación de Fuerza, sale empujado 3 m y queda derribado."
+      },
+      {
+        "nombre": "Divine Smite",
+        "nivel": 1,
+        "estado": "Siempre preparado",
+        "fuente": "Paladin",
+        "notas": "Acción adicional tras impactar: +2d8 radiante, +1d8 por cada nivel de espacio por encima de 1 y +1d8 contra infernales y muertos vivientes."
+      },
+      {
+        "nombre": "Searing Smite",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Paladin",
+        "notas": "Acción adicional tras impactar: +1d6 de fuego y el objetivo arde (1d6 al inicio de sus turnos hasta que supere una salvación de Constitución). +1d6 por nivel superior."
+      },
+      {
+        "nombre": "Bless",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Paladin",
+        "notas": "Acción. Hasta tres criaturas suman 1d4 a sus ataques y salvaciones. Concentración."
+      },
+      {
+        "nombre": "Cure Wounds",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Paladin",
+        "notas": "Acción. Toque: cura 2d8 + 3."
+      },
+      {
+        "nombre": "Detect Evil and Good",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Paladin",
+        "notas": "Acción. Sientes aberraciones, celestiales, elementales, feéricos, infernales y muertos vivientes a 9 m. Concentración."
+      },
+      {
+        "nombre": "Detect Magic",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Paladin",
+        "notas": "Acción o ritual. Sientes magia a 9 m. Concentración."
+      },
+      {
+        "nombre": "Divine Favor",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Paladin",
+        "notas": "Acción adicional. Tus ataques con arma hacen +1d4 radiante durante 1 minuto."
+      },
+      {
+        "nombre": "Protection from Evil and Good",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Paladin",
+        "notas": "Acción. Una criatura queda protegida contra aberraciones, celestiales, elementales, feéricos, infernales y muertos vivientes: atacan con desventaja. Concentración."
+      },
+      {
+        "nombre": "Purify Food and Drink",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Paladin",
+        "notas": "Ritual. Limpia comida y bebida de veneno y podredumbre."
+      },
+      {
+        "nombre": "Shield of Faith",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Paladin",
+        "notas": "Acción adicional, 18 m: +2 a la CA de una criatura. Concentración."
+      },
+      {
+        "nombre": "Inflict Wounds",
+        "nivel": 1,
+        "estado": "Siempre preparado",
+        "fuente": "Oathbreaker",
+        "notas": "Acción de Magia, toque. Daño necrótico (ver la versión que usa la mesa)."
+      },
+      {
+        "nombre": "Hellish Rebuke",
+        "nivel": 1,
+        "estado": "Siempre preparado",
+        "fuente": "Oathbreaker",
+        "notas": "Reacción cuando una criatura a 18 m te daña: 2d10 de fuego, salvación de Destreza para la mitad."
+      },
+      {
+        "nombre": "Crown of Madness",
+        "nivel": 2,
+        "estado": "Siempre preparado",
+        "fuente": "Oathbreaker",
+        "notas": "Acción. Un humanoide queda hechizado si falla Sabiduría y ataca a quien tú elijas. Concentración."
+      },
+      {
+        "nombre": "Darkness",
+        "nivel": 2,
+        "estado": "Siempre preparado",
+        "fuente": "Oathbreaker",
+        "notas": "Acción. Esfera de oscuridad mágica de 4,5 m de radio; ni la visión en la oscuridad la atraviesa. Concentración."
+      },
+      {
+        "nombre": "Find Steed",
+        "nivel": 2,
+        "estado": "Siempre preparado",
+        "fuente": "Paladin",
+        "notas": "Acción. Invocas una montura de otro mundo leal a ti."
+      },
+      {
+        "nombre": "Lesser Restoration",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Paladin",
+        "notas": "Acción adicional, toque: quita cegado, ensordecido, paralizado o envenenado."
+      },
+      {
+        "nombre": "Magic Weapon",
+        "nivel": 2,
+        "estado": "Ritual / no preparado",
+        "fuente": "Paladin",
+        "notas": "Acción adicional. Un arma no mágica obtiene +1 a ataque y daño. Concentración."
+      },
+      {
+        "nombre": "Wardaway",
+        "nivel": 1,
+        "estado": "Ritual / no preparado",
+        "fuente": "Paladin",
+        "notas": "Fuerza desorientadora contra una criatura; salvación de Constitución. Constructos y muertos vivientes la superan solos."
+      },
+      {
+        "nombre": "Gentle Repose",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Paladin",
+        "notas": "Ritual. Un cadáver no se pudre ni puede volverse muerto viviente."
+      }
+    ]
+  },
+  "recursos": [
+    {
+      "nombre": "Canalizar Divinidad",
+      "max": 2,
+      "recupera": "Descanso corto (1) / largo (todos)",
+      "notas": "Opciones: Divine Sense, Control Undead y Dreadful Aspect. CD 14."
+    },
+    {
+      "nombre": "Lay on Hands",
+      "max": 40,
+      "recupera": "Descanso largo",
+      "notas": "Acción adicional, toque: reparte hasta 40 PG de curación. 5 puntos quitan el envenenamiento."
+    },
+    {
+      "nombre": "Divine Smite gratis",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Una vez por descanso largo lanzas Divine Smite sin gastar espacio."
+    },
+    {
+      "nombre": "Faithful Steed",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Lanzas Find Steed una vez sin gastar espacio."
+    },
+    {
+      "nombre": "Clockwork Plate Armor",
+      "max": 4,
+      "recupera": "Amanecer (1d4)",
+      "notas": "Al hacer una tirada de d20, gasta 1 carga para convertir el resultado en un 10."
+    },
+    {
+      "nombre": "Pergamino: Greater Restoration",
+      "max": 1,
+      "recupera": "Otro (se gasta)",
+      "notas": "Nivel 5: como aún no lanzas conjuros de ese nivel, necesitas una prueba de Carisma CD 15."
+    },
+    {
+      "nombre": "Botellas de líquido explosivo",
+      "max": 2,
+      "recupera": "Otro (se gasta)",
+      "notas": "3d4+4 de fuerza."
+    },
+    {
+      "nombre": "Pociones pequeñas",
+      "max": 8,
+      "recupera": "Otro (se gasta)",
+      "notas": "Curan 2d4+2."
+    },
+    {
+      "nombre": "Pociones medianas",
+      "max": 6,
+      "recupera": "Otro (se gasta)",
+      "notas": "Curan 4d4+4."
+    }
+  ],
+  "descripcion": "Boyach Karov empezó siendo un paladín de fe y lealtad, hasta que vio a su familia de granjeros morir ante la indiferencia de su dios. Rompió su juramento y se unió a lo único que une a todo ser vivo: la oscuridad y la muerte, siguiendo ciegamente a Asmodeus.",
+  "consejos": [
+    "Lo que te propusiste mejorar es justo tu fuerza: con Ataque Extra, Aura of Hate y un smite en el golpe que importa haces mucho daño sin gastar todos tus espacios.",
+    "Guarda los smites para cuando aciertes: decides después de ver el impacto, y si es crítico se duplican sus dados.",
+    "Cuando un aliado caiga, 1 punto de Lay on Hands lo levanta con tu acción adicional y sin gastar tu acción."
+  ],
+  "recordatorios": [
+    "Aura of Hate: +3 al daño de cada golpe cuerpo a cuerpo con arma. Ya está sumado en la tabla de ataques.",
+    "Aura of Protection: tú y tus aliados a 3 m suman +3 a todas las salvaciones. Mantente cerca del grupo.",
+    "Tu acción adicional es para un smite o para Lay on Hands: elige una de las dos cada turno.",
+    "CD de tus conjuros y de Canalizar Divinidad: 14. Ataque de conjuro: +6."
+  ],
+  "proximo_nivel": "Subir a nivel 9 y luego a 10 para tener conjuros de nivel 3 y hacerse más fuerte. En el nivel 9 ganas espacios de nivel 3 y Abjure Foes.",
+  "guia_combate": [
+    {
+      "nombre": "Ataque Extra + Aura of Hate",
+      "resumen": "dos golpes que pegan más de lo que crees",
+      "cuando": "Cada turno, con la acción de Atacar.",
+      "tira": "Dos ataques: 1d20+7 cada uno. Con la Frost Brand, cada golpe hace 1d8+7 cortante + 1d6 de frío (el +7 es tu Fuerza más el Aura of Hate).",
+      "ojo": "Ataque Extra solo funciona con la acción de Atacar: lanzar un conjuro como Inflict Wounds gasta tu acción entera. El Aura of Hate no suma a armas lanzadas."
+    },
+    {
+      "nombre": "Smites",
+      "resumen": "daño extra después de acertar",
+      "cuando": "Cuando ya impactaste y quieres rematar. Divine Smite es gratis una vez por descanso largo.",
+      "tira": "Divine Smite: +2d8 radiante (3d8 con espacio de nivel 2), y +1d8 más contra infernales o muertos vivientes. En crítico se duplican esos dados.",
+      "ojo": "Los smites gastan tu acción adicional, así que solo puedes hacer uno por turno, aunque golpees dos veces."
+    },
+    {
+      "nombre": "Lay on Hands",
+      "resumen": "40 PG de curación sin gastar acción",
+      "cuando": "Cuando tú o un aliado están bajos o caídos.",
+      "tira": "No hay tirada: decides cuántos PG del total de 40 curas.",
+      "ojo": "Usa tu acción adicional, la misma que el smite. Con 1 punto basta para levantar a alguien que está a 0."
+    },
+    {
+      "nombre": "Dreadful Aspect",
+      "resumen": "asusta a varios enemigos a la vez",
+      "cuando": "Contra un grupo que te rodea, gastando un uso de Canalizar Divinidad y tu acción.",
+      "tira": "Los enemigos que elijas a 9 m tiran salvación de Sabiduría contra CD 14. Si fallan, quedan asustados 1 minuto.",
+      "ojo": "Un enemigo asustado ataca con desventaja y no puede acercarse a ti. Si termina su turno a más de 9 m, vuelve a tirar."
+    },
+    {
+      "nombre": "Hellish Rebuke",
+      "resumen": "devolver el golpe con fuego",
+      "cuando": "Con tu reacción, cuando una criatura a 18 m te hace daño.",
+      "tira": "La criatura tira salvación de Destreza contra CD 14: 2d10 de fuego, o la mitad si la supera.",
+      "ojo": "Solo tienes una reacción por ronda."
+    },
+    {
+      "nombre": "Clockwork Plate Armor",
+      "resumen": "convertir una mala tirada en un 10",
+      "cuando": "Cuando saques un d20 muy bajo en algo que importa, sobre todo una salvación.",
+      "tira": "Gasta 1 carga: el d20 pasa a ser 10. Luego sumas tus bonos (con el Aura of Protection, +3 a todas tus salvaciones).",
+      "ojo": "Tiene 4 cargas y recupera 1d4 al amanecer."
+    }
+  ]
+}

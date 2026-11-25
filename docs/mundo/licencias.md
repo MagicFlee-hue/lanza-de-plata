@@ -48,6 +48,7 @@ Aaredale es una ciudad de paladines. Muchas cosas que en otra ciudad harías sin
 | **Alquimia y venenos** | Fabricar y vender pociones. Los venenos van aparte: solo cazadores y milicia | 150 po (venenos 600 po) | Visto bueno de Thalassa |
 | **Importación** | Introducir mercancía desde fuera de la meseta (Moria, el Refugio orco) | 200 po | Inspección en la puerta y pago de arancel |
 | **Forja** | Tener fragua propia y fabricar armas o armaduras para la venta | 100 po | Inspección contra incendios. Fabricar armas para Shaarmid es traición |
+| **Patrocinio de encargos** | Publicar encargos propios en el [Tablón de la Lanza](tablon.md) y pagar a quien los cumpla | 500 po al año + 10 % de cada recompensa | La recompensa queda en depósito en La Lanza antes de publicar. Un encargo abierto a la vez |
 
 ## Fe y templos
 

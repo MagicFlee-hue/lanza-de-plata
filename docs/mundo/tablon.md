@@ -31,6 +31,18 @@ Los trabajos de **Tier 3** solo se abren tras la misión de ascenso. Nada de col
 | Averiguar por qué en las minas de Moria hay mineros desaparecidos y lámparas que no iluminan | Darbol, "socio" de la Fragua de Obsidiana | Abierto |
 | Proteger la instalación de las lámparas de prueba de la Ingeniería Arcana | Lissandra Noctis | Abierto |
 | Rastrear la resonancia de las gemas perdidas de la Corona de Aaredale | El Magic'o | Abierto |
+| Cazar criaturas excavadoras (bulette, ankheg, mole sombría) y traer sus pieles: las corazas que resisten la Arena Negra | Daeronn Darkfire *(patrocinado)* | Abierto |
+| Despejar con braseros sagrados la Arena Negra de las Minas de Plata de Aaredale y extraer plata, hierro y acero para una antigua arma de luz | Daeronn Darkfire *(patrocinado)* | Abierto |
+
+!!! info "Encargos patrocinados"
+    Cualquier expedicionario con la [licencia de Patrocinio de encargos](licencias.md#comercio) puede publicar trabajos en este tablón:
+
+    - **El DM aprueba y adapta** cada encargo: decide el tier, los peligros y lo que nadie sabe todavía.
+    - **El DM fija el oro** según la dificultad. El patrocinador lo deja en depósito en La Lanza antes de que el encargo se publique, y Barbol cobra su 10 %.
+    - **La Lanza paga lo de siempre** (PT y PR). El oro lo pone el patrocinador.
+    - **El patrocinador no puede ir** a su propio encargo. Sus otros personajes sí, como un expedicionario más.
+    - **Si nadie lo cumple** o la party fracasa, el patrocinador recupera el depósito, pero no la tasa.
+    - **Un encargo abierto a la vez** por patrocinador.
 
 ## Tier 1
 
