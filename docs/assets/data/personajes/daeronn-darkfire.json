@@ -60,16 +60,16 @@
       "sintonizado": false
     },
     {
-      "nombre": "Magnis War Hammer (objeto de campaña)",
+      "nombre": "Magnis War Hammer (objeto de campaña, requiere sintonización: sin sintonizar)",
       "sintonizado": false
     },
     {
       "nombre": "The Devotee's Sacred Sword (personalizado)",
-      "sintonizado": false
+      "sintonizado": true
     },
     {
       "nombre": "Stone Giant Strength Gauntlets (objeto de campaña)",
-      "sintonizado": false
+      "sintonizado": true
     },
     {
       "nombre": "Símbolo sagrado +2 (CD y ataque de conjuro)",
@@ -122,7 +122,7 @@
       "tipo": "Contundente",
       "maestria": "Push",
       "alcance": "1,5 m",
-      "notas": "Versátil: 1d10+6 a dos manos. Blessed Strikes: +1d8 radiante una vez por turno."
+      "notas": "Requiere sintonización y ahora no está sintonizado: sin ella no usa sus propiedades mágicas. Versátil: 1d10+6 a dos manos. Blessed Strikes: +1d8 radiante una vez por turno."
     },
     {
       "nombre": "Toll the Dead",
@@ -546,7 +546,7 @@
       "nombre": "Blessing of the Forge",
       "max": 1,
       "recupera": "Descanso largo",
-      "notas": "Al terminar un descanso largo: +1 a la CA de una armadura o +1 a ataque y daño de un arma, hasta el siguiente descanso largo."
+      "notas": "Al terminar un descanso largo, tocas una armadura o un arma NO mágica: la armadura da +1 a la CA, o el arma +1 a ataque y daño, hasta el siguiente descanso largo. No sirve sobre tus placas ni tu escudo, que ya son mágicos."
     },
     {
       "nombre": "Hellish Rebuke (legado infernal)",
@@ -578,7 +578,8 @@
     "CD de tus conjuros: 20. Ataque de conjuro: +12 (ya incluye el +2 del símbolo sagrado).",
     "War Caster: ventaja en las salvaciones de concentración, y puedes lanzar un conjuro (como Toll the Dead) en lugar de un ataque de oportunidad.",
     "Antes de cada combate, repasa la mochila: pergaminos, el Horn of Valhalla y el Ring of Invisibility también ganan peleas.",
-    "No tienes Ataque Extra: tu daño viene de un golpe fuerte con Blessed Strikes más un conjuro con tu acción adicional."
+    "No tienes Ataque Extra: tu daño viene de un golpe fuerte con Blessed Strikes más un conjuro con tu acción adicional.",
+    "Tienes 3 objetos sintonizados (Ring of Invisibility, Stone Giant Strength Gauntlets y The Devotee's Sacred Sword): es el máximo. Para usar el Magnis War Hammer tendrías que soltar uno."
   ],
   "proximo_nivel": "Convertirse en el mayor maestro artesano del continente, descubrir nuevas formas de crear objetos y llevar la senda de la artesanía más lejos, siempre para apoyar a todos.",
   "guia_combate": [
