@@ -1,0 +1,561 @@
+{
+  "jugador": "Mateo",
+  "nombre": "Hamtaro",
+  "imagen": "hamtaro.webp",
+  "especie": "Space Hamster",
+  "trasfondo": "Noble",
+  "clases": [
+    {
+      "clase": "Mago",
+      "subclase": "Nigromante",
+      "nivel": 10
+    }
+  ],
+  "pg_max": 55,
+  "ca": 16,
+  "velocidad": 30,
+  "iniciativa_extra": 0,
+  "caracteristicas": {
+    "FUE": 10,
+    "DES": 14,
+    "CON": 14,
+    "INT": 20,
+    "SAB": 10,
+    "CAR": 10
+  },
+  "salvaciones": [
+    "INT",
+    "SAB"
+  ],
+  "habilidades": {
+    "Arcanos": "Competente",
+    "Historia": "Competente",
+    "Investigación": "Competente",
+    "Persuasión": "Competente",
+    "Sigilo": "Competente"
+  },
+  "armadura": "Ring of Protection (+1). La CA 16 sale de Mage Armor: 13 + DES 2 + anillo 1.",
+  "idiomas": [
+    "Común",
+    "Habla profunda (Deep Speech)",
+    "Dracónico"
+  ],
+  "competencias": "Armas sencillas. Herramientas: alquimista, herborista, peletero y hojalatero.",
+  "dotes": [
+    "War Caster",
+    "Chef (verificar: en la hoja dice «Cheriff»)"
+  ],
+  "rasgos_especie": [
+    "Visión en la oscuridad",
+    "Go for the Eyes",
+    "Telepatía",
+    "Excavar"
+  ],
+  "objetos": [
+    {
+      "nombre": "Ring of Protection",
+      "sintonizado": true
+    },
+    {
+      "nombre": "Ring of Elemental Command (Fire)",
+      "sintonizado": true
+    },
+    {
+      "nombre": "Libro de conjuros",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Bag of Holding",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Armor of Vulnerability",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Armor of Resistance",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Foco arcano",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Wand of Binding",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Capa de resistencia al veneno",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Poción tirana (1)",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Poción de tentáculo (1)",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Poción de forma gaseosa (1)",
+      "sintonizado": false
+    }
+  ],
+  "bendiciones": [
+    "Expedicionario profesional",
+    "Segunda vida"
+  ],
+  "bastion": "Ninguno todavía",
+  "oro": "33.082 po",
+  "ataques": [
+    {
+      "nombre": "Toll the Dead",
+      "car": "INT",
+      "ataque": "CD 17 (SAB)",
+      "dano": "2d8, o 2d12 si el objetivo está herido",
+      "tipo": "Necrótico",
+      "maestria": "",
+      "alcance": "18 m",
+      "notas": "Truco."
+    },
+    {
+      "nombre": "Poison Spray",
+      "car": "INT",
+      "ataque": "+9",
+      "dano": "2d12",
+      "tipo": "Veneno",
+      "maestria": "",
+      "alcance": "9 m",
+      "notas": "Truco."
+    },
+    {
+      "nombre": "Chill Touch",
+      "car": "INT",
+      "ataque": "+9",
+      "dano": "2d10",
+      "tipo": "Necrótico",
+      "maestria": "",
+      "alcance": "Toque",
+      "notas": "Truco. El objetivo no puede recuperar PG hasta el final de tu siguiente turno."
+    },
+    {
+      "nombre": "Dagger",
+      "car": "DES",
+      "ataque": "+6",
+      "dano": "1d4+2",
+      "tipo": "Perforante",
+      "maestria": "",
+      "alcance": "1,5 m (arrojadiza 6/18 m)",
+      "notas": ""
+    },
+    {
+      "nombre": "Quarterstaff",
+      "car": "FUE",
+      "ataque": "+4",
+      "dano": "1d6 (1d8 a dos manos)",
+      "tipo": "Contundente",
+      "maestria": "",
+      "alcance": "1,5 m",
+      "notas": "No es sutil: usa Fuerza."
+    }
+  ],
+  "conjuros": {
+    "car": "INT",
+    "espacios": [
+      4,
+      3,
+      3,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lista": [
+      {
+        "nombre": "Chill Touch",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Poison Spray",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Toll the Dead",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Spare the Dying",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Nigromante",
+        "notas": ""
+      },
+      {
+        "nombre": "Light",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "False Life",
+        "nivel": 1,
+        "estado": "En el libro",
+        "fuente": "Nigromante",
+        "notas": "PG temporales: úsalo antes de la pelea."
+      },
+      {
+        "nombre": "Shield",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "Reacción: +5 a la CA hasta tu siguiente turno."
+      },
+      {
+        "nombre": "Absorb Elements",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Magic Missile",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Ice Knife",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Identify",
+        "nivel": 1,
+        "estado": "Ritual",
+        "fuente": "Mago",
+        "notas": "Lo puedes lanzar como ritual sin prepararlo."
+      },
+      {
+        "nombre": "Mage Armor",
+        "nivel": 1,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Tenser's Floating Disk",
+        "nivel": 1,
+        "estado": "Ritual",
+        "fuente": "Mago",
+        "notas": "Lo puedes lanzar como ritual sin prepararlo."
+      },
+      {
+        "nombre": "Alarm",
+        "nivel": 1,
+        "estado": "Ritual",
+        "fuente": "Mago",
+        "notas": "Lo puedes lanzar como ritual sin prepararlo."
+      },
+      {
+        "nombre": "Gentle Repose",
+        "nivel": 2,
+        "estado": "Ritual",
+        "fuente": "Nigromante",
+        "notas": "Lo puedes lanzar como ritual sin prepararlo."
+      },
+      {
+        "nombre": "Wither and Bloom",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Nigromante",
+        "notas": "Daño en área y curación a un aliado."
+      },
+      {
+        "nombre": "Misty Step",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "Acción adicional: te teletransportas 9 m."
+      },
+      {
+        "nombre": "Scorching Ray",
+        "nivel": 2,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Hold Person",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "Paralizado: los golpes cuerpo a cuerpo a 1,5 m son críticos automáticos. Concentración."
+      },
+      {
+        "nombre": "Invisibility",
+        "nivel": 2,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Magic Mouth",
+        "nivel": 2,
+        "estado": "Ritual",
+        "fuente": "Mago",
+        "notas": "Lo puedes lanzar como ritual sin prepararlo."
+      },
+      {
+        "nombre": "Animate Dead",
+        "nivel": 3,
+        "estado": "Siempre preparado",
+        "fuente": "Nigromante",
+        "notas": "Tu conjuro principal. Undead Thralls lo hace más fuerte."
+      },
+      {
+        "nombre": "Summon Undead",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Nigromante",
+        "notas": ""
+      },
+      {
+        "nombre": "Counterspell",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "Reacción para cortar el conjuro de otro lanzador."
+      },
+      {
+        "nombre": "Speak with Dead",
+        "nivel": 3,
+        "estado": "En el libro",
+        "fuente": "Nigromante",
+        "notas": ""
+      },
+      {
+        "nombre": "Dispel Magic",
+        "nivel": 3,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Fireball",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Fly",
+        "nivel": 3,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Summon Greater Demon",
+        "nivel": 4,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "Concentración. Un demonio invocado puede volverse en tu contra."
+      },
+      {
+        "nombre": "Summon Elemental",
+        "nivel": 4,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "Concentración. Un elemental para lo que haga falta."
+      },
+      {
+        "nombre": "Dimension Door",
+        "nivel": 4,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "Te teletransportas hasta 150 m con un aliado."
+      },
+      {
+        "nombre": "Spirit of Death",
+        "nivel": 4,
+        "estado": "En el libro",
+        "fuente": "Nigromante",
+        "notas": ""
+      },
+      {
+        "nombre": "Banishment",
+        "nivel": 4,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Festering Blast",
+        "nivel": 4,
+        "estado": "En el libro",
+        "fuente": "Nigromante",
+        "notas": ""
+      },
+      {
+        "nombre": "Contact Other Plane",
+        "nivel": 5,
+        "estado": "Ritual",
+        "fuente": "Mago",
+        "notas": "Lo puedes lanzar como ritual sin prepararlo."
+      },
+      {
+        "nombre": "Rary's Telepathic Bond",
+        "nivel": 5,
+        "estado": "Ritual",
+        "fuente": "Mago",
+        "notas": "Lo puedes lanzar como ritual sin prepararlo."
+      },
+      {
+        "nombre": "Shadow Gateway",
+        "nivel": 5,
+        "estado": "En el libro",
+        "fuente": "Mago",
+        "notas": ""
+      },
+      {
+        "nombre": "Danse Macabre",
+        "nivel": 5,
+        "estado": "En el libro",
+        "fuente": "Nigromante",
+        "notas": ""
+      },
+      {
+        "nombre": "Hold Monster",
+        "nivel": 5,
+        "estado": "Preparado",
+        "fuente": "Mago",
+        "notas": "Paralizado: los golpes cuerpo a cuerpo a 1,5 m son críticos automáticos. Concentración."
+      },
+      {
+        "nombre": "Enervation",
+        "nivel": 5,
+        "estado": "Preparado",
+        "fuente": "Nigromante",
+        "notas": "Concentración. Daño necrótico que se repite cada turno y te cura."
+      }
+    ]
+  },
+  "recursos": [
+    {
+      "nombre": "Arcane Recovery",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "En un descanso corto recuperas espacios por hasta 5 niveles combinados (ninguno de nivel 6 o más)."
+    },
+    {
+      "nombre": "Undead Thralls (Animate Dead gratis)",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Lanzas Animate Dead sin gastar espacio, y cada vez que lo lanzas su nivel efectivo sube en 1."
+    },
+    {
+      "nombre": "Harvest Undead",
+      "max": 1,
+      "recupera": "Otro",
+      "notas": "Se activa justo después de quedar Ensangrentado (a la mitad de PG o menos) sin caer a 0. Revisa el texto del rasgo con el DM."
+    },
+    {
+      "nombre": "Go for the Eyes",
+      "max": 1,
+      "recupera": "Otro (recarga con 6)",
+      "notas": "Rasgo del Space Hamster. Recarga con un 6 en 1d6."
+    },
+    {
+      "nombre": "Wand of Binding",
+      "max": 7,
+      "recupera": "Amanecer (1d6+1)",
+      "notas": "Gasta cargas para lanzar Hold Monster o Hold Person."
+    },
+    {
+      "nombre": "Ring of Elemental Command (Fire)",
+      "max": 5,
+      "recupera": "Amanecer (1d4+1)",
+      "notas": "Cargas para los conjuros del anillo."
+    }
+  ],
+  "descripcion": "Hamtaro es un Space Hamster nigromante que busca el conocimiento para convertirse en archimago y aspira a ser el rey de Shaarmid.",
+  "consejos": [
+    "Quieres calidad y no cantidad en tus no muertos: con Undead Thralls, Animate Dead sube de nivel solo. Dedica los espacios a mantenerlos y que cada uno aguante más.",
+    "Para aportar en posicionamiento ya tienes Misty Step y Dimension Door: úsalos para sacar a un aliado del peligro o llevar a tus invocaciones donde importan.",
+    "Hold Person y Hold Monster hacen que los golpes de tus aliados a 1,5 m sean críticos: avisa a los guerreros antes de lanzarlos."
+  ],
+  "recordatorios": [
+    "CD de tus conjuros: 17. Ataque de conjuro: +9.",
+    "Undead Vitality: cada vez que lanzas un conjuro de nigromancia con espacio, curas a uno de tus no muertos. Así mantienes vivos a tus esqueletos sin gastar acciones extra.",
+    "Tu licencia de nigromancia permite como máximo 4 no muertos activos, cada uno con su brazalete azul.",
+    "Concentración: solo una a la vez. Summon Undead, Hold Person, Hold Monster, Enervation y las invocaciones compiten entre sí. War Caster te da ventaja para mantenerla.",
+    "Una sola reacción por ronda: Shield, Absorb Elements o Counterspell. Elige según lo que venga."
+  ],
+  "proximo_nivel": "Maximizar el daño y subir la dificultad de sus salvaciones.",
+  "guia_combate": [
+    {
+      "nombre": "Tus trucos",
+      "resumen": "daño cada turno sin gastar espacios",
+      "cuando": "Cuando no valga la pena gastar un espacio.",
+      "tira": "Toll the Dead: el enemigo salva SAB contra CD 17; si falla, 2d8 necrótico, o 2d12 si ya está herido. Poison Spray: 1d20+9, 2d12 de veneno a 9 m. Chill Touch: 1d20+9 al tocar, 2d10 necrótico y no puede curarse.",
+      "ojo": "Contra un enemigo herido, Toll the Dead es tu mejor truco."
+    },
+    {
+      "nombre": "Tus no muertos",
+      "resumen": "una orden para todos con tu acción adicional",
+      "cuando": "Animate Dead una vez gratis por descanso largo (Undead Thralls), y su nivel efectivo sube en 1.",
+      "tira": "Con tu acción adicional ordenas a todos los que estén a 18 m. Cada esqueleto o zombi ataca con su propio bloque.",
+      "ojo": "Animate Dead no pide concentración, así que puedes sumar una invocación o un Hold. Máximo 4 no muertos por tu licencia."
+    },
+    {
+      "nombre": "Curar a tus esqueletos",
+      "resumen": "Undead Vitality",
+      "cuando": "Cada vez que lanzas un conjuro de nigromancia gastando espacio (Enervation, Wither and Bloom, Summon Undead, Animate Dead…).",
+      "tira": "Uno de tus no muertos recupera PG según tu rasgo (nivel del espacio + 5).",
+      "ojo": "Es lo que dices olvidar: si eliges bien el conjuro, atacas y curas a tu esqueleto en la misma acción."
+    },
+    {
+      "nombre": "Fireball y Enervation",
+      "resumen": "tu daño grande",
+      "cuando": "Fireball con 3 o más enemigos juntos; Enervation contra un enemigo fuerte.",
+      "tira": "Fireball: 8d6 de fuego, salvación DES contra CD 17, la mitad si la supera. Enervation: salvación DES CD 17, 4d8 necrótico (la mitad si la supera); los turnos siguientes repites el daño con tu acción y te curas la mitad.",
+      "ojo": "Enervation pide concentración y es nigromancia: activa Undead Vitality."
+    },
+    {
+      "nombre": "Hold Person y Hold Monster",
+      "resumen": "paraliza y deja que tus aliados hagan críticos",
+      "cuando": "Contra un enemigo peligroso que esté cerca de tus guerreros.",
+      "tira": "El objetivo salva SAB contra CD 17. Si falla, queda paralizado: los ataques contra él tienen ventaja y los golpes cuerpo a cuerpo a 1,5 m son críticos. Repite la salvación al final de cada uno de sus turnos.",
+      "ojo": "Concentración. La Wand of Binding los lanza con cargas en vez de espacios."
+    },
+    {
+      "nombre": "Shield, Absorb Elements y Counterspell",
+      "resumen": "tus reacciones",
+      "cuando": "Shield cuando un ataque te iba a dar; Absorb Elements contra daño elemental; Counterspell cuando otro lanzador conjura.",
+      "tira": "Shield: +5 a la CA hasta tu siguiente turno. Absorb Elements: resistencia a ese daño. Counterspell: el lanzador enemigo tira salvación de CON contra CD 17; si falla, su conjuro no sale.",
+      "ojo": "Solo una reacción por ronda: guarda Counterspell si hay un lanzador enemigo."
+    },
+    {
+      "nombre": "Misty Step y Dimension Door",
+      "resumen": "posicionarte a ti o a un aliado",
+      "cuando": "Cuando te rodean o un compañero está atrapado.",
+      "tira": "Misty Step: acción adicional, 9 m. Dimension Door: acción, hasta 150 m, y puedes llevar a un aliado que toques.",
+      "ojo": "Un mago a 1,5 m de un enemigo está en peligro: muévete antes de lanzar."
+    }
+  ]
+}
