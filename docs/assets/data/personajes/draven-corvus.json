@@ -46,7 +46,7 @@
   "competencias": "Armas sencillas y marciales con la propiedad Ligera o Sutil; armaduras ligeras. Herramientas: de ladrón, de falsificación y de envenenador.",
   "dotes": [
     "Zhentarim Ruffian",
-    "Zhentarim Tactics"
+    "Zhentarim Tactics (FRHoF p. 41): +1 DES o CAR, Retaliate y Versatile Merc."
   ],
   "rasgos_especie": [
     "Blessing of the Raven Queen",
@@ -175,13 +175,19 @@
       "notas": "Reacción: cuando un atacante que ves te golpea, recibes la mitad del daño."
     },
     {
+      "nombre": "Retaliate (Zhentarim Tactics)",
+      "max": 1,
+      "recupera": "Otro (cada ronda)",
+      "notas": "Reacción: justo después de que una criatura a 1,5 m te golpee con un ataque cuerpo a cuerpo, le haces un ataque de oportunidad."
+    },
+    {
       "nombre": "Trance",
       "max": 1,
       "recupera": "Descanso largo",
       "notas": "Al terminar tu trance ganas dos competencias con armas o herramientas a tu elección hasta tu siguiente descanso largo."
     },
     {
-      "nombre": "Versatile Mercenary",
+      "nombre": "Versatile Merc. (Zhentarim Tactics)",
       "max": 1,
       "recupera": "Descanso largo",
       "notas": "Tras un descanso largo eliges una habilidad en la que seas competente y tienes pericia en ella hasta el siguiente descanso largo."
@@ -197,7 +203,7 @@
     "Ataque Furtivo: +3d6 una vez por turno. Ojo: es por turno, no por ronda, así que en el turno de otro (con Bloodthirst o un ataque de oportunidad) puedes volver a hacerlo.",
     "Con dos armas Nick (daga o cimitarra), el ataque extra va dentro de la acción de Atacar: tu acción adicional queda libre.",
     "Tu acción adicional: Cunning Action (Correr, Destrabarse u Ocultarse), Steady Aim o el teletransporte de la Reina Cuervo. Elige una por turno.",
-    "Tu reacción: Bloodthirst o Uncanny Dodge. Solo una por ronda.",
+    "Tu reacción: Bloodthirst, Uncanny Dodge o Retaliate. Solo una por ronda.",
     "CD de Cunning Strike: 15."
   ],
   "proximo_nivel": "Seguir como pícaro, una clase que nunca había jugado, y ver hasta dónde llega. Con su subclase, unos niveles de clérigo no le caerían mal; quiere evitar el cliché del pícaro típico.",
@@ -249,7 +255,14 @@
       "resumen": "partir el daño a la mitad",
       "cuando": "Con tu reacción, cuando un atacante que ves te golpea.",
       "tira": "Recibes la mitad del daño de ese ataque.",
-      "ojo": "Comparte la reacción con Bloodthirst."
+      "ojo": "Comparte la reacción con Bloodthirst y Retaliate."
+    },
+    {
+      "nombre": "Retaliate",
+      "resumen": "devolver el golpe con Furtivo",
+      "cuando": "Con tu reacción, justo después de que una criatura a 1,5 m te acierte un ataque cuerpo a cuerpo.",
+      "tira": "Un ataque de oportunidad contra esa criatura: 1d20+7. Como ocurre en el turno de otro, puede llevar Ataque Furtivo (+3d6) si cumples las condiciones.",
+      "ojo": "Compite con Uncanny Dodge: elige entre devolver daño o recibir la mitad."
     }
   ]
 }
