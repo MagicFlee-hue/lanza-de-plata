@@ -113,7 +113,7 @@
     }
   ],
   "conjuros": {
-    "car": "SAB",
+    "car": "INT",
     "espacios": [
       0,
       0,
@@ -131,21 +131,21 @@
         "nivel": 0,
         "estado": "Truco",
         "fuente": "Dread Allegiance",
-        "notas": "Si tu alianza es con Bane."
+        "notas": "Bane: resistencia al daño psíquico. Solo uno a la vez: cambias de dios al terminar un descanso largo."
       },
       {
         "nombre": "Blade Ward",
         "nivel": 0,
         "estado": "Truco",
         "fuente": "Dread Allegiance",
-        "notas": "Si tu alianza es con Bhaal."
+        "notas": "Bhaal: resistencia al daño de veneno. Solo uno a la vez: cambias de dios al terminar un descanso largo."
       },
       {
         "nombre": "Chill Touch",
         "nivel": 0,
         "estado": "Truco",
         "fuente": "Dread Allegiance",
-        "notas": "Si tu alianza es con Myrkul."
+        "notas": "Myrkul: resistencia al daño necrótico (ya la tienes por ser Shadar-kai). Solo uno a la vez: cambias de dios al terminar un descanso largo."
       }
     ]
   },
@@ -197,7 +197,7 @@
   "consejos": [
     "Para matar rápido, busca siempre la ventaja: Steady Aim, atacar oculto o pegarte al enemigo que ya tiene a un aliado al lado.",
     "Bloodthirst te da un segundo Ataque Furtivo en la misma ronda, porque ocurre en el turno de otro. Quédate a 9 m del enemigo que tu party está a punto de dejar Ensangrentado.",
-    "Elige tu Dread Allegiance con el DM: la hoja lista los tres trucos, pero solo te corresponde el de tu dios."
+    "Dread Allegiance: al terminar cada descanso largo eliges dios (Bane, Bhaal o Myrkul) y tienes su resistencia y su truco hasta el siguiente. Myrkul repite la resistencia al necrótico que ya te da ser Shadar-kai, así que Bane (psíquico) o Bhaal (veneno) te protegen más. El truco usa INT."
   ],
   "recordatorios": [
     "Ataque Furtivo: +3d6 una vez por turno. Ojo: es por turno, no por ronda, así que en el turno de otro (con Bloodthirst o un ataque de oportunidad) puedes volver a hacerlo.",
