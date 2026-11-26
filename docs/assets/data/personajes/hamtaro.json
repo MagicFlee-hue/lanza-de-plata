@@ -466,13 +466,19 @@
       "nombre": "Undead Thralls (Animate Dead gratis)",
       "max": 1,
       "recupera": "Descanso largo",
-      "notas": "Lanzas Animate Dead sin gastar espacio, y cada vez que lo lanzas su nivel efectivo sube en 1."
+      "notas": "Lanzas Animate Dead sin gastar espacio, y cada vez que lo lanzas su nivel efectivo sube en 1. Con el libro de conjuros en la mano: Undead Fortitude (+10 PG a cada no muerto que crees o invoques) y Withering Strike (sus golpes hacen +5 necrótico)."
+    },
+    {
+      "nombre": "Grave Power (con el libro en la mano)",
+      "max": 1,
+      "recupera": "Otro",
+      "notas": "Grave Resilience: al usar Arcane Recovery bajas 1 nivel de Agotamiento. Overwhelming Necrosis: el daño de tus conjuros y rasgos de mago ignora la resistencia al necrótico."
     },
     {
       "nombre": "Harvest Undead",
       "max": 1,
-      "recupera": "Otro",
-      "notas": "Se activa justo después de quedar Ensangrentado (a la mitad de PG o menos) sin caer a 0. Revisa el texto del rasgo con el DM."
+      "recupera": "Otro (gasta tu reacción)",
+      "notas": "Justo después de quedar Ensangrentado sin caer a 0 PG, usas tu reacción para reducir a 0 PG a un no muerto que controles y veas, y recuperas 10 PG (tu nivel de mago)."
     },
     {
       "nombre": "Go for the Eyes",
@@ -502,6 +508,7 @@
   "recordatorios": [
     "CD de tus conjuros: 17. Ataque de conjuro: +9.",
     "Undead Vitality: cada vez que lanzas un conjuro de nigromancia con espacio, curas a uno de tus no muertos. Así mantienes vivos a tus esqueletos sin gastar acciones extra.",
+    "Con el libro de conjuros en la mano tus no muertos tienen +10 PG y +5 necrótico por golpe, y tus conjuros ignoran la resistencia al necrótico.",
     "Tu licencia de nigromancia permite como máximo 4 no muertos activos, cada uno con su brazalete azul.",
     "Concentración: solo una a la vez. Summon Undead, Hold Person, Hold Monster, Enervation y las invocaciones compiten entre sí. War Caster te da ventaja para mantenerla.",
     "Una sola reacción por ronda: Shield, Absorb Elements o Counterspell. Elige según lo que venga."
@@ -519,8 +526,8 @@
       "nombre": "Tus no muertos",
       "resumen": "una orden para todos con tu acción adicional",
       "cuando": "Animate Dead una vez gratis por descanso largo (Undead Thralls), y su nivel efectivo sube en 1.",
-      "tira": "Con tu acción adicional ordenas a todos los que estén a 18 m. Cada esqueleto o zombi ataca con su propio bloque.",
-      "ojo": "Animate Dead no pide concentración, así que puedes sumar una invocación o un Hold. Máximo 4 no muertos por tu licencia."
+      "tira": "Con tu acción adicional ordenas a todos los que estén a 18 m. Cada esqueleto o zombi ataca con su propio bloque y, si golpea, suma +5 necrótico (Withering Strike). Además, cada no muerto que creas o invocas tiene +10 PG (Undead Fortitude).",
+      "ojo": "Withering Strike y Undead Fortitude solo funcionan con tu libro de conjuros en la mano. Animate Dead no pide concentración. Máximo 4 no muertos por tu licencia."
     },
     {
       "nombre": "Curar a tus esqueletos",
@@ -528,6 +535,13 @@
       "cuando": "Cada vez que lanzas un conjuro de nigromancia gastando espacio (Enervation, Wither and Bloom, Summon Undead, Animate Dead…).",
       "tira": "Uno de tus no muertos recupera PG según tu rasgo (nivel del espacio + 5).",
       "ojo": "Es lo que dices olvidar: si eliges bien el conjuro, atacas y curas a tu esqueleto en la misma acción."
+    },
+    {
+      "nombre": "Harvest Undead",
+      "resumen": "sacrificar un no muerto para curarte",
+      "cuando": "Justo cuando quedas a la mitad de PG o menos sin caer a 0.",
+      "tira": "Con tu reacción, uno de tus no muertos que veas cae a 0 PG y tú recuperas 10 PG.",
+      "ojo": "Gasta tu reacción: ese turno ya no tendrás Shield ni Counterspell."
     },
     {
       "nombre": "Fireball y Enervation",
