@@ -33,23 +33,26 @@ Si tienes competencia con un arma experimental y el rasgo Weapon Mastery, puedes
 
 ## Dote: Sheriff
 
-*Dote única de Blackthunderpowder. Solo la gana quien completa su entrenamiento.*
+*Dote única de Blackthunderpowder. En todo el continente solo dos personas la tienen.*
 
-El ala de investigación del Bastión de Danerion forma a unos pocos tiradores de confianza para portar las armas experimentales dentro de las murallas y responder ante la milicia. La placa de Sheriff no se compra: se gana.
+El ala de investigación del Bastión de Danerion forma a muy pocos tiradores para portar las armas experimentales en nombre de Aaredale y responder ante la milicia. La placa de Sheriff no se compra ni se elige al subir de nivel: se gana.
 
 **Requisitos**
 
-- Nivel 4 o superior.
-- Competencia con al menos un arma experimental.
-- Completar el **entrenamiento de Sheriff** en el ala de investigación: 30 Días de Descanso y 1.000 po, con un instructor que apruebe el DM.
+- Nivel 8 o superior y competencia con al menos un arma experimental.
+- Una **hazaña con armas experimentales** que el Consejo de los 13 reconozca, y el aval de Vespera (Defensa Marcial).
+- Completar el **entrenamiento de Sheriff** en el ala de investigación: **400 Días de Descanso** y **50.000 po**, con un instructor que ya sea Sheriff. Al terminar, una prueba de Inteligencia (herramientas de hojalatero) CD 20 delante del instructor. Si falla, repite los últimos 50 Días de Descanso.
 
-Al terminar el entrenamiento puedes tomar esta dote cuando ganes una dote (por ejemplo, en lugar de un aumento de característica). Es única: no se puede tomar dos veces ni conseguir por otra vía.
+Al terminar puedes tomar esta dote cuando ganes una dote (por ejemplo, en lugar de un aumento de característica). Es única: no se puede tomar dos veces ni conseguir por otra vía.
 
 **Beneficios**
 
 - **Tirador experimental.** Tienes competencia con **todas** las armas de Blackthunderpowder: sumas tu bonificador de competencia a su Bonificador y a su daño, y reduces su Inestabilidad en 1.
 - **Pulso de Sheriff.** La Inestabilidad de tus armas experimentales baja 1 más (mínimo 1).
+- **Disparo de Sheriff.** Tus ataques con armas experimentales son críticos con 19 o 20.
+- **Dos manos, dos cañones.** Si llevas un arma experimental ligera en cada mano, una vez por turno, al hacer la acción de Atacar, puedes disparar también la otra como parte de esa acción.
 - **Recarga en caliente.** Una vez por turno, puedes hacer una recarga rápida sin tirar Inestabilidad.
+- **Mantenimiento de campo.** Si un arma experimental tuya fuera a romperse para siempre, en su lugar queda inservible hasta que la repares con herramientas de hojalatero durante un descanso largo.
 - **Desenfundar.** Mientras tengas un arma experimental en la mano, sumas tu bonificador de competencia a la iniciativa.
 - **La placa.** La milicia de Vespera te reconoce como Sheriff: la licencia de *Armas de pólvora* no te cuesta oro y tienes ventaja en las pruebas de Persuasión e Intimidación con la milicia.
 
