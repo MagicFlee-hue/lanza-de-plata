@@ -43,7 +43,7 @@
   "competencias": "Armas sencillas. Herramientas: alquimista, herborista, peletero y hojalatero.",
   "dotes": [
     "War Caster",
-    "Sheriff (dote de Blackthunderpowder)"
+    "Sheriff (dote única de Blackthunderpowder: competencia con todas las armas experimentales, menos Inestabilidad, recarga en caliente y +competencia a la iniciativa; ver la página de Blackthunderpowder)"
   ],
   "rasgos_especie": [
     "Visión en la oscuridad",
@@ -489,13 +489,13 @@
     {
       "nombre": "Wand of Binding",
       "max": 7,
-      "recupera": "Amanecer (1d6+1)",
+      "recupera": "Otro (1d6+1 por cada Día de Descanso)",
       "notas": "Gasta cargas para lanzar Hold Monster o Hold Person."
     },
     {
       "nombre": "Ring of Elemental Command (Fire)",
       "max": 5,
-      "recupera": "Amanecer (1d4+1)",
+      "recupera": "Otro (1d4+1 por cada Día de Descanso)",
       "notas": "Cargas para los conjuros del anillo."
     }
   ],

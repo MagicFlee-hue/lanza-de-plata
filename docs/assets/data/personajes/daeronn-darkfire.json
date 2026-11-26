@@ -563,8 +563,8 @@
     {
       "nombre": "Horn of Valhalla",
       "max": 1,
-      "recupera": "Otro (7 días)",
-      "notas": "Invoca guerreros berserker que luchan a tu lado. Después hay que esperar 7 días."
+      "recupera": "Otro (7 Días de Descanso)",
+      "notas": "Invoca guerreros berserker que luchan a tu lado. Después hay que esperar 7 Días de Descanso."
     }
   ],
   "descripcion": "Clérigo tiefling del Dominio de la Forja y artesano del Cuerpo de Aventureros, al que en Aaredale llaman «Portador de la Llama». Su meta: convertirse en el mayor maestro artesano del continente y usar su oficio para sostener a todos los expedicionarios.",
@@ -630,7 +630,7 @@
       "resumen": "refuerzos para una pelea difícil",
       "cuando": "En un combate grande o contra muchos enemigos.",
       "tira": "Tocas el cuerno con tu acción y aparecen guerreros berserker que luchan a tu lado.",
-      "ojo": "Después tienes que esperar 7 días para volver a usarlo."
+      "ojo": "Después tienes que esperar 7 Días de Descanso para volver a usarlo."
     }
   ]
 }

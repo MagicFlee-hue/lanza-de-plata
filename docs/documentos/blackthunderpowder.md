@@ -31,6 +31,28 @@ Si tienes competencia con un arma experimental y el rasgo Weapon Mastery, puedes
 | Blackthunderpowder Shotgun | Push |
 | Blackthunderpowder Machine Gun | Graze |
 
+## Dote: Sheriff
+
+*Dote única de Blackthunderpowder. Solo la gana quien completa su entrenamiento.*
+
+El ala de investigación del Bastión de Danerion forma a unos pocos tiradores de confianza para portar las armas experimentales dentro de las murallas y responder ante la milicia. La placa de Sheriff no se compra: se gana.
+
+**Requisitos**
+
+- Nivel 4 o superior.
+- Competencia con al menos un arma experimental.
+- Completar el **entrenamiento de Sheriff** en el ala de investigación: 30 Días de Descanso y 1.000 po, con un instructor que apruebe el DM.
+
+Al terminar el entrenamiento puedes tomar esta dote cuando ganes una dote (por ejemplo, en lugar de un aumento de característica). Es única: no se puede tomar dos veces ni conseguir por otra vía.
+
+**Beneficios**
+
+- **Tirador experimental.** Tienes competencia con **todas** las armas de Blackthunderpowder: sumas tu bonificador de competencia a su Bonificador y a su daño, y reduces su Inestabilidad en 1.
+- **Pulso de Sheriff.** La Inestabilidad de tus armas experimentales baja 1 más (mínimo 1).
+- **Recarga en caliente.** Una vez por turno, puedes hacer una recarga rápida sin tirar Inestabilidad.
+- **Desenfundar.** Mientras tengas un arma experimental en la mano, sumas tu bonificador de competencia a la iniciativa.
+- **La placa.** La milicia de Vespera te reconoce como Sheriff: la licencia de *Armas de pólvora* no te cuesta oro y tienes ventaja en las pruebas de Persuasión e Intimidación con la milicia.
+
 ## Propiedades
 
 Bonificador: Las armas de Blackthunderpowder pueden ser usadas por cualquier persona independientemente de su fuerza o destreza. Esta propiedad indica el bono a golpear del arma. Cargador: Indica la cantidad de ataques que se pueden realizar antes de recargar el arma. Tiempo de recarga rápido TRR: Indica la acción necesaria para recargar el arma. Necesitas una mano libre para poder hacerlo. Tiempo de recarga lento TRL: Indica la acción necesaria para recargar el arma. Necesitas una mano libre para poder hacerlo. Inestabilidad: siempre que hagas una recarga rápida o el arma reciba un golpe (como por ejemplo dejarla caer al suelo) deberás lanzar 1d20. En caso de sacar un resultado igual o inferior al valor de Inestabilidad del arma en este dado o en el dado de un attack roll, ésta estallará. Si el arma se encuentra a 10 pies del usuario, el usuario deberá realizar una salvación de Constitución DC=10+Bonificador, recibiendo la mitad de daño del arma en caso de salvar o su totalidad en caso de fallar. A mayores, si el arma es usado antes de aplicarle 2 recargas lentas en posesión de Tinker's Tools y vuelve a activar su Inestabilidad, se rompe, perdiéndose para siempre. Estos objetos mágicos son empleados como parte de la "Attack Action" en lugar de "Use a Magic Item". Cualquier feature o regla que te permitiese emplear un arma del PHB con las mismas propiedades con otro tipo de acción también te permite emplear estas armas. Si un arma BTP tiene una salvación asociada, ésta se calcula de la siguiente forma: DC BTP = 7 + Bonificador - Tier del Arma

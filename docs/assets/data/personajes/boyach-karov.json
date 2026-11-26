@@ -317,7 +317,7 @@
     {
       "nombre": "Clockwork Plate Armor",
       "max": 4,
-      "recupera": "Amanecer (1d4)",
+      "recupera": "Otro (1d4 por cada Día de Descanso)",
       "notas": "Al hacer una tirada de d20, gasta 1 carga para convertir el resultado en un 10."
     },
     {
@@ -399,7 +399,7 @@
       "resumen": "convertir una mala tirada en un 10",
       "cuando": "Cuando saques un d20 muy bajo en algo que importa, sobre todo una salvación.",
       "tira": "Gasta 1 carga: el d20 pasa a ser 10. Luego sumas tus bonos (con el Aura of Protection, +3 a todas tus salvaciones).",
-      "ojo": "Tiene 4 cargas y recupera 1d4 al amanecer."
+      "ojo": "Tiene 4 cargas y recupera 1d4 por cada Día de Descanso."
     }
   ]
 }
