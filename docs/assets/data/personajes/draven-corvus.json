@@ -1,0 +1,255 @@
+{
+  "jugador": "Sergio",
+  "nombre": "Draven Corvus",
+  "imagen": "draven-corvus.webp",
+  "especie": "Shadar-kai",
+  "trasfondo": "Mercenario Zhentarim (Zhentarim Mercenary)",
+  "clases": [
+    {
+      "clase": "Pícaro",
+      "subclase": "Scion of the Three",
+      "nivel": 5
+    }
+  ],
+  "pg_max": 40,
+  "ca": 16,
+  "velocidad": 30,
+  "iniciativa_extra": 0,
+  "caracteristicas": {
+    "FUE": 8,
+    "DES": 18,
+    "CON": 14,
+    "INT": 14,
+    "SAB": 12,
+    "CAR": 10
+  },
+  "salvaciones": [
+    "DES",
+    "INT"
+  ],
+  "habilidades": {
+    "Acrobacias": "Competente",
+    "Arcanos": "Competente",
+    "Intimidación": "Competente",
+    "Investigación": "Competente",
+    "Juego de Manos": "Pericia",
+    "Percepción": "Pericia",
+    "Sigilo": "Pericia"
+  },
+  "armadura": "Cuero tachonado (Studded Leather)",
+  "idiomas": [
+    "Común",
+    "Élfico",
+    "Jerga de ladrones",
+    "Infracomún"
+  ],
+  "competencias": "Armas sencillas y marciales con la propiedad Ligera o Sutil; armaduras ligeras. Herramientas: de ladrón, de falsificación y de envenenador.",
+  "dotes": [
+    "Zhentarim Ruffian",
+    "Zhentarim Tactics"
+  ],
+  "rasgos_especie": [
+    "Blessing of the Raven Queen",
+    "Visión en la oscuridad",
+    "Ascendencia feérica",
+    "Sentidos agudos",
+    "Resistencia al necrótico",
+    "Trance"
+  ],
+  "objetos": [],
+  "bendiciones": [],
+  "bastion": "Ninguno todavía",
+  "oro": "10 po",
+  "ataques": [
+    {
+      "nombre": "Dagger",
+      "car": "DES",
+      "ataque": "+7",
+      "dano": "1d4+4",
+      "tipo": "Perforante",
+      "maestria": "Nick",
+      "alcance": "1,5 m (arrojadiza 6/18 m)",
+      "notas": "Ligera y sutil: sirve para Ataque Furtivo."
+    },
+    {
+      "nombre": "Scimitar",
+      "car": "DES",
+      "ataque": "+7",
+      "dano": "1d6+4",
+      "tipo": "Cortante",
+      "maestria": "Nick",
+      "alcance": "1,5 m",
+      "notas": "Ligera y sutil."
+    },
+    {
+      "nombre": "Shortsword",
+      "car": "DES",
+      "ataque": "+7",
+      "dano": "1d6+4",
+      "tipo": "Perforante",
+      "maestria": "Vex",
+      "alcance": "1,5 m",
+      "notas": "Ligera y sutil."
+    },
+    {
+      "nombre": "Shortbow",
+      "car": "DES",
+      "ataque": "+7",
+      "dano": "1d6+4",
+      "tipo": "Perforante",
+      "maestria": "Vex",
+      "alcance": "24/96 m",
+      "notas": ""
+    },
+    {
+      "nombre": "Ataque Furtivo",
+      "car": "DES",
+      "ataque": "—",
+      "dano": "+3d6",
+      "tipo": "El del arma",
+      "maestria": "",
+      "alcance": "",
+      "notas": "Una vez por turno, con arma sutil o a distancia, si tienes ventaja o un aliado está a 1,5 m del objetivo."
+    }
+  ],
+  "conjuros": {
+    "car": "SAB",
+    "espacios": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lista": [
+      {
+        "nombre": "Minor Illusion",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Dread Allegiance",
+        "notas": "Si tu alianza es con Bane."
+      },
+      {
+        "nombre": "Blade Ward",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Dread Allegiance",
+        "notas": "Si tu alianza es con Bhaal."
+      },
+      {
+        "nombre": "Chill Touch",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Dread Allegiance",
+        "notas": "Si tu alianza es con Myrkul."
+      }
+    ]
+  },
+  "recursos": [
+    {
+      "nombre": "Bloodthirst",
+      "max": 2,
+      "recupera": "Descanso largo",
+      "notas": "Reacción: cuando un enemigo a 9 m queda Ensangrentado sin morir, te teletransportas a 1,5 m de él y haces un ataque cuerpo a cuerpo."
+    },
+    {
+      "nombre": "Blessing of the Raven Queen",
+      "max": 3,
+      "recupera": "Descanso largo",
+      "notas": "Acción adicional: te teletransportas hasta 9 m a un lugar que veas, y ganas resistencia a todo el daño hasta el inicio de tu siguiente turno."
+    },
+    {
+      "nombre": "Steady Aim",
+      "max": 1,
+      "recupera": "Otro (cada turno)",
+      "notas": "Acción adicional, si no te has movido: ventaja en tu siguiente ataque del turno. Tu velocidad queda en 0."
+    },
+    {
+      "nombre": "Uncanny Dodge",
+      "max": 1,
+      "recupera": "Otro (cada ronda)",
+      "notas": "Reacción: cuando un atacante que ves te golpea, recibes la mitad del daño."
+    },
+    {
+      "nombre": "Trance",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Al terminar tu trance ganas dos competencias con armas o herramientas a tu elección hasta tu siguiente descanso largo."
+    },
+    {
+      "nombre": "Versatile Mercenary",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Tras un descanso largo eliges una habilidad en la que seas competente y tienes pericia en ella hasta el siguiente descanso largo."
+    }
+  ],
+  "descripcion": "El menor de los hijos de la Reina Cuervo, bendecido por los dioses conocidos como los Tres Muertos. Camina la senda de la muerte y el destino: un recolector de almas y de memorias.",
+  "consejos": [
+    "Para matar rápido, busca siempre la ventaja: Steady Aim, atacar oculto o pegarte al enemigo que ya tiene a un aliado al lado.",
+    "Bloodthirst te da un segundo Ataque Furtivo en la misma ronda, porque ocurre en el turno de otro. Quédate a 9 m del enemigo que tu party está a punto de dejar Ensangrentado.",
+    "Elige tu Dread Allegiance con el DM: la hoja lista los tres trucos, pero solo te corresponde el de tu dios."
+  ],
+  "recordatorios": [
+    "Ataque Furtivo: +3d6 una vez por turno. Ojo: es por turno, no por ronda, así que en el turno de otro (con Bloodthirst o un ataque de oportunidad) puedes volver a hacerlo.",
+    "Con dos armas Nick (daga o cimitarra), el ataque extra va dentro de la acción de Atacar: tu acción adicional queda libre.",
+    "Tu acción adicional: Cunning Action (Correr, Destrabarse u Ocultarse), Steady Aim o el teletransporte de la Reina Cuervo. Elige una por turno.",
+    "Tu reacción: Bloodthirst o Uncanny Dodge. Solo una por ronda.",
+    "CD de Cunning Strike: 15."
+  ],
+  "proximo_nivel": "Seguir como pícaro, una clase que nunca había jugado, y ver hasta dónde llega. Con su subclase, unos niveles de clérigo no le caerían mal; quiere evitar el cliché del pícaro típico.",
+  "guia_combate": [
+    {
+      "nombre": "Ataque Furtivo",
+      "resumen": "tu fuente principal de daño",
+      "cuando": "Una vez por turno, con arma sutil o a distancia, si tienes ventaja o un aliado está a 1,5 m del objetivo (y tú no tienes desventaja).",
+      "tira": "Tu ataque normal (1d20+7) y, si acierta, el daño del arma + 3d6.",
+      "ojo": "Si fallas el primer ataque, intenta el Ataque Furtivo con el segundo (el de Nick)."
+    },
+    {
+      "nombre": "Dos armas con Nick",
+      "resumen": "dos ataques sin gastar tu acción adicional",
+      "cuando": "Con una daga o cimitarra en cada mano.",
+      "tira": "Acción de Atacar: un ataque con cada arma (1d20+7). Gracias a Nick, el segundo va dentro de la misma acción y suma tu DES al daño.",
+      "ojo": "Tu acción adicional queda libre para Cunning Action, Steady Aim o el teletransporte."
+    },
+    {
+      "nombre": "Cunning Strike",
+      "resumen": "cambiar dados de Furtivo por efectos",
+      "cuando": "Al acertar un Ataque Furtivo.",
+      "tira": "Quitas 1d6 del Furtivo para elegir un efecto: Poison (salvación de CON CD 15 o envenenado), Trip (salvación de DES CD 15 o derribado) o Withdraw (te mueves la mitad de tu velocidad sin provocar ataques de oportunidad).",
+      "ojo": "Poison necesita tu kit de envenenador."
+    },
+    {
+      "nombre": "Bloodthirst",
+      "resumen": "un segundo Furtivo en la ronda",
+      "cuando": "Con tu reacción, cuando un enemigo a 9 m queda Ensangrentado (a la mitad de PG o menos) y no muere.",
+      "tira": "Te teletransportas a 1,5 m de él y haces un ataque cuerpo a cuerpo: 1d20+7. Si cumples las condiciones, vuelve a sumar Ataque Furtivo (+3d6).",
+      "ojo": "Gasta tu reacción, así que ese turno no tendrás Uncanny Dodge. 2 usos por descanso largo."
+    },
+    {
+      "nombre": "Steady Aim",
+      "resumen": "ventaja sin depender de nadie",
+      "cuando": "Antes de atacar, si no te has movido en el turno.",
+      "tira": "Acción adicional: ventaja en tu siguiente ataque del turno. Con ventaja tienes Ataque Furtivo seguro.",
+      "ojo": "Tu velocidad queda en 0 ese turno: úsalo cuando ya estés en posición."
+    },
+    {
+      "nombre": "Blessing of the Raven Queen",
+      "resumen": "teletransporte y resistencia",
+      "cuando": "Para entrar o salir de una pelea, o cuando te van a castigar.",
+      "tira": "Acción adicional: hasta 9 m de teletransporte, y resistencia a todo el daño hasta el inicio de tu siguiente turno.",
+      "ojo": "3 usos por descanso largo. Compite con Steady Aim y Cunning Action por tu acción adicional."
+    },
+    {
+      "nombre": "Uncanny Dodge",
+      "resumen": "partir el daño a la mitad",
+      "cuando": "Con tu reacción, cuando un atacante que ves te golpea.",
+      "tira": "Recibes la mitad del daño de ese ataque.",
+      "ojo": "Comparte la reacción con Bloodthirst."
+    }
+  ]
+}
