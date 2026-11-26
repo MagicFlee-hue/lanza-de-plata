@@ -40,8 +40,8 @@ El ala de investigación del Bastión de Danerion forma a muy pocos tiradores pa
 **Requisitos**
 
 - Nivel 8 o superior y competencia con al menos un arma experimental.
-- Una **hazaña con armas experimentales** que el Consejo de los 13 reconozca, y el aval de Vespera (Defensa Marcial).
-- Completar el **entrenamiento de Sheriff** en el ala de investigación: **400 Días de Descanso** y **50.000 po**, con un instructor que ya sea Sheriff. Al terminar, una prueba de Inteligencia (herramientas de hojalatero) CD 20 delante del instructor. Si falla, repite los últimos 50 Días de Descanso.
+- Un **permiso especial** para aprenderla. Solo se concede por **hazañas**: el Consejo de los 13 y Vespera (Defensa Marcial) deben reconocer lo que hiciste con armas experimentales.
+- Completar el **entrenamiento de Sheriff** en el ala de investigación: **150 Días de Descanso** y **50.000 po**, con un instructor que ya sea Sheriff.
 
 Al terminar puedes tomar esta dote cuando ganes una dote (por ejemplo, en lugar de un aumento de característica). Es única: no se puede tomar dos veces ni conseguir por otra vía.
 
