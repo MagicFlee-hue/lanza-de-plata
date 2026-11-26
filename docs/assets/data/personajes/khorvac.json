@@ -1,0 +1,216 @@
+{
+  "jugador": "Sergio",
+  "nombre": "Khorvac",
+  "imagen": "khorvac.webp",
+  "especie": "Goliath (ascendencia de gigante de fuego)",
+  "trasfondo": "Soldado (Soldier)",
+  "clases": [
+    {
+      "clase": "Guerrero",
+      "subclase": "Echo Knight",
+      "nivel": 9
+    }
+  ],
+  "pg_max": 118,
+  "ca": 23,
+  "velocidad": 35,
+  "iniciativa_extra": 0,
+  "caracteristicas": {
+    "FUE": 20,
+    "DES": 10,
+    "CON": 18,
+    "INT": 12,
+    "SAB": 13,
+    "CAR": 8
+  },
+  "salvaciones": [
+    "FUE",
+    "CON"
+  ],
+  "habilidades": {
+    "Atletismo": "Competente",
+    "Investigación": "Competente",
+    "Percepción": "Competente",
+    "Persuasión": "Competente"
+  },
+  "armadura": "Adamantine Armor +1 (placas) y Bulette Plate Shield +2",
+  "idiomas": [
+    "Común",
+    "Gigante",
+    "Infracomún",
+    "Primordial"
+  ],
+  "competencias": "Armas sencillas y marciales; armaduras ligeras, medias y pesadas; escudos. Herramientas: carpintero, joyero, peletero, hojalatero, tallista y navegación.",
+  "dotes": [
+    "Savage Attacker",
+    "Sentinel",
+    "Purple Dragon Commandant",
+    "Estilo de combate: Protection"
+  ],
+  "rasgos_especie": [
+    "Ascendencia de gigante: Fire's Burn",
+    "Large Form",
+    "Powerful Build"
+  ],
+  "objetos": [
+    {
+      "nombre": "Adamantine Armor +1",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Flame Tongue (espada larga)",
+      "sintonizado": true
+    },
+    {
+      "nombre": "Blood Axe (hacha de batalla)",
+      "sintonizado": true
+    },
+    {
+      "nombre": "Bulette Plate Shield +2",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Bag of Holding",
+      "sintonizado": false
+    },
+    {
+      "nombre": "Ring of Swimming",
+      "sintonizado": false
+    }
+  ],
+  "bendiciones": [],
+  "bastion": "Ninguno todavía",
+  "oro": "25.700 po",
+  "ataques": [
+    {
+      "nombre": "Flame Tongue (espada larga)",
+      "car": "FUE",
+      "ataque": "+9",
+      "dano": "1d8+5 (1d10+5 a dos manos) + 2d6 fuego encendida",
+      "tipo": "Cortante",
+      "maestria": "Sap",
+      "alcance": "1,5 m",
+      "notas": "Enciéndela con tu acción adicional para sumar 2d6 de fuego."
+    },
+    {
+      "nombre": "Blood Axe (hacha de batalla)",
+      "car": "FUE",
+      "ataque": "+11",
+      "dano": "1d8+7 (1d10+7 a dos manos) + 1d6 necrótico",
+      "tipo": "Cortante",
+      "maestria": "Topple",
+      "alcance": "1,5 m",
+      "notas": "El +11 implica un arma +2, así que el daño también suma +2. Verificar con el DM."
+    }
+  ],
+  "conjuros": {},
+  "recursos": [
+    {
+      "nombre": "Second Wind",
+      "max": 3,
+      "recupera": "Descanso corto (1) / largo (todos)",
+      "notas": "Acción adicional: recuperas 1d10+9 PG. Con Tactical Shift te mueves la mitad de tu velocidad sin provocar ataques de oportunidad. Con Tactical Mind sumas 1d10 a una prueba fallida."
+    },
+    {
+      "nombre": "Action Surge",
+      "max": 1,
+      "recupera": "Descanso corto",
+      "notas": "Una acción extra en tu turno (no sirve para la acción de Magia)."
+    },
+    {
+      "nombre": "Indomitable",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Repites una salvación fallida y sumas +9 (tu nivel de guerrero)."
+    },
+    {
+      "nombre": "Unleash Incarnation",
+      "max": 4,
+      "recupera": "Descanso largo",
+      "notas": "Al hacer la acción de Atacar, un ataque cuerpo a cuerpo extra desde la posición de tu eco."
+    },
+    {
+      "nombre": "Fire's Burn",
+      "max": 4,
+      "recupera": "Descanso largo",
+      "notas": "Al dañar con un ataque, +1d10 de fuego."
+    },
+    {
+      "nombre": "Large Form",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Acción adicional: 10 minutos tamaño Grande, ventaja en pruebas de Fuerza y +3 m de velocidad."
+    },
+    {
+      "nombre": "Bulette Plate Shield +2",
+      "max": 3,
+      "recupera": "Descanso largo",
+      "notas": "Reacción: devuelves la mitad del daño recibido."
+    }
+  ],
+  "descripcion": "Khorvac es un guerrero goliath del linaje de los gigantes de fuego. Busca enfrentarse a los mayores desafíos y ser reconocido como el mejor y el más fuerte de los guerreros, antes de probarse ante los propios gigantes.",
+  "consejos": [
+    "Para ser una muralla, juega cerca de tus aliados: Protection y Sentinel castigan a quien ataque a otro que no seas tú.",
+    "Tu eco multiplica tu alcance: ponlo detrás del enemigo y ataca desde ahí, o úsalo para cubrir una puerta.",
+    "En el primer turno de una pelea grande, Action Surge con Unleash Incarnation te da hasta 6 ataques."
+  ],
+  "recordatorios": [
+    "Tienes 2 ataques por acción de Atacar, y cada golpe aplica la maestría de esa arma.",
+    "Tactical Master (nivel 9): al golpear puedes cambiar la maestría del arma por Push, Sap o Slow para ese ataque.",
+    "Tu acción adicional es la más disputada: eco, encender la Flame Tongue, Large Form o Second Wind. Decide antes de tu turno.",
+    "Una sola reacción por ronda: Protection, Sentinel, ataque de oportunidad o el escudo de bulette.",
+    "Indomitable: si fallas una salvación importante, repítela con +9."
+  ],
+  "proximo_nivel": "Convertirlo en un guerrero solido, una muralla impenetrable,un referente de fuerza y poder.",
+  "guia_combate": [
+    {
+      "nombre": "Ataque Extra y maestrías",
+      "resumen": "cuántas maestrías puedes usar por turno",
+      "cuando": "En cada acción de Atacar.",
+      "tira": "Dos ataques: 1d20+9 con la Flame Tongue o 1d20+11 con la Blood Axe. Cada golpe que acierta aplica la maestría del arma: Sap (el enemigo tiene desventaja en su siguiente ataque) o Topple (salvación de CON CD 17 o queda derribado).",
+      "ojo": "No hay límite por turno: cada golpe aplica la maestría del arma que usaste. Con Tactical Master puedes cambiarla por Push, Sap o Slow en ese golpe."
+    },
+    {
+      "nombre": "Tu eco",
+      "resumen": "atacar desde dos lugares",
+      "cuando": "Al inicio del combate, con tu acción adicional (Manifest Echo).",
+      "tira": "El eco aparece a 4,5 m. Puedes atacar desde su posición, cambiar de lugar con él (15 pies de movimiento) y hacer ataques de oportunidad desde donde esté. Unleash Incarnation: +1 ataque cuerpo a cuerpo desde el eco cada vez que haces la acción de Atacar (4 usos).",
+      "ojo": "El eco tiene CA 18 y 1 PG: si lo golpean, desaparece."
+    },
+    {
+      "nombre": "Action Surge",
+      "resumen": "el turno grande",
+      "cuando": "Contra el enemigo más peligroso, o para terminar la pelea rápido.",
+      "tira": "Repites la acción de Atacar: otros 2 ataques, y con Unleash Incarnation uno más.",
+      "ojo": "Se recupera en un descanso corto: no lo guardes demasiado."
+    },
+    {
+      "nombre": "Daño extra",
+      "resumen": "fuego por todas partes",
+      "cuando": "En cualquier golpe.",
+      "tira": "Flame Tongue encendida: +2d6 fuego. Fire's Burn: +1d10 fuego al dañar (4 usos). Savage Attacker: una vez por turno tiras dos veces los dados de daño del arma y te quedas con el mejor.",
+      "ojo": "Encender la espada gasta tu acción adicional: hazlo antes de la pelea si puedes."
+    },
+    {
+      "nombre": "Protection y Sentinel",
+      "resumen": "la muralla",
+      "cuando": "Cuando un enemigo ataca a un aliado que está a 1,5 m de ti.",
+      "tira": "Protection: con tu reacción y escudo, el ataque tiene desventaja (y todos los demás contra ese aliado hasta tu siguiente turno). Sentinel: tus ataques de oportunidad dejan al enemigo con velocidad 0, y puedes atacar a quien ataque a un aliado a tu lado.",
+      "ojo": "Solo una reacción por ronda: elige entre proteger o golpear."
+    },
+    {
+      "nombre": "Second Wind",
+      "resumen": "curarte y moverte",
+      "cuando": "Cuando estás bajo de PG o rodeado.",
+      "tira": "Acción adicional: 1d10+9 PG. Con Tactical Shift te mueves la mitad de tu velocidad sin provocar ataques de oportunidad.",
+      "ojo": "Tienes 3 usos y recuperas 1 en cada descanso corto. También sirven para Tactical Mind fuera del combate."
+    },
+    {
+      "nombre": "Large Form",
+      "resumen": "hacerte gigante",
+      "cuando": "Al inicio de una pelea larga, una vez por descanso largo.",
+      "tira": "Acción adicional: durante 10 minutos eres Grande, tienes ventaja en pruebas de Fuerza (agarrar, empujar) y +3 m de velocidad.",
+      "ojo": "Compite con el eco y la espada por tu acción adicional."
+    }
+  ]
+}
