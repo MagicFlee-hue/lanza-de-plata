@@ -70,10 +70,11 @@
       {
         "clase": "Bardo",
         "subclase": "Colegio del Saber",
-        "nivel": 8
+        "nivel": 9
       }
     ],
-    "estado": "Activo"
+    "estado": "Activo",
+    "imagen": "killian.webp"
   },
   {
     "id": "hamtaro",

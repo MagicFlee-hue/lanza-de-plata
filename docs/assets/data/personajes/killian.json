@@ -1,0 +1,467 @@
+{
+  "jugador": "Laura Gil",
+  "nombre": "Killian Boraez",
+  "imagen": "killian.webp",
+  "especie": "Elfo (Alto elfo)",
+  "trasfondo": "Sabio (Sage)",
+  "clases": [
+    {
+      "clase": "Bardo",
+      "subclase": "Colegio del Saber",
+      "nivel": 9
+    }
+  ],
+  "pg_max": 66,
+  "ca": 15,
+  "velocidad": 30,
+  "iniciativa_extra": 0,
+  "caracteristicas": {
+    "FUE": 10,
+    "DES": 12,
+    "CON": 14,
+    "INT": 14,
+    "SAB": 14,
+    "CAR": 18
+  },
+  "salvaciones": [
+    "DES",
+    "CAR"
+  ],
+  "habilidades": {
+    "Arcanos": "Competente",
+    "Historia": "Competente",
+    "Interpretación": "Pericia",
+    "Investigación": "Pericia",
+    "Medicina": "Competente",
+    "Percepción": "Competente",
+    "Perspicacia": "Competente",
+    "Persuasión": "Pericia",
+    "Supervivencia": "Pericia"
+  },
+  "armadura": "Coraza de tiburón terrestre (verificar competencia: el bardo solo es competente con armadura ligera)",
+  "idiomas": [
+    "Común",
+    "Élfico",
+    "Enano"
+  ],
+  "competencias": "Armas sencillas; armaduras ligeras. Instrumentos: violín, dulcémele, flauta, arpa y laúd (aprendiendo, 30 %). Herramientas de calígrafo.",
+  "dotes": [
+    "Magic Initiate (Wizard)",
+    "War Caster"
+  ],
+  "rasgos_especie": [
+    "Visión en la oscuridad",
+    "Linaje élfico (Alto elfo)",
+    "Ascendencia feérica",
+    "Sentidos agudos",
+    "Trance"
+  ],
+  "objetos": [
+    {
+      "nombre": "Instrument of the Bards: Doss Lute",
+      "sintonizado": true
+    },
+    {
+      "nombre": "Coraza de tiburón terrestre",
+      "sintonizado": true
+    },
+    {
+      "nombre": "Staff of Swarming Insects",
+      "sintonizado": true
+    },
+    {
+      "nombre": "Brazier of Commanding Fire Elementals",
+      "sintonizado": false
+    }
+  ],
+  "bendiciones": [],
+  "bastion": "Ninguno todavía",
+  "oro": "11.898 po y 6 pp",
+  "ataques": [
+    {
+      "nombre": "Dagger",
+      "car": "DES",
+      "ataque": "+5",
+      "dano": "1d4+1",
+      "tipo": "Perforante",
+      "maestria": "",
+      "alcance": "1,5 m (arrojadiza 6/18 m)",
+      "notas": "Ligera y sutil."
+    },
+    {
+      "nombre": "Shortbow",
+      "car": "DES",
+      "ataque": "+5",
+      "dano": "1d6+1",
+      "tipo": "Perforante",
+      "maestria": "",
+      "alcance": "24/96 m",
+      "notas": ""
+    },
+    {
+      "nombre": "Shortsword",
+      "car": "DES",
+      "ataque": "+1",
+      "dano": "1d6+1",
+      "tipo": "Perforante",
+      "maestria": "",
+      "alcance": "1,5 m",
+      "notas": "Arma marcial: el bardo no es competente, así que no suma competencia."
+    },
+    {
+      "nombre": "Arpa (daño necrótico)",
+      "car": "CAR",
+      "ataque": "Salvación de SAB (CD 16)",
+      "dano": "4d8",
+      "tipo": "Necrótico",
+      "maestria": "",
+      "alcance": "",
+      "notas": "Verificar con el DM: CD, alcance y cuántas veces se puede usar."
+    }
+  ],
+  "conjuros": {
+    "car": "CAR",
+    "espacios": [
+      4,
+      3,
+      3,
+      3,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "lista": [
+      {
+        "nombre": "Mind Sliver",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "High Elf Lineage",
+        "notas": "El alto elfo da Prestidigitation, pero puedes cambiarlo por otro truco de mago tras un descanso largo."
+      },
+      {
+        "nombre": "Fire Bolt",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Magic Initiate (Wizard)",
+        "notas": ""
+      },
+      {
+        "nombre": "Ray of Frost",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Magic Initiate (Wizard)",
+        "notas": ""
+      },
+      {
+        "nombre": "Vicious Mockery",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "True Strike",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Starry Wisp",
+        "nivel": 0,
+        "estado": "Truco",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Detect Magic",
+        "nivel": 1,
+        "estado": "Siempre preparado",
+        "fuente": "High Elf Lineage",
+        "notas": "Una vez por descanso largo sin espacio de conjuro."
+      },
+      {
+        "nombre": "Witch Bolt",
+        "nivel": 1,
+        "estado": "Siempre preparado",
+        "fuente": "Magic Initiate (Wizard)",
+        "notas": "Una vez por descanso largo sin espacio de conjuro."
+      },
+      {
+        "nombre": "Dissonant Whispers",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Bane",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Healing Word",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Comprehend Languages",
+        "nivel": 1,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Misty Step",
+        "nivel": 2,
+        "estado": "Siempre preparado",
+        "fuente": "High Elf Lineage",
+        "notas": "Una vez por descanso largo sin espacio de conjuro."
+      },
+      {
+        "nombre": "Enhance Ability",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Mind Spike",
+        "nivel": 2,
+        "estado": "Siempre preparado",
+        "fuente": "Magical Discoveries (Colegio del Saber)",
+        "notas": "No cuenta en tus conjuros preparados."
+      },
+      {
+        "nombre": "Phantasmal Force",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Shadow Blade",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Libro del Beholder (Moria)",
+        "notas": "Una vez por semana sin gastar espacio de conjuro. También puedes lanzarlo con espacios normales."
+      },
+      {
+        "nombre": "Dragon's Breath",
+        "nivel": 2,
+        "estado": "Preparado",
+        "fuente": "Libro del Beholder (Moria)",
+        "notas": "Una vez por semana sin gastar espacio de conjuro. También puedes lanzarlo con espacios normales."
+      },
+      {
+        "nombre": "Speak with Dead",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Pergamino comprado a Yusuf",
+        "notas": "Verificar con el DM: el pergamino hablaba de un conjuro de nivel 2 aleatorio. Speak with Dead es de nivel 3 y ya está en la lista del bardo."
+      },
+      {
+        "nombre": "Leomund's Tiny Hut",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Spirit Guardians",
+        "nivel": 3,
+        "estado": "Siempre preparado",
+        "fuente": "Magical Discoveries (Colegio del Saber)",
+        "notas": "No cuenta en tus conjuros preparados."
+      },
+      {
+        "nombre": "Mass Healing Word",
+        "nivel": 3,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Phantasmal Killer",
+        "nivel": 4,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Fount of Moonlight",
+        "nivel": 4,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Polymorph",
+        "nivel": 4,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": ""
+      },
+      {
+        "nombre": "Steel Wind Strike",
+        "nivel": 4,
+        "estado": "Preparado",
+        "fuente": "Libro del Beholder (Moria)",
+        "notas": "Una vez por semana sin gastar espacio de conjuro. También puedes lanzarlo con espacios normales."
+      },
+      {
+        "nombre": "Teleportation Circle",
+        "nivel": 5,
+        "estado": "Preparado",
+        "fuente": "Bardo",
+        "notas": "Conozco las runas de los circulos de Aaredale y Moria"
+      }
+    ]
+  },
+  "recursos": [
+    {
+      "nombre": "Inspiración Bárdica (d8)",
+      "max": 4,
+      "recupera": "Descanso corto",
+      "notas": "Acción adicional: das un d8 a un aliado a 18 m. Lo suma a una prueba d20 que falle. También alimenta Cutting Words."
+    },
+    {
+      "nombre": "Cutting Words",
+      "max": 0,
+      "recupera": "Otro (gasta Inspiración Bárdica)",
+      "notas": "Reacción: resta tu dado de Inspiración a una tirada de daño, o a un ataque o prueba de característica que acaba de acertar. No sirve contra salvaciones."
+    },
+    {
+      "nombre": "Countercharm",
+      "max": 1,
+      "recupera": "Otro (cada ronda, usa tu reacción)",
+      "notas": "Cuando alguien a 9 m falla una salvación contra Hechizado o Asustado, puede repetirla con ventaja."
+    },
+    {
+      "nombre": "High Elf Lineage: Detect Magic",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Sin espacio de conjuro."
+    },
+    {
+      "nombre": "High Elf Lineage: Misty Step",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Sin espacio de conjuro."
+    },
+    {
+      "nombre": "Magic Initiate: Witch Bolt",
+      "max": 1,
+      "recupera": "Descanso largo",
+      "notas": "Sin espacio de conjuro."
+    },
+    {
+      "nombre": "Libro del Beholder: Shadow Blade",
+      "max": 1,
+      "recupera": "Otro (una vez por semana)",
+      "notas": "Sin espacio de conjuro."
+    },
+    {
+      "nombre": "Libro del Beholder: Dragon's Breath",
+      "max": 1,
+      "recupera": "Otro (una vez por semana)",
+      "notas": "Sin espacio de conjuro."
+    },
+    {
+      "nombre": "Libro del Beholder: Steel Wind Strike",
+      "max": 1,
+      "recupera": "Otro (una vez por semana)",
+      "notas": "Sin espacio de conjuro."
+    },
+    {
+      "nombre": "Staff of Swarming Insects",
+      "max": 10,
+      "recupera": "Otro (1d6+4 por cada Día de Descanso)",
+      "notas": "Cargas para Giant Insect, Insect Plague o la nube de insectos."
+    },
+    {
+      "nombre": "Brazier of Commanding Fire Elementals",
+      "max": 1,
+      "recupera": "Otro (1 por cada Día de Descanso)",
+      "notas": "Invoca un elemental de fuego."
+    },
+    {
+      "nombre": "Doss Lute",
+      "max": 1,
+      "recupera": "Otro (cada conjuro, 1 por cada Día de Descanso)",
+      "notas": "Cada conjuro del laúd se puede lanzar una vez."
+    }
+  ],
+  "descripcion": "Elfo solar que proviene de una familia de magos. Quiere estudiar magia que permita recuperar historias y canciones antiguas ya olvidadas.",
+  "consejos": [
+    "Tu turno simple: ¿alguien cayó? Healing Word (acción adicional) y lo levantas. Si no, mira si tienes una concentración activa; si no, lanza una (Spirit Guardians, Bane o Phantasmal Force). Si ya tienes una, ataca con un truco o da Inspiración Bárdica.",
+    "Guarda siempre tu reacción para Cutting Words: es tu mejor jugada defensiva. Úsala cuando el enemigo acierte un golpe fuerte a un aliado.",
+    "Fuera de combate brillas: tienes Pericia en Persuasión (+12) e Interpretación (+12). Habla tú en las negociaciones.",
+    "Mind Spike y Spirit Guardians vienen de Magical Discoveries y no cuentan entre tus 14 conjuros preparados: aún puedes preparar 2 conjuros más."
+  ],
+  "recordatorios": [
+    "Solo una concentración a la vez: Spirit Guardians, Bane, Phantasmal Force, Phantasmal Killer, Polymorph, Witch Bolt, Shadow Blade y Fount of Moonlight se pisan entre sí.",
+    "War Caster: ventaja en las salvaciones para mantener la concentración.",
+    "Cutting Words no sirve contra salvaciones: solo ataques, pruebas de característica y daño.",
+    "Jack of All Trades: +2 a las pruebas de característica en las que no eres competente.",
+    "CD de conjuros 16 · ataque de conjuro +8."
+  ],
+  "proximo_nivel": "Quiere multiclasear con artífice: Killian busca revivir melodías antiguas y, con el tiempo, crear instrumentos mágicos que produzcan melodías nuevas. Nivel 10 de bardo le daría el d10 de Inspiración y otra Magical Discovery.",
+  "guia_combate": [
+    {
+      "nombre": "Inspiración Bárdica",
+      "resumen": "un dado extra para un aliado",
+      "cuando": "Con tu acción adicional, a un aliado a 18 m.",
+      "tira": "El aliado guarda un d8. Si falla una prueba d20 (ataque, salvación o prueba), lo suma después de ver el resultado.",
+      "ojo": "4 usos; se recuperan con descanso corto o largo. Compite con Healing Word por tu acción adicional."
+    },
+    {
+      "nombre": "Cutting Words",
+      "resumen": "quitarle el éxito al enemigo",
+      "cuando": "Con tu reacción, cuando una criatura a 18 m hace una tirada de daño, o acierta un ataque o una prueba de característica.",
+      "tira": "Gastas una Inspiración Bárdica, tiras 1d8 y lo restas de su tirada. Puede convertir un golpe en un fallo.",
+      "ojo": "No funciona contra salvaciones. Gasta tu reacción."
+    },
+    {
+      "nombre": "Healing Word",
+      "resumen": "levantar a un caído",
+      "cuando": "Con tu acción adicional, a una criatura a 18 m que esté a 0 PG.",
+      "tira": "Cura 2d4+4. Mass Healing Word (nivel 3) cura hasta a 6 criaturas a la vez.",
+      "ojo": "Es mejor levantar a alguien a 0 PG que curar a quien está herido."
+    },
+    {
+      "nombre": "Spirit Guardians",
+      "resumen": "aura de daño constante",
+      "cuando": "Al inicio del combate, con los enemigos cerca.",
+      "tira": "Concentración. Aura de 4,5 m: los enemigos hacen salvación de SAB (CD 16) o reciben 3d8 de daño radiante o necrótico (mitad si salvan) y van a mitad de velocidad.",
+      "ojo": "Quédate cerca de los enemigos pero no en primera fila."
+    },
+    {
+      "nombre": "Phantasmal Killer y Dissonant Whispers",
+      "resumen": "daño psíquico con control",
+      "cuando": "Contra un enemigo peligroso.",
+      "tira": "Phantasmal Killer: salvación de SAB o 4d10 psíquico y desventaja. Dissonant Whispers: salvación de SAB o 3d6 psíquico y huye usando su reacción.",
+      "ojo": "Phantasmal Killer es concentración. Dissonant Whispers no."
+    },
+    {
+      "nombre": "Polymorph",
+      "resumen": "sacar del combate a la amenaza más grande",
+      "cuando": "Cuando un enemigo fuerte domina la pelea, o un aliado va a caer.",
+      "tira": "Salvación de SAB (CD 16) o el enemigo se convierte en un animal inofensivo. En un aliado, lo conviertes en una bestia grande con PG nuevos.",
+      "ojo": "Concentración. Si el enemigo es un cambiaformas no funciona."
+    },
+    {
+      "nombre": "Countercharm",
+      "resumen": "rescatar a un aliado del miedo o el hechizo",
+      "cuando": "Cuando un aliado a 9 m falla una salvación contra Hechizado o Asustado.",
+      "tira": "Usas tu reacción y repite la salvación con ventaja.",
+      "ojo": "Compite con Cutting Words por tu reacción."
+    }
+  ]
+}
