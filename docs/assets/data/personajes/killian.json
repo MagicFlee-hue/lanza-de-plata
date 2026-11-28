@@ -38,7 +38,7 @@
     "Persuasión": "Pericia",
     "Supervivencia": "Pericia"
   },
-  "armadura": "Coraza de tiburón terrestre (verificar competencia: el bardo solo es competente con armadura ligera)",
+  "armadura": "Coraza de tiburón terrestre: el bardo no es competente con ella; mientras la lleves puesta no puedes lanzar conjuros.",
   "idiomas": [
     "Común",
     "Élfico",
@@ -116,7 +116,7 @@
       "tipo": "Necrótico",
       "maestria": "",
       "alcance": "",
-      "notas": "Verificar con el DM: CD, alcance y cuántas veces se puede usar."
+      "notas": "La CD es la misma de tus conjuros (16)."
     }
   ],
   "conjuros": {
@@ -250,14 +250,14 @@
         "nivel": 2,
         "estado": "Preparado",
         "fuente": "Libro del Beholder (Moria)",
-        "notas": "Una vez por semana sin gastar espacio de conjuro. También puedes lanzarlo con espacios normales."
+        "notas": "Gratis (sin espacio de conjuro) una vez; se recarga con 7 Días de Descanso. También puedes lanzarlo con espacios normales."
       },
       {
         "nombre": "Dragon's Breath",
         "nivel": 2,
         "estado": "Preparado",
         "fuente": "Libro del Beholder (Moria)",
-        "notas": "Una vez por semana sin gastar espacio de conjuro. También puedes lanzarlo con espacios normales."
+        "notas": "Gratis (sin espacio de conjuro) una vez; se recarga con 7 Días de Descanso. También puedes lanzarlo con espacios normales."
       },
       {
         "nombre": "Speak with Dead",
@@ -313,7 +313,7 @@
         "nivel": 4,
         "estado": "Preparado",
         "fuente": "Libro del Beholder (Moria)",
-        "notas": "Una vez por semana sin gastar espacio de conjuro. También puedes lanzarlo con espacios normales."
+        "notas": "Gratis (sin espacio de conjuro) una vez; se recarga con 7 Días de Descanso. También puedes lanzarlo con espacios normales."
       },
       {
         "nombre": "Teleportation Circle",
@@ -364,20 +364,20 @@
     {
       "nombre": "Libro del Beholder: Shadow Blade",
       "max": 1,
-      "recupera": "Otro (una vez por semana)",
-      "notas": "Sin espacio de conjuro."
+      "recupera": "Otro (7 Días de Descanso)",
+      "notas": "Sin espacio de conjuro. Se recarga con 7 Días de Descanso."
     },
     {
       "nombre": "Libro del Beholder: Dragon's Breath",
       "max": 1,
-      "recupera": "Otro (una vez por semana)",
-      "notas": "Sin espacio de conjuro."
+      "recupera": "Otro (7 Días de Descanso)",
+      "notas": "Sin espacio de conjuro. Se recarga con 7 Días de Descanso."
     },
     {
       "nombre": "Libro del Beholder: Steel Wind Strike",
       "max": 1,
-      "recupera": "Otro (una vez por semana)",
-      "notas": "Sin espacio de conjuro."
+      "recupera": "Otro (7 Días de Descanso)",
+      "notas": "Sin espacio de conjuro. Se recarga con 7 Días de Descanso."
     },
     {
       "nombre": "Staff of Swarming Insects",
@@ -406,6 +406,7 @@
     "Mind Spike y Spirit Guardians vienen de Magical Discoveries y no cuentan entre tus 14 conjuros preparados: aún puedes preparar 2 conjuros más."
   ],
   "recordatorios": [
+    "Coraza de tiburón terrestre: si la llevas puesta NO puedes lanzar conjuros (no eres competente con ella). Quítatela antes de un combate donde vayas a usar magia.",
     "Solo una concentración a la vez: Spirit Guardians, Bane, Phantasmal Force, Phantasmal Killer, Polymorph, Witch Bolt, Shadow Blade y Fount of Moonlight se pisan entre sí.",
     "War Caster: ventaja en las salvaciones para mantener la concentración.",
     "Cutting Words no sirve contra salvaciones: solo ataques, pruebas de característica y daño.",
